@@ -1,0 +1,1902 @@
+[
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "08-15-2012",
+      "City": "Itmann",
+      "Country": "Azerbaijan",
+      "LastLogin": "04-09-2015",
+      "Latitude": -53.699544,
+      "Longitude": -68.295212,
+      "Name": "Stark",
+      "PaymentType": "Visa",
+      "Price": 3600,
+      "Product": "First Product",
+      "State": "Alaska",
+      "TransactionDate": "05-22-2015"
+    },
+    "_id": "2034695ID",
+    "eventType": "Visualizations",
+    "timestamp": "2015-02-08 19:19:08"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "06-08-2009",
+      "City": "Wilmington",
+      "Country": "Tunisia",
+      "LastLogin": "10-13-2015",
+      "Latitude": -82.230311,
+      "Longitude": 64.982175,
+      "Name": "Olsen",
+      "PaymentType": "Diners",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Missouri",
+      "TransactionDate": "10-15-2015"
+    },
+    "_id": "2721226ID",
+    "eventType": "Visualizations",
+    "timestamp": "2016-11-21 11:56:49"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "10-28-2014",
+      "City": "Fidelis",
+      "Country": "Bolivia",
+      "LastLogin": "05-20-2015",
+      "Latitude": -41.25079,
+      "Longitude": 93.431249,
+      "Name": "Chrystal",
+      "PaymentType": "Amex",
+      "Price": 1200,
+      "Product": "First Product",
+      "State": "New Mexico",
+      "TransactionDate": "01-26-2015"
+    },
+    "_id": "5126797ID",
+    "eventType": "Visualizations",
+    "timestamp": "2015-09-26 16:56:10"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "02-11-2010",
+      "City": "Tilden",
+      "Country": "Israel",
+      "LastLogin": "10-30-2015",
+      "Latitude": 14.358882,
+      "Longitude": 144.350595,
+      "Name": "Lela",
+      "PaymentType": "Mastercard",
+      "Price": 3600,
+      "Product": "First Product",
+      "State": "Kentucky",
+      "TransactionDate": "02-07-2015"
+    },
+    "_id": "4560127ID",
+    "eventType": "Visualizations",
+    "timestamp": "2016-12-02 16:34:53"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "11-09-2011",
+      "City": "Faywood",
+      "Country": "Northern Mariana Islands",
+      "LastLogin": "07-29-2015",
+      "Latitude": 86.818194,
+      "Longitude": 115.419691,
+      "Name": "Obrien",
+      "PaymentType": "Mastercard",
+      "Price": 3600,
+      "Product": "Second Product",
+      "State": "Montana",
+      "TransactionDate": "05-30-2015"
+    },
+    "_id": "1002483ID",
+    "eventType": "Visualizations",
+    "timestamp": "2018-01-07 08:05:49"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "08-20-2012",
+      "City": "Longoria",
+      "Country": "Belize",
+      "LastLogin": "11-23-2015",
+      "Latitude": 71.524893,
+      "Longitude": -130.872612,
+      "Name": "Rollins",
+      "PaymentType": "Amex",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Oklahoma",
+      "TransactionDate": "12-27-2015"
+    },
+    "_id": "2065176ID",
+    "eventType": "Visualizations",
+    "timestamp": "2014-02-10 11:16:17"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "09-01-2010",
+      "City": "Greer",
+      "Country": "Netherlands",
+      "LastLogin": "06-13-2015",
+      "Latitude": 14.955131,
+      "Longitude": 128.99315,
+      "Name": "Drake",
+      "PaymentType": "Diners",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Nebraska",
+      "TransactionDate": "10-30-2015"
+    },
+    "_id": "1624638ID",
+    "eventType": "Visualizations",
+    "timestamp": "2017-09-24 17:42:31"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "02-22-2010",
+      "City": "Toftrees",
+      "Country": "Maldives",
+      "LastLogin": "09-22-2015",
+      "Latitude": 65.317419,
+      "Longitude": -120.608713,
+      "Name": "Imogene",
+      "PaymentType": "Amex",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Ohio",
+      "TransactionDate": "04-23-2015"
+    },
+    "_id": "8637403ID",
+    "eventType": "Visualizations",
+    "timestamp": "2016-10-08 11:58:30"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "09-25-2011",
+      "City": "Downsville",
+      "Country": "Grenada",
+      "LastLogin": "10-23-2015",
+      "Latitude": -43.214444,
+      "Longitude": -169.234621,
+      "Name": "Tamara",
+      "PaymentType": "Amex",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Mississippi",
+      "TransactionDate": "01-22-2015"
+    },
+    "_id": "4217252ID",
+    "eventType": "Visualizations",
+    "timestamp": "2017-02-20 11:58:20"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "01-13-2012",
+      "City": "Washington",
+      "Country": "Djibouti",
+      "LastLogin": "03-27-2015",
+      "Latitude": -27.760373,
+      "Longitude": 158.776842,
+      "Name": "Claire",
+      "PaymentType": "Visa",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Minnesota",
+      "TransactionDate": "05-09-2015"
+    },
+    "_id": "3183711ID",
+    "eventType": "Visualizations",
+    "timestamp": "2014-01-06 17:44:19"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "07-17-2012",
+      "City": "Levant",
+      "Country": "St. Pierre and Miquelon",
+      "LastLogin": "09-11-2015",
+      "Latitude": 69.701295,
+      "Longitude": 37.529373,
+      "Name": "Franco",
+      "PaymentType": "Diners",
+      "Price": 3600,
+      "Product": "Second Product",
+      "State": "Utah",
+      "TransactionDate": "08-21-2015"
+    },
+    "_id": "4077543ID",
+    "eventType": "Visualizations",
+    "timestamp": "2017-05-08 19:48:28"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "05-17-2014",
+      "City": "Coloma",
+      "Country": "St. Helena",
+      "LastLogin": "01-09-2015",
+      "Latitude": 30.186423,
+      "Longitude": -23.567702,
+      "Name": "Morton",
+      "PaymentType": "Visa",
+      "Price": 1200,
+      "Product": "First Product",
+      "State": "Louisiana",
+      "TransactionDate": "09-09-2015"
+    },
+    "_id": "1813749ID",
+    "eventType": "Visualizations",
+    "timestamp": "2017-07-03 10:11:49"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "01-26-2009",
+      "City": "Katonah",
+      "Country": "Greece",
+      "LastLogin": "05-05-2015",
+      "Latitude": -54.344763,
+      "Longitude": 133.731803,
+      "Name": "Estelle",
+      "PaymentType": "Diners",
+      "Price": 1200,
+      "Product": "First Product",
+      "State": "Federated States Of Micronesia",
+      "TransactionDate": "11-28-2015"
+    },
+    "_id": "3666481ID",
+    "eventType": "Visualizations",
+    "timestamp": "2014-09-14 18:54:01"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "12-09-2011",
+      "City": "Cliffside",
+      "Country": "Bangladesh",
+      "LastLogin": "09-09-2015",
+      "Latitude": -39.628276,
+      "Longitude": 178.819444,
+      "Name": "Cassandra",
+      "PaymentType": "Diners",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "California",
+      "TransactionDate": "10-03-2015"
+    },
+    "_id": "2338372ID",
+    "eventType": "Visualizations",
+    "timestamp": "2014-03-16 13:11:53"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "12-31-2011",
+      "City": "Shasta",
+      "Country": "Mayotte",
+      "LastLogin": "03-06-2015",
+      "Latitude": -4.436371,
+      "Longitude": 20.497606,
+      "Name": "Shanna",
+      "PaymentType": "Amex",
+      "Price": 3600,
+      "Product": "Second Product",
+      "State": "Maryland",
+      "TransactionDate": "12-15-2015"
+    },
+    "_id": "1471077ID",
+    "eventType": "Visualizations",
+    "timestamp": "2014-03-18 01:00:29"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "04-03-2013",
+      "City": "Dunlo",
+      "Country": "Mozambique",
+      "LastLogin": "09-03-2015",
+      "Latitude": 23.728896,
+      "Longitude": 66.548465,
+      "Name": "Berg",
+      "PaymentType": "Visa",
+      "Price": 3600,
+      "Product": "Second Product",
+      "State": "Idaho",
+      "TransactionDate": "12-19-2015"
+    },
+    "_id": "4802713ID",
+    "eventType": "Visualizations",
+    "timestamp": "2018-04-14 15:05:42"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "07-08-2012",
+      "City": "Coyote",
+      "Country": "Brunei Darussalam",
+      "LastLogin": "05-20-2015",
+      "Latitude": 7.576714,
+      "Longitude": -56.543553,
+      "Name": "Lilian",
+      "PaymentType": "Visa",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "New Hampshire",
+      "TransactionDate": "09-20-2015"
+    },
+    "_id": "8224278ID",
+    "eventType": "Visualizations",
+    "timestamp": "2016-10-16 05:18:21"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "02-02-2013",
+      "City": "Riner",
+      "Country": "Bulgaria",
+      "LastLogin": "03-12-2015",
+      "Latitude": -80.255438,
+      "Longitude": -115.619043,
+      "Name": "Gay",
+      "PaymentType": "Visa",
+      "Price": 3600,
+      "Product": "Second Product",
+      "State": "Massachusetts",
+      "TransactionDate": "06-18-2015"
+    },
+    "_id": "6041828ID",
+    "eventType": "Visualizations",
+    "timestamp": "2018-10-21 04:44:27"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "09-08-2012",
+      "City": "Walland",
+      "Country": "Seychelles",
+      "LastLogin": "04-18-2015",
+      "Latitude": 68.336403,
+      "Longitude": 66.468659,
+      "Name": "Tracey",
+      "PaymentType": "Visa",
+      "Price": 3600,
+      "Product": "First Product",
+      "State": "Alabama",
+      "TransactionDate": "09-03-2015"
+    },
+    "_id": "3742051ID",
+    "eventType": "Visualizations",
+    "timestamp": "2016-04-19 04:03:42"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "02-06-2012",
+      "City": "Iberia",
+      "Country": "United Arab Emirates",
+      "LastLogin": "12-21-2015",
+      "Latitude": 67.314791,
+      "Longitude": 22.876956,
+      "Name": "Goodman",
+      "PaymentType": "Mastercard",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Illinois",
+      "TransactionDate": "09-16-2015"
+    },
+    "_id": "9594979ID",
+    "eventType": "Visualizations",
+    "timestamp": "2017-05-12 06:37:22"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "08-18-2014",
+      "City": "Eggertsville",
+      "Country": "Central African Republic",
+      "LastLogin": "07-22-2015",
+      "Latitude": 39.571805,
+      "Longitude": 14.752653,
+      "Name": "Mann",
+      "PaymentType": "Mastercard",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Washington",
+      "TransactionDate": "03-17-2015"
+    },
+    "_id": "5780577ID",
+    "eventType": "Visualizations",
+    "timestamp": "2017-03-25 09:57:31"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "10-15-2009",
+      "City": "Kersey",
+      "Country": "Turks and Caicos Islands",
+      "LastLogin": "09-14-2015",
+      "Latitude": -31.566709,
+      "Longitude": -74.844547,
+      "Name": "Loretta",
+      "PaymentType": "Diners",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Florida",
+      "TransactionDate": "07-27-2015"
+    },
+    "_id": "7342128ID",
+    "eventType": "Visualizations",
+    "timestamp": "2015-11-17 02:15:42"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "09-21-2009",
+      "City": "Lloyd",
+      "Country": "Bahamas",
+      "LastLogin": "04-06-2015",
+      "Latitude": 50.157794,
+      "Longitude": 43.388318,
+      "Name": "Gentry",
+      "PaymentType": "Diners",
+      "Price": 3600,
+      "Product": "Second Product",
+      "State": "Maine",
+      "TransactionDate": "03-19-2015"
+    },
+    "_id": "8425358ID",
+    "eventType": "Visualizations",
+    "timestamp": "2017-06-21 11:30:00"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "12-02-2009",
+      "City": "Hayden",
+      "Country": "Pakistan",
+      "LastLogin": "01-22-2015",
+      "Latitude": 0.573534,
+      "Longitude": 105.803673,
+      "Name": "Baldwin",
+      "PaymentType": "Diners",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "North Carolina",
+      "TransactionDate": "03-11-2015"
+    },
+    "_id": "7200888ID",
+    "eventType": "Visualizations",
+    "timestamp": "2015-02-10 11:49:51"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "11-19-2013",
+      "City": "Thornport",
+      "Country": "Mauritania",
+      "LastLogin": "06-04-2015",
+      "Latitude": -42.807628,
+      "Longitude": -10.217571,
+      "Name": "Luz",
+      "PaymentType": "Visa",
+      "Price": 1200,
+      "Product": "First Product",
+      "State": "Palau",
+      "TransactionDate": "03-29-2015"
+    },
+    "_id": "9709347ID",
+    "eventType": "Visualizations",
+    "timestamp": "2014-11-01 00:46:46"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "01-12-2012",
+      "City": "Brandermill",
+      "Country": "Lebanon",
+      "LastLogin": "04-25-2015",
+      "Latitude": -70.823735,
+      "Longitude": -136.783677,
+      "Name": "Dorothea",
+      "PaymentType": "Amex",
+      "Price": 1200,
+      "Product": "First Product",
+      "State": "Arizona",
+      "TransactionDate": "08-23-2015"
+    },
+    "_id": "3903263ID",
+    "eventType": "Visualizations",
+    "timestamp": "2018-12-19 16:04:11"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "11-01-2011",
+      "City": "Hardyville",
+      "Country": "Togo",
+      "LastLogin": "01-12-2015",
+      "Latitude": -26.350169,
+      "Longitude": -8.280638,
+      "Name": "Inez",
+      "PaymentType": "Visa",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Georgia",
+      "TransactionDate": "04-14-2015"
+    },
+    "_id": "4878448ID",
+    "eventType": "Visualizations",
+    "timestamp": "2015-08-29 00:02:46"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "05-22-2014",
+      "City": "Shawmut",
+      "Country": "Uganda",
+      "LastLogin": "12-31-2015",
+      "Latitude": 0.106571,
+      "Longitude": 83.877601,
+      "Name": "Walters",
+      "PaymentType": "Visa",
+      "Price": 3600,
+      "Product": "First Product",
+      "State": "West Virginia",
+      "TransactionDate": "02-21-2015"
+    },
+    "_id": "5583060ID",
+    "eventType": "Visualizations",
+    "timestamp": "2014-07-14 06:30:49"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "02-07-2014",
+      "City": "Elwood",
+      "Country": "Marshall Islands",
+      "LastLogin": "08-13-2015",
+      "Latitude": -13.88369,
+      "Longitude": -64.022929,
+      "Name": "Daniels",
+      "PaymentType": "Amex",
+      "Price": 3600,
+      "Product": "Second Product",
+      "State": "Oregon",
+      "TransactionDate": "07-23-2015"
+    },
+    "_id": "5328983ID",
+    "eventType": "Visualizations",
+    "timestamp": "2016-08-14 05:30:14"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "01-30-2012",
+      "City": "Dubois",
+      "Country": "Nauru",
+      "LastLogin": "05-06-2015",
+      "Latitude": -36.965742,
+      "Longitude": 172.25545,
+      "Name": "Lori",
+      "PaymentType": "Visa",
+      "Price": 3600,
+      "Product": "Second Product",
+      "State": "Arkansas",
+      "TransactionDate": "03-12-2015"
+    },
+    "_id": "6552879ID",
+    "eventType": "Visualizations",
+    "timestamp": "2018-05-16 09:13:32"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "03-11-2012",
+      "City": "Harleigh",
+      "Country": "Cayman Islands",
+      "LastLogin": "04-10-2015",
+      "Latitude": 68.289196,
+      "Longitude": 139.747222,
+      "Name": "Kristin",
+      "PaymentType": "Visa",
+      "Price": 3600,
+      "Product": "First Product",
+      "State": "Guam",
+      "TransactionDate": "11-12-2015"
+    },
+    "_id": "8504722ID",
+    "eventType": "Visualizations",
+    "timestamp": "2016-07-25 01:00:31"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "04-23-2014",
+      "City": "Neahkahnie",
+      "Country": "Paraguay",
+      "LastLogin": "12-15-2015",
+      "Latitude": -82.457627,
+      "Longitude": -158.163089,
+      "Name": "Carrie",
+      "PaymentType": "Diners",
+      "Price": 3600,
+      "Product": "First Product",
+      "State": "Marshall Islands",
+      "TransactionDate": "04-01-2015"
+    },
+    "_id": "3424614ID",
+    "eventType": "Visualizations",
+    "timestamp": "2016-03-06 13:45:31"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "10-21-2009",
+      "City": "Bainbridge",
+      "Country": "Poland",
+      "LastLogin": "07-26-2015",
+      "Latitude": -14.415225,
+      "Longitude": 178.626453,
+      "Name": "Vickie",
+      "PaymentType": "Diners",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Tennessee",
+      "TransactionDate": "06-14-2015"
+    },
+    "_id": "5476203ID",
+    "eventType": "Visualizations",
+    "timestamp": "2017-08-18 06:00:31"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "11-19-2010",
+      "City": "Alden",
+      "Country": "Afghanistan",
+      "LastLogin": "07-05-2015",
+      "Latitude": -86.566756,
+      "Longitude": -116.74872,
+      "Name": "Rosemarie",
+      "PaymentType": "Visa",
+      "Price": 1200,
+      "Product": "First Product",
+      "State": "Wyoming",
+      "TransactionDate": "06-22-2015"
+    },
+    "_id": "9740864ID",
+    "eventType": "Visualizations",
+    "timestamp": "2018-07-10 17:23:19"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "09-25-2010",
+      "City": "Wolcott",
+      "Country": "Nicaragua",
+      "LastLogin": "07-15-2015",
+      "Latitude": -34.490279,
+      "Longitude": 45.864289,
+      "Name": "Casey",
+      "PaymentType": "Diners",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Nevada",
+      "TransactionDate": "09-30-2015"
+    },
+    "_id": "7531129ID",
+    "eventType": "Visualizations",
+    "timestamp": "2019-01-01 05:00:58"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "05-09-2012",
+      "City": "Dixie",
+      "Country": "Gabon",
+      "LastLogin": "01-11-2015",
+      "Latitude": 75.459239,
+      "Longitude": -140.548529,
+      "Name": "Bailey",
+      "PaymentType": "Visa",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Indiana",
+      "TransactionDate": "11-08-2015"
+    },
+    "_id": "2673570ID",
+    "eventType": "Visualizations",
+    "timestamp": "2016-11-26 09:50:22"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "10-01-2009",
+      "City": "Bowmansville",
+      "Country": "Sweden",
+      "LastLogin": "05-28-2015",
+      "Latitude": 29.147068,
+      "Longitude": 178.423771,
+      "Name": "Cassie",
+      "PaymentType": "Visa",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Pennsylvania",
+      "TransactionDate": "10-31-2015"
+    },
+    "_id": "4093662ID",
+    "eventType": "Visualizations",
+    "timestamp": "2014-01-17 11:37:03"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "10-24-2014",
+      "City": "Delco",
+      "Country": "Faroe Islands",
+      "LastLogin": "09-09-2015",
+      "Latitude": 7.34324,
+      "Longitude": 27.09506,
+      "Name": "Mueller",
+      "PaymentType": "Mastercard",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Connecticut",
+      "TransactionDate": "12-18-2015"
+    },
+    "_id": "1494609ID",
+    "eventType": "Visualizations",
+    "timestamp": "2018-05-05 02:52:30"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "03-15-2010",
+      "City": "Matheny",
+      "Country": "Eritrea",
+      "LastLogin": "06-30-2015",
+      "Latitude": 24.373854,
+      "Longitude": -16.841498,
+      "Name": "Addie",
+      "PaymentType": "Mastercard",
+      "Price": 3600,
+      "Product": "First Product",
+      "State": "Puerto Rico",
+      "TransactionDate": "04-22-2015"
+    },
+    "_id": "2481728ID",
+    "eventType": "Visualizations",
+    "timestamp": "2015-12-23 02:25:31"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "03-11-2012",
+      "City": "Mooresburg",
+      "Country": "French Polynesia",
+      "LastLogin": "10-09-2015",
+      "Latitude": -43.342631,
+      "Longitude": -37.629167,
+      "Name": "Valentine",
+      "PaymentType": "Diners",
+      "Price": 3600,
+      "Product": "First Product",
+      "State": "Rhode Island",
+      "TransactionDate": "01-22-2015"
+    },
+    "_id": "5224915ID",
+    "eventType": "Visualizations",
+    "timestamp": "2014-11-12 11:09:29"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "06-23-2014",
+      "City": "Glasgow",
+      "Country": "Spain",
+      "LastLogin": "12-30-2015",
+      "Latitude": 9.272431,
+      "Longitude": 144.273001,
+      "Name": "Lee",
+      "PaymentType": "Mastercard",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Virgin Islands",
+      "TransactionDate": "12-22-2015"
+    },
+    "_id": "4971400ID",
+    "eventType": "Visualizations",
+    "timestamp": "2018-08-16 14:17:37"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "08-06-2013",
+      "City": "Westphalia",
+      "Country": "Papua New Guinea",
+      "LastLogin": "12-02-2015",
+      "Latitude": -50.919377,
+      "Longitude": 55.801335,
+      "Name": "Martinez",
+      "PaymentType": "Diners",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Virginia",
+      "TransactionDate": "12-14-2015"
+    },
+    "_id": "6040742ID",
+    "eventType": "Visualizations",
+    "timestamp": "2015-11-30 13:21:18"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "07-31-2011",
+      "City": "Idledale",
+      "Country": "Ethiopia",
+      "LastLogin": "09-05-2015",
+      "Latitude": 79.547007,
+      "Longitude": 45.560602,
+      "Name": "Sonia",
+      "PaymentType": "Diners",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "South Carolina",
+      "TransactionDate": "06-15-2015"
+    },
+    "_id": "6719682ID",
+    "eventType": "Visualizations",
+    "timestamp": "2015-01-22 13:59:10"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "06-05-2013",
+      "City": "Roulette",
+      "Country": "Bermuda",
+      "LastLogin": "07-27-2015",
+      "Latitude": -48.555643,
+      "Longitude": 136.580242,
+      "Name": "Sparks",
+      "PaymentType": "Amex",
+      "Price": 1200,
+      "Product": "First Product",
+      "State": "Delaware",
+      "TransactionDate": "10-16-2015"
+    },
+    "_id": "9455000ID",
+    "eventType": "Visualizations",
+    "timestamp": "2018-03-01 19:05:52"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "10-20-2011",
+      "City": "Santel",
+      "Country": "Egypt",
+      "LastLogin": "01-17-2015",
+      "Latitude": -38.412663,
+      "Longitude": -47.68817,
+      "Name": "Kerri",
+      "PaymentType": "Mastercard",
+      "Price": 3600,
+      "Product": "Second Product",
+      "State": "New York",
+      "TransactionDate": "07-17-2015"
+    },
+    "_id": "9874317ID",
+    "eventType": "Visualizations",
+    "timestamp": "2014-02-08 16:56:08"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "08-29-2010",
+      "City": "Saticoy",
+      "Country": "Andorra",
+      "LastLogin": "02-18-2015",
+      "Latitude": 22.216007,
+      "Longitude": -11.270051,
+      "Name": "Hinton",
+      "PaymentType": "Diners",
+      "Price": 3600,
+      "Product": "Second Product",
+      "State": "District Of Columbia",
+      "TransactionDate": "12-01-2015"
+    },
+    "_id": "5967522ID",
+    "eventType": "Visualizations",
+    "timestamp": "2016-02-05 21:13:53"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "03-14-2014",
+      "City": "Leola",
+      "Country": "Cuba",
+      "LastLogin": "11-04-2015",
+      "Latitude": -42.944157,
+      "Longitude": 107.162462,
+      "Name": "Rhea",
+      "PaymentType": "Diners",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Iowa",
+      "TransactionDate": "03-04-2015"
+    },
+    "_id": "6103529ID",
+    "eventType": "Visualizations",
+    "timestamp": "2016-09-10 15:23:23"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "11-11-2014",
+      "City": "Mulberry",
+      "Country": "Luxembourg",
+      "LastLogin": "12-15-2015",
+      "Latitude": 34.7439,
+      "Longitude": -123.36795,
+      "Name": "Byers",
+      "PaymentType": "Mastercard",
+      "Price": 3600,
+      "Product": "Second Product",
+      "State": "Kansas",
+      "TransactionDate": "02-28-2015"
+    },
+    "_id": "2127838ID",
+    "eventType": "Visualizations",
+    "timestamp": "2014-11-09 12:23:54"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "12-25-2012",
+      "City": "Haena",
+      "Country": "Anguilla",
+      "LastLogin": "12-12-2015",
+      "Latitude": 17.189822,
+      "Longitude": 95.968481,
+      "Name": "Gillespie",
+      "PaymentType": "Amex",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "American Samoa",
+      "TransactionDate": "09-08-2015"
+    },
+    "_id": "9044528ID",
+    "eventType": "Visualizations",
+    "timestamp": "2015-07-11 16:40:11"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "07-21-2014",
+      "City": "Makena",
+      "Country": "Guatemala",
+      "LastLogin": "10-26-2015",
+      "Latitude": 76.628755,
+      "Longitude": -126.796386,
+      "Name": "Brianna",
+      "PaymentType": "Visa",
+      "Price": 1200,
+      "Product": "First Product",
+      "State": "Colorado",
+      "TransactionDate": "10-26-2015"
+    },
+    "_id": "3056698ID",
+    "eventType": "Visualizations",
+    "timestamp": "2016-04-27 19:21:58"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "08-18-2011",
+      "City": "Monument",
+      "Country": "Netherlands Antilles",
+      "LastLogin": "11-03-2015",
+      "Latitude": 31.410621,
+      "Longitude": -4.350414,
+      "Name": "Bonner",
+      "PaymentType": "Diners",
+      "Price": 1200,
+      "Product": "First Product",
+      "State": "Texas",
+      "TransactionDate": "11-19-2015"
+    },
+    "_id": "5230009ID",
+    "eventType": "Visualizations",
+    "timestamp": "2016-12-10 16:30:09"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "01-23-2013",
+      "City": "Nutrioso",
+      "Country": "Germany",
+      "LastLogin": "08-02-2015",
+      "Latitude": -61.61504,
+      "Longitude": -30.269401,
+      "Name": "Holman",
+      "PaymentType": "Diners",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "South Dakota",
+      "TransactionDate": "07-16-2015"
+    },
+    "_id": "2538726ID",
+    "eventType": "Visualizations",
+    "timestamp": "2016-11-12 14:00:48"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "04-18-2009",
+      "City": "Gilmore",
+      "Country": "Georgia",
+      "LastLogin": "05-04-2015",
+      "Latitude": -45.998075,
+      "Longitude": -99.337336,
+      "Name": "Hartman",
+      "PaymentType": "Mastercard",
+      "Price": 3600,
+      "Product": "Second Product",
+      "State": "Northern Mariana Islands",
+      "TransactionDate": "09-04-2015"
+    },
+    "_id": "3855408ID",
+    "eventType": "Visualizations",
+    "timestamp": "2018-03-15 13:55:40"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "07-24-2011",
+      "City": "Roosevelt",
+      "Country": "Nepal",
+      "LastLogin": "09-10-2015",
+      "Latitude": -45.290926,
+      "Longitude": 26.981225,
+      "Name": "Mcintyre",
+      "PaymentType": "Amex",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Hawaii",
+      "TransactionDate": "02-08-2015"
+    },
+    "_id": "8949886ID",
+    "eventType": "Visualizations",
+    "timestamp": "2017-02-25 14:12:07"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "07-20-2014",
+      "City": "Datil",
+      "Country": "Pitcairn",
+      "LastLogin": "01-10-2015",
+      "Latitude": 0.779716,
+      "Longitude": 113.485094,
+      "Name": "Higgins",
+      "PaymentType": "Visa",
+      "Price": 3600,
+      "Product": "Second Product",
+      "State": "North Dakota",
+      "TransactionDate": "09-20-2015"
+    },
+    "_id": "6909472ID",
+    "eventType": "Visualizations",
+    "timestamp": "2018-08-29 14:14:17"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "07-15-2013",
+      "City": "Dola",
+      "Country": "Brazil",
+      "LastLogin": "08-20-2015",
+      "Latitude": -6.215256,
+      "Longitude": 29.541474,
+      "Name": "Tran",
+      "PaymentType": "Mastercard",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "New Jersey",
+      "TransactionDate": "03-24-2015"
+    },
+    "_id": "6330128ID",
+    "eventType": "Visualizations",
+    "timestamp": "2014-08-01 17:46:20"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "02-25-2014",
+      "City": "Tedrow",
+      "Country": "Viet Nam",
+      "LastLogin": "08-05-2015",
+      "Latitude": 59.559108,
+      "Longitude": -99.632372,
+      "Name": "Bobbie",
+      "PaymentType": "Mastercard",
+      "Price": 3600,
+      "Product": "Second Product",
+      "State": "Michigan",
+      "TransactionDate": "12-14-2015"
+    },
+    "_id": "7136734ID",
+    "eventType": "Visualizations",
+    "timestamp": "2017-10-11 17:59:58"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "06-07-2012",
+      "City": "Steinhatchee",
+      "Country": "Western Sahara",
+      "LastLogin": "06-24-2015",
+      "Latitude": -12.054159,
+      "Longitude": -96.91078,
+      "Name": "Young",
+      "PaymentType": "Visa",
+      "Price": 3600,
+      "Product": "Second Product",
+      "State": "Vermont",
+      "TransactionDate": "08-23-2015"
+    },
+    "_id": "6751364ID",
+    "eventType": "Visualizations",
+    "timestamp": "2018-01-14 21:25:45"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "05-23-2010",
+      "City": "Kerby",
+      "Country": "Cyprus",
+      "LastLogin": "03-26-2015",
+      "Latitude": -89.422576,
+      "Longitude": 84.045389,
+      "Name": "Golden",
+      "PaymentType": "Mastercard",
+      "Price": 1200,
+      "Product": "First Product",
+      "State": "Alaska",
+      "TransactionDate": "12-21-2015"
+    },
+    "_id": "7058470ID",
+    "eventType": "Visualizations",
+    "timestamp": "2016-03-22 11:33:14"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "06-11-2014",
+      "City": "Williston",
+      "Country": "Virgin Islands (US)",
+      "LastLogin": "07-24-2015",
+      "Latitude": -17.626448,
+      "Longitude": 92.699682,
+      "Name": "Marshall",
+      "PaymentType": "Diners",
+      "Price": 1200,
+      "Product": "First Product",
+      "State": "Missouri",
+      "TransactionDate": "02-23-2015"
+    },
+    "_id": "1287690ID",
+    "eventType": "Visualizations",
+    "timestamp": "2014-02-19 07:13:47"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "12-07-2010",
+      "City": "Alderpoint",
+      "Country": "Antarctica",
+      "LastLogin": "03-27-2015",
+      "Latitude": 53.40316,
+      "Longitude": -34.835991,
+      "Name": "Patsy",
+      "PaymentType": "Diners",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "New Mexico",
+      "TransactionDate": "03-14-2015"
+    },
+    "_id": "8185771ID",
+    "eventType": "Visualizations",
+    "timestamp": "2016-11-21 12:55:25"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "05-19-2012",
+      "City": "Townsend",
+      "Country": "Philippines",
+      "LastLogin": "05-24-2015",
+      "Latitude": 28.865812,
+      "Longitude": 133.607744,
+      "Name": "Victoria",
+      "PaymentType": "Amex",
+      "Price": 3600,
+      "Product": "First Product",
+      "State": "Kentucky",
+      "TransactionDate": "06-07-2015"
+    },
+    "_id": "2008195ID",
+    "eventType": "Visualizations",
+    "timestamp": "2017-05-04 16:58:21"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "11-03-2014",
+      "City": "Draper",
+      "Country": "Denmark",
+      "LastLogin": "07-12-2015",
+      "Latitude": -15.32273,
+      "Longitude": 26.470849,
+      "Name": "Osborne",
+      "PaymentType": "Visa",
+      "Price": 1200,
+      "Product": "First Product",
+      "State": "Montana",
+      "TransactionDate": "01-15-2015"
+    },
+    "_id": "6597429ID",
+    "eventType": "Visualizations",
+    "timestamp": "2016-07-20 16:18:49"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "05-31-2013",
+      "City": "Gilgo",
+      "Country": "Ukraine",
+      "LastLogin": "01-01-2015",
+      "Latitude": 54.902833,
+      "Longitude": 150.048014,
+      "Name": "Santana",
+      "PaymentType": "Amex",
+      "Price": 3600,
+      "Product": "First Product",
+      "State": "Oklahoma",
+      "TransactionDate": "11-24-2015"
+    },
+    "_id": "4928144ID",
+    "eventType": "Visualizations",
+    "timestamp": "2018-10-28 13:23:14"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "06-20-2014",
+      "City": "Allensworth",
+      "Country": "Guadeloupe",
+      "LastLogin": "08-17-2015",
+      "Latitude": -33.884883,
+      "Longitude": -110.64881,
+      "Name": "Vasquez",
+      "PaymentType": "Diners",
+      "Price": 1200,
+      "Product": "First Product",
+      "State": "Nebraska",
+      "TransactionDate": "10-12-2015"
+    },
+    "_id": "3030282ID",
+    "eventType": "Visualizations",
+    "timestamp": "2014-03-18 06:18:48"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "07-17-2011",
+      "City": "Elliott",
+      "Country": "Indonesia",
+      "LastLogin": "01-05-2015",
+      "Latitude": 22.560485,
+      "Longitude": -65.66799,
+      "Name": "Ida",
+      "PaymentType": "Visa",
+      "Price": 3600,
+      "Product": "First Product",
+      "State": "Ohio",
+      "TransactionDate": "12-19-2015"
+    },
+    "_id": "7570514ID",
+    "eventType": "Visualizations",
+    "timestamp": "2018-01-21 13:55:39"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "12-07-2013",
+      "City": "Harrison",
+      "Country": "Australia",
+      "LastLogin": "03-09-2015",
+      "Latitude": 73.16103,
+      "Longitude": 26.579246,
+      "Name": "Nicole",
+      "PaymentType": "Mastercard",
+      "Price": 3600,
+      "Product": "First Product",
+      "State": "Mississippi",
+      "TransactionDate": "12-24-2015"
+    },
+    "_id": "2525624ID",
+    "eventType": "Visualizations",
+    "timestamp": "2017-09-10 16:44:36"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "07-16-2012",
+      "City": "Bluetown",
+      "Country": "Svalbard and Jan Mayen Islands",
+      "LastLogin": "10-25-2015",
+      "Latitude": 53.231733,
+      "Longitude": -92.657141,
+      "Name": "Curtis",
+      "PaymentType": "Visa",
+      "Price": 3600,
+      "Product": "First Product",
+      "State": "Minnesota",
+      "TransactionDate": "07-17-2015"
+    },
+    "_id": "1632240ID",
+    "eventType": "Visualizations",
+    "timestamp": "2015-08-14 21:27:14"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "08-20-2009",
+      "City": "Grenelefe",
+      "Country": "Austria",
+      "LastLogin": "11-13-2015",
+      "Latitude": -64.179729,
+      "Longitude": -95.097881,
+      "Name": "Lena",
+      "PaymentType": "Diners",
+      "Price": 3600,
+      "Product": "Second Product",
+      "State": "Utah",
+      "TransactionDate": "06-03-2015"
+    },
+    "_id": "4621141ID",
+    "eventType": "Visualizations",
+    "timestamp": "2014-08-29 16:33:01"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "08-30-2011",
+      "City": "Nash",
+      "Country": "Haiti",
+      "LastLogin": "09-30-2015",
+      "Latitude": 19.043197,
+      "Longitude": -89.747341,
+      "Name": "Foreman",
+      "PaymentType": "Visa",
+      "Price": 1200,
+      "Product": "First Product",
+      "State": "Louisiana",
+      "TransactionDate": "07-17-2015"
+    },
+    "_id": "1950986ID",
+    "eventType": "Visualizations",
+    "timestamp": "2015-04-21 17:04:14"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "11-07-2013",
+      "City": "Sperryville",
+      "Country": "Morocco",
+      "LastLogin": "09-20-2015",
+      "Latitude": -11.721896,
+      "Longitude": -151.971013,
+      "Name": "Kara",
+      "PaymentType": "Diners",
+      "Price": 1200,
+      "Product": "First Product",
+      "State": "Federated States Of Micronesia",
+      "TransactionDate": "03-24-2015"
+    },
+    "_id": "4570288ID",
+    "eventType": "Visualizations",
+    "timestamp": "2018-02-08 10:50:03"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "11-08-2014",
+      "City": "Tolu",
+      "Country": "Venezuela",
+      "LastLogin": "09-01-2015",
+      "Latitude": -73.142076,
+      "Longitude": 96.528346,
+      "Name": "Teresa",
+      "PaymentType": "Amex",
+      "Price": 3600,
+      "Product": "First Product",
+      "State": "California",
+      "TransactionDate": "12-03-2015"
+    },
+    "_id": "6954148ID",
+    "eventType": "Visualizations",
+    "timestamp": "2017-02-05 07:24:19"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "12-31-2013",
+      "City": "Inkerman",
+      "Country": "Heard and McDonald Islands",
+      "LastLogin": "02-15-2015",
+      "Latitude": 78.81367,
+      "Longitude": -129.972091,
+      "Name": "Potts",
+      "PaymentType": "Visa",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Maryland",
+      "TransactionDate": "06-09-2015"
+    },
+    "_id": "2373201ID",
+    "eventType": "Visualizations",
+    "timestamp": "2018-12-17 17:02:19"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "05-22-2009",
+      "City": "Beyerville",
+      "Country": "Guinea",
+      "LastLogin": "09-02-2015",
+      "Latitude": -64.6017,
+      "Longitude": -79.287182,
+      "Name": "Florine",
+      "PaymentType": "Visa",
+      "Price": 3600,
+      "Product": "Second Product",
+      "State": "Idaho",
+      "TransactionDate": "01-04-2015"
+    },
+    "_id": "5443610ID",
+    "eventType": "Visualizations",
+    "timestamp": "2014-10-11 23:46:01"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "10-20-2010",
+      "City": "Deltaville",
+      "Country": "Martinique",
+      "LastLogin": "02-05-2015",
+      "Latitude": -83.264237,
+      "Longitude": -76.236906,
+      "Name": "Dawn",
+      "PaymentType": "Visa",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "New Hampshire",
+      "TransactionDate": "12-18-2015"
+    },
+    "_id": "6284351ID",
+    "eventType": "Visualizations",
+    "timestamp": "2014-11-08 22:22:53"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "04-25-2010",
+      "City": "Statenville",
+      "Country": "Niger",
+      "LastLogin": "09-08-2015",
+      "Latitude": 61.99075,
+      "Longitude": 57.476729,
+      "Name": "Mason",
+      "PaymentType": "Visa",
+      "Price": 3600,
+      "Product": "Second Product",
+      "State": "Massachusetts",
+      "TransactionDate": "11-27-2015"
+    },
+    "_id": "9060208ID",
+    "eventType": "Visualizations",
+    "timestamp": "2017-12-09 13:04:38"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "10-19-2014",
+      "City": "Hasty",
+      "Country": "Saint Lucia",
+      "LastLogin": "09-16-2015",
+      "Latitude": 22.257984,
+      "Longitude": -42.421985,
+      "Name": "Gaines",
+      "PaymentType": "Mastercard",
+      "Price": 3600,
+      "Product": "Second Product",
+      "State": "Alabama",
+      "TransactionDate": "02-12-2015"
+    },
+    "_id": "3393211ID",
+    "eventType": "Visualizations",
+    "timestamp": "2014-11-28 21:02:03"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "03-30-2013",
+      "City": "Como",
+      "Country": "Hong Kong",
+      "LastLogin": "10-07-2015",
+      "Latitude": 40.51427,
+      "Longitude": -25.59209,
+      "Name": "Manuela",
+      "PaymentType": "Diners",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Illinois",
+      "TransactionDate": "11-04-2015"
+    },
+    "_id": "2749829ID",
+    "eventType": "Visualizations",
+    "timestamp": "2016-04-20 10:05:40"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "01-10-2013",
+      "City": "Hachita",
+      "Country": "Iceland",
+      "LastLogin": "05-28-2015",
+      "Latitude": 75.455436,
+      "Longitude": -139.521667,
+      "Name": "Mckee",
+      "PaymentType": "Diners",
+      "Price": 3600,
+      "Product": "First Product",
+      "State": "Washington",
+      "TransactionDate": "11-08-2015"
+    },
+    "_id": "2602213ID",
+    "eventType": "Visualizations",
+    "timestamp": "2015-01-30 20:50:07"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "06-30-2012",
+      "City": "Mahtowa",
+      "Country": "French Southern Territories",
+      "LastLogin": "03-20-2015",
+      "Latitude": 86.964906,
+      "Longitude": 128.289546,
+      "Name": "Mattie",
+      "PaymentType": "Diners",
+      "Price": 3600,
+      "Product": "Second Product",
+      "State": "Florida",
+      "TransactionDate": "06-30-2015"
+    },
+    "_id": "7473244ID",
+    "eventType": "Visualizations",
+    "timestamp": "2014-10-04 13:59:17"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "09-24-2010",
+      "City": "Bannock",
+      "Country": "Montserrat",
+      "LastLogin": "11-03-2015",
+      "Latitude": 0.955963,
+      "Longitude": -62.235875,
+      "Name": "Joanna",
+      "PaymentType": "Diners",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Maine",
+      "TransactionDate": "03-19-2015"
+    },
+    "_id": "9552192ID",
+    "eventType": "Visualizations",
+    "timestamp": "2017-10-08 16:31:03"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "11-22-2011",
+      "City": "Waiohinu",
+      "Country": "Lesotho",
+      "LastLogin": "01-18-2015",
+      "Latitude": -22.075266,
+      "Longitude": -84.36551,
+      "Name": "Dianne",
+      "PaymentType": "Diners",
+      "Price": 3600,
+      "Product": "First Product",
+      "State": "North Carolina",
+      "TransactionDate": "06-24-2015"
+    },
+    "_id": "9475129ID",
+    "eventType": "Visualizations",
+    "timestamp": "2015-07-28 06:40:51"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "11-18-2011",
+      "City": "Catharine",
+      "Country": "Sri Lanka",
+      "LastLogin": "11-22-2015",
+      "Latitude": -33.100996,
+      "Longitude": -0.743732,
+      "Name": "Pitts",
+      "PaymentType": "Amex",
+      "Price": 3600,
+      "Product": "First Product",
+      "State": "Palau",
+      "TransactionDate": "07-09-2015"
+    },
+    "_id": "6617583ID",
+    "eventType": "Visualizations",
+    "timestamp": "2017-06-12 09:27:20"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "07-06-2012",
+      "City": "Catherine",
+      "Country": "Congo",
+      "LastLogin": "08-20-2015",
+      "Latitude": -59.36664,
+      "Longitude": 148.233178,
+      "Name": "Wilkinson",
+      "PaymentType": "Visa",
+      "Price": 3600,
+      "Product": "First Product",
+      "State": "Arizona",
+      "TransactionDate": "12-24-2015"
+    },
+    "_id": "8946953ID",
+    "eventType": "Visualizations",
+    "timestamp": "2015-08-15 08:04:42"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "12-15-2013",
+      "City": "Gasquet",
+      "Country": "New Caledonia",
+      "LastLogin": "03-08-2015",
+      "Latitude": -77.40819,
+      "Longitude": 112.972538,
+      "Name": "Roxanne",
+      "PaymentType": "Amex",
+      "Price": 3600,
+      "Product": "Second Product",
+      "State": "Georgia",
+      "TransactionDate": "05-24-2015"
+    },
+    "_id": "9482566ID",
+    "eventType": "Visualizations",
+    "timestamp": "2016-01-01 14:25:07"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "04-19-2014",
+      "City": "Graball",
+      "Country": "Finland",
+      "LastLogin": "08-09-2015",
+      "Latitude": -75.312945,
+      "Longitude": -80.938307,
+      "Name": "Katie",
+      "PaymentType": "Visa",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "West Virginia",
+      "TransactionDate": "12-06-2015"
+    },
+    "_id": "9108092ID",
+    "eventType": "Visualizations",
+    "timestamp": "2016-02-03 11:46:08"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "04-11-2009",
+      "City": "Floris",
+      "Country": "Panama",
+      "LastLogin": "02-09-2015",
+      "Latitude": 21.737578,
+      "Longitude": -17.313812,
+      "Name": "Christy",
+      "PaymentType": "Mastercard",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Oregon",
+      "TransactionDate": "08-18-2015"
+    },
+    "_id": "2000849ID",
+    "eventType": "Visualizations",
+    "timestamp": "2016-06-02 18:53:29"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "09-28-2014",
+      "City": "Coaldale",
+      "Country": "Macedonia",
+      "LastLogin": "03-29-2015",
+      "Latitude": 32.010864,
+      "Longitude": -113.951967,
+      "Name": "Montoya",
+      "PaymentType": "Amex",
+      "Price": 3600,
+      "Product": "First Product",
+      "State": "Arkansas",
+      "TransactionDate": "11-16-2015"
+    },
+    "_id": "6617083ID",
+    "eventType": "Visualizations",
+    "timestamp": "2018-12-22 08:37:03"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "11-29-2010",
+      "City": "Wildwood",
+      "Country": "American Samoa",
+      "LastLogin": "01-11-2015",
+      "Latitude": 43.318597,
+      "Longitude": -36.827294,
+      "Name": "Glover",
+      "PaymentType": "Diners",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Guam",
+      "TransactionDate": "02-01-2015"
+    },
+    "_id": "8781639ID",
+    "eventType": "Visualizations",
+    "timestamp": "2014-02-04 06:11:38"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "03-21-2010",
+      "City": "Barstow",
+      "Country": "United Kingdom",
+      "LastLogin": "09-27-2015",
+      "Latitude": 17.469937,
+      "Longitude": 121.752374,
+      "Name": "Rutledge",
+      "PaymentType": "Visa",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Marshall Islands",
+      "TransactionDate": "02-19-2015"
+    },
+    "_id": "6571859ID",
+    "eventType": "Visualizations",
+    "timestamp": "2014-10-11 22:53:06"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "03-30-2014",
+      "City": "Smock",
+      "Country": "United States",
+      "LastLogin": "10-10-2015",
+      "Latitude": 83.9493,
+      "Longitude": 11.522415,
+      "Name": "Hamilton",
+      "PaymentType": "Visa",
+      "Price": 1200,
+      "Product": "First Product",
+      "State": "Tennessee",
+      "TransactionDate": "02-28-2015"
+    },
+    "_id": "5014637ID",
+    "eventType": "Visualizations",
+    "timestamp": "2016-12-02 14:51:09"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "05-09-2013",
+      "City": "Kirk",
+      "Country": "Equatorial Guinea",
+      "LastLogin": "08-30-2015",
+      "Latitude": -27.051832,
+      "Longitude": -53.628403,
+      "Name": "Waller",
+      "PaymentType": "Mastercard",
+      "Price": 3600,
+      "Product": "Second Product",
+      "State": "Wyoming",
+      "TransactionDate": "02-04-2015"
+    },
+    "_id": "7990683ID",
+    "eventType": "Visualizations",
+    "timestamp": "2018-02-28 20:44:09"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "02-18-2011",
+      "City": "Chical",
+      "Country": "Antigua and Barbuda",
+      "LastLogin": "06-06-2015",
+      "Latitude": -21.960805,
+      "Longitude": -105.69336,
+      "Name": "Stefanie",
+      "PaymentType": "Visa",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Nevada",
+      "TransactionDate": "03-13-2015"
+    },
+    "_id": "7917257ID",
+    "eventType": "Visualizations",
+    "timestamp": "2016-03-12 07:00:56"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "09-03-2014",
+      "City": "Durham",
+      "Country": "Ireland",
+      "LastLogin": "05-22-2015",
+      "Latitude": 87.850766,
+      "Longitude": -101.883232,
+      "Name": "Tracie",
+      "PaymentType": "Diners",
+      "Price": 3600,
+      "Product": "First Product",
+      "State": "Indiana",
+      "TransactionDate": "10-20-2015"
+    },
+    "_id": "1628350ID",
+    "eventType": "Visualizations",
+    "timestamp": "2016-04-19 08:13:15"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "12-14-2010",
+      "City": "Boomer",
+      "Country": "Ghana",
+      "LastLogin": "11-10-2015",
+      "Latitude": 58.59119,
+      "Longitude": -142.222565,
+      "Name": "Mindy",
+      "PaymentType": "Visa",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Pennsylvania",
+      "TransactionDate": "05-13-2015"
+    },
+    "_id": "5562279ID",
+    "eventType": "Visualizations",
+    "timestamp": "2015-03-04 11:59:03"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "03-29-2010",
+      "City": "Yukon",
+      "Country": "Bahrain",
+      "LastLogin": "05-16-2015",
+      "Latitude": -55.71147,
+      "Longitude": -59.932728,
+      "Name": "Jewel",
+      "PaymentType": "Diners",
+      "Price": 1200,
+      "Product": "First Product",
+      "State": "Connecticut",
+      "TransactionDate": "07-16-2015"
+    },
+    "_id": "1675639ID",
+    "eventType": "Visualizations",
+    "timestamp": "2016-10-11 13:58:54"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "09-16-2011",
+      "City": "Hanover",
+      "Country": "Bouvet Island",
+      "LastLogin": "12-13-2015",
+      "Latitude": -23.821539,
+      "Longitude": 53.031951,
+      "Name": "Mcpherson",
+      "PaymentType": "Diners",
+      "Price": 1200,
+      "Product": "Second Product",
+      "State": "Puerto Rico",
+      "TransactionDate": "01-01-2015"
+    },
+    "_id": "3310496ID",
+    "eventType": "Visualizations",
+    "timestamp": "2016-05-30 18:35:37"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "11-29-2009",
+      "City": "Laurelton",
+      "Country": "Belgium",
+      "LastLogin": "10-06-2015",
+      "Latitude": 16.667728,
+      "Longitude": 101.694887,
+      "Name": "Finch",
+      "PaymentType": "Mastercard",
+      "Price": 1200,
+      "Product": "First Product",
+      "State": "Rhode Island",
+      "TransactionDate": "07-22-2015"
+    },
+    "_id": "9782412ID",
+    "eventType": "Visualizations",
+    "timestamp": "2015-10-27 04:56:57"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "06-03-2009",
+      "City": "Celeryville",
+      "Country": "Myanmar",
+      "LastLogin": "10-12-2015",
+      "Latitude": -60.481733,
+      "Longitude": 81.426216,
+      "Name": "Davidson",
+      "PaymentType": "Diners",
+      "Price": 3600,
+      "Product": "Second Product",
+      "State": "Virgin Islands",
+      "TransactionDate": "03-14-2015"
+    },
+    "_id": "2019173ID",
+    "eventType": "Visualizations",
+    "timestamp": "2017-08-26 03:17:42"
+  },
+  {
+    "_acpmlexploratoryexternal": {
+      "AccountCreated": "12-15-2011",
+      "City": "Winston",
+      "Country": "Zaire",
+      "LastLogin": "03-08-2015",
+      "Latitude": -50.227382,
+      "Longitude": -2.991182,
+      "Name": "Miranda",
+      "PaymentType": "Visa",
+      "Price": 3600,
+      "Product": "First Product",
+      "State": "Virginia",
+      "TransactionDate": "06-04-2015"
+    },
+    "_id": "9153786ID",
+    "eventType": "Visualizations",
+    "timestamp": "2015-01-20 08:44:42"
+  }
+]
