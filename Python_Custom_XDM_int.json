@@ -1,0 +1,1502 @@
+[
+  {
+    "_int_acpmltestexternal": {
+      "company": "Genesynk",
+      "fiveYearProfit": 2593773581898245600,
+      "founded": "15002",
+      "global": false,
+      "lastQuarterProfit": 19380,
+      "monthlyExpenses": 65841.49,
+      "workHourBalance": 77,
+      "yearlyProfit": 3200409111
+    },
+    "_id": "5439797ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2018-12-12 08:05:46"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Vidto",
+      "fiveYearProfit": 9190528356369459000,
+      "founded": "15610",
+      "global": true,
+      "lastQuarterProfit": 25747,
+      "monthlyExpenses": 65062.9,
+      "workHourBalance": 62,
+      "yearlyProfit": 62635445
+    },
+    "_id": "3103681ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-12-27 23:10:24"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Euron",
+      "fiveYearProfit": 2677562183359514000,
+      "founded": "15067",
+      "global": false,
+      "lastQuarterProfit": 29543,
+      "monthlyExpenses": 95157.53,
+      "workHourBalance": 106,
+      "yearlyProfit": 669057272
+    },
+    "_id": "7588242ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2017-12-03 21:24:54"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Nimon",
+      "fiveYearProfit": 7731376354106191000,
+      "founded": "15538",
+      "global": true,
+      "lastQuarterProfit": 36463,
+      "monthlyExpenses": 97084.65,
+      "workHourBalance": 5,
+      "yearlyProfit": 3004845937
+    },
+    "_id": "1385279ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2018-06-28 05:40:33"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Delphide",
+      "fiveYearProfit": 7531546964065569000,
+      "founded": "15008",
+      "global": true,
+      "lastQuarterProfit": 16963,
+      "monthlyExpenses": 40450,
+      "workHourBalance": 79,
+      "yearlyProfit": 2743591530
+    },
+    "_id": "5762794ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-05-07 02:11:26"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Slax",
+      "fiveYearProfit": 5019345906227915000,
+      "founded": "15538",
+      "global": false,
+      "lastQuarterProfit": 27193,
+      "monthlyExpenses": 77852.65,
+      "workHourBalance": 32,
+      "yearlyProfit": 4176339753
+    },
+    "_id": "4938137ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2014-01-26 05:31:00"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Earthpure",
+      "fiveYearProfit": 6857859522620571000,
+      "founded": "15008",
+      "global": true,
+      "lastQuarterProfit": 32016,
+      "monthlyExpenses": 47846.74,
+      "workHourBalance": 102,
+      "yearlyProfit": 5053981069
+    },
+    "_id": "2165511ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2018-10-01 03:15:38"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Norsup",
+      "fiveYearProfit": 4493595638111724500,
+      "founded": "15002",
+      "global": false,
+      "lastQuarterProfit": 38250,
+      "monthlyExpenses": 64943.29,
+      "workHourBalance": 16,
+      "yearlyProfit": 1572574678
+    },
+    "_id": "8947955ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2016-07-26 16:31:55"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Surelogic",
+      "fiveYearProfit": 5097694378168267000,
+      "founded": "15538",
+      "global": false,
+      "lastQuarterProfit": 18053,
+      "monthlyExpenses": 96113.2,
+      "workHourBalance": 5,
+      "yearlyProfit": 5774247334
+    },
+    "_id": "2031220ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2018-02-17 01:53:07"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Zinca",
+      "fiveYearProfit": 4088139148631608300,
+      "founded": "16722",
+      "global": true,
+      "lastQuarterProfit": 31473,
+      "monthlyExpenses": 49549.27,
+      "workHourBalance": 113,
+      "yearlyProfit": 510256718
+    },
+    "_id": "4616256ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-03-19 23:20:45"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Iplax",
+      "fiveYearProfit": 4301561434018587600,
+      "founded": "16722",
+      "global": true,
+      "lastQuarterProfit": 36022,
+      "monthlyExpenses": 58099.95,
+      "workHourBalance": 20,
+      "yearlyProfit": 2652147444
+    },
+    "_id": "5770178ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2017-01-28 17:17:13"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Fibrodyne",
+      "fiveYearProfit": 7623757005050715000,
+      "founded": "16722",
+      "global": false,
+      "lastQuarterProfit": 10748,
+      "monthlyExpenses": 70320.49,
+      "workHourBalance": 4,
+      "yearlyProfit": 5088493618
+    },
+    "_id": "1082547ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-10-14 23:54:45"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Combogene",
+      "fiveYearProfit": 6200521298677201000,
+      "founded": "15538",
+      "global": false,
+      "lastQuarterProfit": 15236,
+      "monthlyExpenses": 26330.51,
+      "workHourBalance": 35,
+      "yearlyProfit": 4230368250
+    },
+    "_id": "3935008ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2016-06-11 13:20:38"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Eclipsent",
+      "fiveYearProfit": 9040511876284012000,
+      "founded": "15610",
+      "global": false,
+      "lastQuarterProfit": 16715,
+      "monthlyExpenses": 49855.66,
+      "workHourBalance": 24,
+      "yearlyProfit": 2306567779
+    },
+    "_id": "8300461ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2018-02-02 09:43:32"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Bitendrex",
+      "fiveYearProfit": 5799093675344374000,
+      "founded": "15002",
+      "global": true,
+      "lastQuarterProfit": 20660,
+      "monthlyExpenses": 16428.25,
+      "workHourBalance": 81,
+      "yearlyProfit": 3905174484
+    },
+    "_id": "8563122ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-09-19 22:25:29"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Cubix",
+      "fiveYearProfit": 5826967239081389000,
+      "founded": "15610",
+      "global": false,
+      "lastQuarterProfit": 31069,
+      "monthlyExpenses": 80433.87,
+      "workHourBalance": 101,
+      "yearlyProfit": 659399624
+    },
+    "_id": "1793766ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-11-26 14:19:34"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Bluplanet",
+      "fiveYearProfit": 7427948834508942000,
+      "founded": "15067",
+      "global": true,
+      "lastQuarterProfit": 31321,
+      "monthlyExpenses": 26430.99,
+      "workHourBalance": 83,
+      "yearlyProfit": 792353802
+    },
+    "_id": "3074408ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2014-09-14 04:30:51"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Indexia",
+      "fiveYearProfit": 6982054254550204000,
+      "founded": "15312",
+      "global": true,
+      "lastQuarterProfit": 35784,
+      "monthlyExpenses": 53689.68,
+      "workHourBalance": 110,
+      "yearlyProfit": 282362438
+    },
+    "_id": "4849622ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-03-03 15:36:43"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Harmoney",
+      "fiveYearProfit": 5711531769650551000,
+      "founded": "15002",
+      "global": false,
+      "lastQuarterProfit": 36014,
+      "monthlyExpenses": 91502.63,
+      "workHourBalance": 95,
+      "yearlyProfit": 5508213057
+    },
+    "_id": "5013656ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-07-03 00:30:52"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Zounds",
+      "fiveYearProfit": 7334182324963935000,
+      "founded": "15002",
+      "global": false,
+      "lastQuarterProfit": 31792,
+      "monthlyExpenses": 19956.03,
+      "workHourBalance": 86,
+      "yearlyProfit": 6411313719
+    },
+    "_id": "9192272ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2016-04-20 20:53:26"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Uberlux",
+      "fiveYearProfit": 6626883581059954000,
+      "founded": "16549",
+      "global": true,
+      "lastQuarterProfit": 25255,
+      "monthlyExpenses": 57195.49,
+      "workHourBalance": 120,
+      "yearlyProfit": 5309443148
+    },
+    "_id": "2203764ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2017-03-26 05:48:36"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Emtrac",
+      "fiveYearProfit": 9982355380764295000,
+      "founded": "16722",
+      "global": false,
+      "lastQuarterProfit": 19434,
+      "monthlyExpenses": 34426.93,
+      "workHourBalance": 63,
+      "yearlyProfit": 365279089
+    },
+    "_id": "1686641ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2017-06-13 01:24:06"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Obliq",
+      "fiveYearProfit": 2000682553878608100,
+      "founded": "15610",
+      "global": true,
+      "lastQuarterProfit": 24153,
+      "monthlyExpenses": 46517.27,
+      "workHourBalance": 34,
+      "yearlyProfit": 4290424486
+    },
+    "_id": "7147286ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2014-02-27 20:01:36"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Earthplex",
+      "fiveYearProfit": 7183754014203608000,
+      "founded": "15312",
+      "global": true,
+      "lastQuarterProfit": 29445,
+      "monthlyExpenses": 41832.79,
+      "workHourBalance": 100,
+      "yearlyProfit": 6685007399
+    },
+    "_id": "8627587ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2018-05-26 21:11:43"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Omatom",
+      "fiveYearProfit": 6442636023508228000,
+      "founded": "15067",
+      "global": false,
+      "lastQuarterProfit": 35330,
+      "monthlyExpenses": 40910.73,
+      "workHourBalance": 53,
+      "yearlyProfit": 1182072640
+    },
+    "_id": "9213176ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2016-03-13 03:06:10"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Repetwire",
+      "fiveYearProfit": 7148884909275493000,
+      "founded": "15312",
+      "global": false,
+      "lastQuarterProfit": 31383,
+      "monthlyExpenses": 57352.89,
+      "workHourBalance": 10,
+      "yearlyProfit": 4335116515
+    },
+    "_id": "1813212ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2014-03-07 07:48:58"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Cablam",
+      "fiveYearProfit": 4477967563857946600,
+      "founded": "15538",
+      "global": true,
+      "lastQuarterProfit": 17084,
+      "monthlyExpenses": 55695.61,
+      "workHourBalance": 18,
+      "yearlyProfit": 3058688003
+    },
+    "_id": "4543504ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-06-06 20:53:06"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Exospeed",
+      "fiveYearProfit": 6427119902314047000,
+      "founded": "15067",
+      "global": false,
+      "lastQuarterProfit": 22143,
+      "monthlyExpenses": 58294.89,
+      "workHourBalance": 62,
+      "yearlyProfit": 1241425030
+    },
+    "_id": "8735561ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2017-01-02 03:55:37"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Savvy",
+      "fiveYearProfit": 4776094511441345000,
+      "founded": "16722",
+      "global": false,
+      "lastQuarterProfit": 25772,
+      "monthlyExpenses": 27593.88,
+      "workHourBalance": 80,
+      "yearlyProfit": 51396673
+    },
+    "_id": "3663851ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-01-22 02:49:42"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Steelfab",
+      "fiveYearProfit": 9233238809815736000,
+      "founded": "15067",
+      "global": false,
+      "lastQuarterProfit": 27940,
+      "monthlyExpenses": 38033.42,
+      "workHourBalance": 31,
+      "yearlyProfit": 6686544300
+    },
+    "_id": "1889091ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-03-20 16:30:07"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Geekology",
+      "fiveYearProfit": 7127934008327433000,
+      "founded": "15002",
+      "global": true,
+      "lastQuarterProfit": 37667,
+      "monthlyExpenses": 68522.15,
+      "workHourBalance": 16,
+      "yearlyProfit": 3517751605
+    },
+    "_id": "9032455ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2018-05-26 15:40:40"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Elita",
+      "fiveYearProfit": 8920458722935463000,
+      "founded": "16549",
+      "global": true,
+      "lastQuarterProfit": 14426,
+      "monthlyExpenses": 26107.06,
+      "workHourBalance": 79,
+      "yearlyProfit": 1173821173
+    },
+    "_id": "6060280ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2019-01-18 16:42:45"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Songbird",
+      "fiveYearProfit": 7558474352215587000,
+      "founded": "16549",
+      "global": true,
+      "lastQuarterProfit": 30465,
+      "monthlyExpenses": 52878.15,
+      "workHourBalance": 112,
+      "yearlyProfit": 378865426
+    },
+    "_id": "1897214ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2019-01-26 14:51:51"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Zentix",
+      "fiveYearProfit": 5189499422781518000,
+      "founded": "16549",
+      "global": false,
+      "lastQuarterProfit": 31300,
+      "monthlyExpenses": 17934.95,
+      "workHourBalance": 29,
+      "yearlyProfit": 6957197539
+    },
+    "_id": "7482051ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2017-06-22 11:38:18"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Viagreat",
+      "fiveYearProfit": 5110279547260256000,
+      "founded": "15067",
+      "global": true,
+      "lastQuarterProfit": 15868,
+      "monthlyExpenses": 33935.15,
+      "workHourBalance": 34,
+      "yearlyProfit": 5485333785
+    },
+    "_id": "6479637ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-02-25 08:50:11"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Isosure",
+      "fiveYearProfit": 9841389023847346000,
+      "founded": "15610",
+      "global": false,
+      "lastQuarterProfit": 27588,
+      "monthlyExpenses": 69572.57,
+      "workHourBalance": 104,
+      "yearlyProfit": 1355811845
+    },
+    "_id": "6065494ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2016-04-24 20:23:49"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Exospace",
+      "fiveYearProfit": 8356172758858454000,
+      "founded": "15002",
+      "global": false,
+      "lastQuarterProfit": 37562,
+      "monthlyExpenses": 10814.03,
+      "workHourBalance": 82,
+      "yearlyProfit": 3264323149
+    },
+    "_id": "4794576ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-06-23 01:45:41"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Letpro",
+      "fiveYearProfit": 3078002983976469500,
+      "founded": "15312",
+      "global": true,
+      "lastQuarterProfit": 19405,
+      "monthlyExpenses": 28304.7,
+      "workHourBalance": 54,
+      "yearlyProfit": 1808708813
+    },
+    "_id": "4993646ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2014-01-03 03:12:57"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Andershun",
+      "fiveYearProfit": 6371739365941946000,
+      "founded": "16722",
+      "global": false,
+      "lastQuarterProfit": 27101,
+      "monthlyExpenses": 24490.04,
+      "workHourBalance": 40,
+      "yearlyProfit": 2008238662
+    },
+    "_id": "6996463ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2016-04-17 06:51:55"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Avit",
+      "fiveYearProfit": 5431254066014343000,
+      "founded": "15610",
+      "global": true,
+      "lastQuarterProfit": 10659,
+      "monthlyExpenses": 71951.04,
+      "workHourBalance": 11,
+      "yearlyProfit": 3011658916
+    },
+    "_id": "2069436ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2014-01-15 03:41:01"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Medcom",
+      "fiveYearProfit": 9027207372415320000,
+      "founded": "15610",
+      "global": true,
+      "lastQuarterProfit": 11013,
+      "monthlyExpenses": 14941.92,
+      "workHourBalance": 93,
+      "yearlyProfit": 523394196
+    },
+    "_id": "9915248ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2018-06-19 15:51:51"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Extro",
+      "fiveYearProfit": 8287097824968141000,
+      "founded": "15312",
+      "global": false,
+      "lastQuarterProfit": 29149,
+      "monthlyExpenses": 25977.36,
+      "workHourBalance": 73,
+      "yearlyProfit": 3344913104
+    },
+    "_id": "5080094ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2014-07-29 05:44:08"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Podunk",
+      "fiveYearProfit": 9851626950587722000,
+      "founded": "15610",
+      "global": true,
+      "lastQuarterProfit": 24406,
+      "monthlyExpenses": 18258.93,
+      "workHourBalance": 105,
+      "yearlyProfit": 5190754855
+    },
+    "_id": "6014735ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2017-11-25 00:10:20"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Zosis",
+      "fiveYearProfit": 3427147004738371000,
+      "founded": "16722",
+      "global": false,
+      "lastQuarterProfit": 31280,
+      "monthlyExpenses": 34266.06,
+      "workHourBalance": 3,
+      "yearlyProfit": 950769628
+    },
+    "_id": "2184829ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-07-26 06:33:12"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Scentric",
+      "fiveYearProfit": 4881214346357043000,
+      "founded": "15312",
+      "global": false,
+      "lastQuarterProfit": 33297,
+      "monthlyExpenses": 38562.25,
+      "workHourBalance": 41,
+      "yearlyProfit": 6063667747
+    },
+    "_id": "3053846ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2018-10-11 16:40:29"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Miraclis",
+      "fiveYearProfit": 4645666630958678000,
+      "founded": "16722",
+      "global": false,
+      "lastQuarterProfit": 34781,
+      "monthlyExpenses": 54370.2,
+      "workHourBalance": 43,
+      "yearlyProfit": 3597403016
+    },
+    "_id": "3103064ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2019-01-17 08:15:55"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Comtour",
+      "fiveYearProfit": 5014708193058724000,
+      "founded": "16722",
+      "global": true,
+      "lastQuarterProfit": 25844,
+      "monthlyExpenses": 74431.43,
+      "workHourBalance": 113,
+      "yearlyProfit": 4880143641
+    },
+    "_id": "3515152ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-10-22 04:04:26"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Panzent",
+      "fiveYearProfit": 2340472324075893000,
+      "founded": "15008",
+      "global": false,
+      "lastQuarterProfit": 29593,
+      "monthlyExpenses": 89846.95,
+      "workHourBalance": 34,
+      "yearlyProfit": 4133243799
+    },
+    "_id": "8977143ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2014-02-14 08:40:00"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Rodeocean",
+      "fiveYearProfit": 4887496692524569000,
+      "founded": "15312",
+      "global": true,
+      "lastQuarterProfit": 14860,
+      "monthlyExpenses": 51102.02,
+      "workHourBalance": 32,
+      "yearlyProfit": 4733118978
+    },
+    "_id": "6351763ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-05-18 21:25:43"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Inrt",
+      "fiveYearProfit": 7015916328504534000,
+      "founded": "16549",
+      "global": false,
+      "lastQuarterProfit": 23021,
+      "monthlyExpenses": 81650.97,
+      "workHourBalance": 43,
+      "yearlyProfit": 2414778025
+    },
+    "_id": "2994943ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2017-01-26 05:15:05"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Toyletry",
+      "fiveYearProfit": 6544436671445303000,
+      "founded": "16722",
+      "global": true,
+      "lastQuarterProfit": 38052,
+      "monthlyExpenses": 90515.88,
+      "workHourBalance": 72,
+      "yearlyProfit": 508685874
+    },
+    "_id": "7215104ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-01-18 00:40:39"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Endipine",
+      "fiveYearProfit": 5335709482849770000,
+      "founded": "16722",
+      "global": true,
+      "lastQuarterProfit": 34675,
+      "monthlyExpenses": 65323.01,
+      "workHourBalance": 33,
+      "yearlyProfit": 4983475686
+    },
+    "_id": "6150593ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2019-02-17 03:29:30"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Ecosys",
+      "fiveYearProfit": 6974734285978482000,
+      "founded": "16549",
+      "global": true,
+      "lastQuarterProfit": 33633,
+      "monthlyExpenses": 26505.19,
+      "workHourBalance": 77,
+      "yearlyProfit": 6825688852
+    },
+    "_id": "8282135ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2018-11-09 01:05:22"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Waab",
+      "fiveYearProfit": 6008346220094463000,
+      "founded": "15610",
+      "global": false,
+      "lastQuarterProfit": 37558,
+      "monthlyExpenses": 57392.86,
+      "workHourBalance": 86,
+      "yearlyProfit": 2154221611
+    },
+    "_id": "2723137ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2018-07-20 20:12:27"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Optique",
+      "fiveYearProfit": 9391361261973076000,
+      "founded": "15312",
+      "global": true,
+      "lastQuarterProfit": 11682,
+      "monthlyExpenses": 93170.45,
+      "workHourBalance": 112,
+      "yearlyProfit": 3382305122
+    },
+    "_id": "8608201ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2016-06-08 10:22:39"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Bulljuice",
+      "fiveYearProfit": 8391006081203938000,
+      "founded": "16722",
+      "global": true,
+      "lastQuarterProfit": 38491,
+      "monthlyExpenses": 41729.83,
+      "workHourBalance": 84,
+      "yearlyProfit": 5178214004
+    },
+    "_id": "4810121ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2017-11-29 23:50:56"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Applidec",
+      "fiveYearProfit": 5111866665742875000,
+      "founded": "15008",
+      "global": false,
+      "lastQuarterProfit": 21109,
+      "monthlyExpenses": 11104.08,
+      "workHourBalance": 48,
+      "yearlyProfit": 6700726338
+    },
+    "_id": "3200547ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-02-11 11:33:24"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Mobildata",
+      "fiveYearProfit": 5619501564229935000,
+      "founded": "16722",
+      "global": true,
+      "lastQuarterProfit": 33982,
+      "monthlyExpenses": 98194.54,
+      "workHourBalance": 27,
+      "yearlyProfit": 4623206803
+    },
+    "_id": "7892154ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-02-03 14:39:12"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Jetsilk",
+      "fiveYearProfit": 2040124840566006500,
+      "founded": "15002",
+      "global": false,
+      "lastQuarterProfit": 36270,
+      "monthlyExpenses": 96773.89,
+      "workHourBalance": 100,
+      "yearlyProfit": 1602868785
+    },
+    "_id": "1760824ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2017-07-29 12:54:51"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Perkle",
+      "fiveYearProfit": 2558251053859605000,
+      "founded": "16722",
+      "global": false,
+      "lastQuarterProfit": 29437,
+      "monthlyExpenses": 94142.04,
+      "workHourBalance": 43,
+      "yearlyProfit": 6312180113
+    },
+    "_id": "7540984ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2014-10-03 09:52:22"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Norali",
+      "fiveYearProfit": 2099193205958322000,
+      "founded": "15312",
+      "global": true,
+      "lastQuarterProfit": 17038,
+      "monthlyExpenses": 80744.04,
+      "workHourBalance": 43,
+      "yearlyProfit": 4265614900
+    },
+    "_id": "4616812ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-07-31 07:13:14"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Synkgen",
+      "fiveYearProfit": 4294407261614738400,
+      "founded": "15312",
+      "global": true,
+      "lastQuarterProfit": 38919,
+      "monthlyExpenses": 31615.46,
+      "workHourBalance": 108,
+      "yearlyProfit": 1446774968
+    },
+    "_id": "5273259ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2017-08-30 04:14:23"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Comverges",
+      "fiveYearProfit": 6924455735567525000,
+      "founded": "15002",
+      "global": true,
+      "lastQuarterProfit": 18283,
+      "monthlyExpenses": 98266.37,
+      "workHourBalance": 44,
+      "yearlyProfit": 6379101075
+    },
+    "_id": "9968536ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2014-10-27 15:34:31"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Gonkle",
+      "fiveYearProfit": 4304871146908770300,
+      "founded": "15008",
+      "global": false,
+      "lastQuarterProfit": 14442,
+      "monthlyExpenses": 51073.52,
+      "workHourBalance": 64,
+      "yearlyProfit": 1433930761
+    },
+    "_id": "4516967ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-11-24 14:51:38"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Ziore",
+      "fiveYearProfit": 5751079825379325000,
+      "founded": "15008",
+      "global": false,
+      "lastQuarterProfit": 38419,
+      "monthlyExpenses": 45692.85,
+      "workHourBalance": 14,
+      "yearlyProfit": 5988037212
+    },
+    "_id": "9358415ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2018-09-10 08:00:55"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Bezal",
+      "fiveYearProfit": 8508302568055884000,
+      "founded": "16722",
+      "global": false,
+      "lastQuarterProfit": 18387,
+      "monthlyExpenses": 74572.74,
+      "workHourBalance": 38,
+      "yearlyProfit": 1483779644
+    },
+    "_id": "8770184ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-10-13 17:58:02"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Frolix",
+      "fiveYearProfit": 8428559561548516000,
+      "founded": "15538",
+      "global": true,
+      "lastQuarterProfit": 30786,
+      "monthlyExpenses": 92712.99,
+      "workHourBalance": 46,
+      "yearlyProfit": 5745745393
+    },
+    "_id": "5389879ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2017-10-17 08:31:50"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Pathways",
+      "fiveYearProfit": 2166599092482846000,
+      "founded": "15008",
+      "global": false,
+      "lastQuarterProfit": 21188,
+      "monthlyExpenses": 58112.97,
+      "workHourBalance": 21,
+      "yearlyProfit": 944618518
+    },
+    "_id": "8349789ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2014-03-09 08:20:32"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Telepark",
+      "fiveYearProfit": 2111739972594536400,
+      "founded": "15008",
+      "global": false,
+      "lastQuarterProfit": 28130,
+      "monthlyExpenses": 82287.83,
+      "workHourBalance": 77,
+      "yearlyProfit": 1016586440
+    },
+    "_id": "9943070ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2018-11-08 23:12:16"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Printspan",
+      "fiveYearProfit": 3447921016088509400,
+      "founded": "15610",
+      "global": false,
+      "lastQuarterProfit": 10089,
+      "monthlyExpenses": 69494.11,
+      "workHourBalance": 100,
+      "yearlyProfit": 1291169081
+    },
+    "_id": "6201905ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2018-07-12 03:04:44"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Imageflow",
+      "fiveYearProfit": 2901791889254262300,
+      "founded": "16549",
+      "global": false,
+      "lastQuarterProfit": 11564,
+      "monthlyExpenses": 26031.98,
+      "workHourBalance": 31,
+      "yearlyProfit": 1022140215
+    },
+    "_id": "7117278ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2019-01-27 01:16:41"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Eventex",
+      "fiveYearProfit": 5585396918637924000,
+      "founded": "16722",
+      "global": true,
+      "lastQuarterProfit": 36618,
+      "monthlyExpenses": 35459.19,
+      "workHourBalance": 35,
+      "yearlyProfit": 1272874444
+    },
+    "_id": "7019214ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2019-03-24 18:23:21"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Ezent",
+      "fiveYearProfit": 5402137979924037000,
+      "founded": "15008",
+      "global": true,
+      "lastQuarterProfit": 18230,
+      "monthlyExpenses": 52299.85,
+      "workHourBalance": 29,
+      "yearlyProfit": 6760292125
+    },
+    "_id": "8077230ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2014-08-06 04:22:02"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Autograte",
+      "fiveYearProfit": 7954291743919064000,
+      "founded": "15312",
+      "global": false,
+      "lastQuarterProfit": 13238,
+      "monthlyExpenses": 47153.1,
+      "workHourBalance": 102,
+      "yearlyProfit": 1310182931
+    },
+    "_id": "1412618ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2017-10-08 02:28:54"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Kage",
+      "fiveYearProfit": 3388815471260429300,
+      "founded": "15538",
+      "global": true,
+      "lastQuarterProfit": 33273,
+      "monthlyExpenses": 32232.32,
+      "workHourBalance": 34,
+      "yearlyProfit": 5414281392
+    },
+    "_id": "8695493ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2016-05-10 06:21:52"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Bunga",
+      "fiveYearProfit": 3567173575222167000,
+      "founded": "15002",
+      "global": true,
+      "lastQuarterProfit": 25032,
+      "monthlyExpenses": 40919.15,
+      "workHourBalance": 39,
+      "yearlyProfit": 358432265
+    },
+    "_id": "8957312ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2014-01-29 12:07:44"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Viagrand",
+      "fiveYearProfit": 6429617331063280000,
+      "founded": "15067",
+      "global": false,
+      "lastQuarterProfit": 10326,
+      "monthlyExpenses": 31391.36,
+      "workHourBalance": 101,
+      "yearlyProfit": 56893200
+    },
+    "_id": "7599323ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2014-03-23 03:42:52"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Steeltab",
+      "fiveYearProfit": 9252208087863183000,
+      "founded": "15538",
+      "global": true,
+      "lastQuarterProfit": 10931,
+      "monthlyExpenses": 82846.57,
+      "workHourBalance": 73,
+      "yearlyProfit": 603048157
+    },
+    "_id": "9085182ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2014-05-28 10:42:35"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Quarx",
+      "fiveYearProfit": 8122429092945949000,
+      "founded": "15008",
+      "global": true,
+      "lastQuarterProfit": 30600,
+      "monthlyExpenses": 72948.4,
+      "workHourBalance": 105,
+      "yearlyProfit": 3957340532
+    },
+    "_id": "6635268ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2017-06-08 10:45:28"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Gluid",
+      "fiveYearProfit": 4395690237814884400,
+      "founded": "15002",
+      "global": true,
+      "lastQuarterProfit": 13848,
+      "monthlyExpenses": 40946.48,
+      "workHourBalance": 76,
+      "yearlyProfit": 4813161296
+    },
+    "_id": "5707212ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2017-11-17 20:50:31"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Balooba",
+      "fiveYearProfit": 5641319551995933000,
+      "founded": "16549",
+      "global": false,
+      "lastQuarterProfit": 21199,
+      "monthlyExpenses": 35957.24,
+      "workHourBalance": 50,
+      "yearlyProfit": 4896593770
+    },
+    "_id": "2659660ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-01-05 09:35:21"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Combogen",
+      "fiveYearProfit": 7316153250307716000,
+      "founded": "16549",
+      "global": false,
+      "lastQuarterProfit": 16069,
+      "monthlyExpenses": 71984.82,
+      "workHourBalance": 106,
+      "yearlyProfit": 2889796454
+    },
+    "_id": "3750122ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2018-12-23 21:37:07"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Snacktion",
+      "fiveYearProfit": 3355491201269379000,
+      "founded": "15002",
+      "global": true,
+      "lastQuarterProfit": 35574,
+      "monthlyExpenses": 27830.58,
+      "workHourBalance": 90,
+      "yearlyProfit": 2088306648
+    },
+    "_id": "5387208ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2017-09-29 10:30:10"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Xelegyl",
+      "fiveYearProfit": 3694754595062340600,
+      "founded": "15008",
+      "global": true,
+      "lastQuarterProfit": 10035,
+      "monthlyExpenses": 44928.23,
+      "workHourBalance": 101,
+      "yearlyProfit": 2589201329
+    },
+    "_id": "9933125ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2016-05-23 23:08:16"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Strozen",
+      "fiveYearProfit": 9826765504582062000,
+      "founded": "15008",
+      "global": true,
+      "lastQuarterProfit": 14433,
+      "monthlyExpenses": 30325.38,
+      "workHourBalance": 2,
+      "yearlyProfit": 1351371133
+    },
+    "_id": "8572741ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2017-10-06 19:19:34"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Liquidoc",
+      "fiveYearProfit": 9101446632908350000,
+      "founded": "15067",
+      "global": true,
+      "lastQuarterProfit": 31775,
+      "monthlyExpenses": 75329.15,
+      "workHourBalance": 35,
+      "yearlyProfit": 1676997345
+    },
+    "_id": "3010179ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-02-07 15:17:40"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Musanpoly",
+      "fiveYearProfit": 2096653994614309000,
+      "founded": "15610",
+      "global": false,
+      "lastQuarterProfit": 35824,
+      "monthlyExpenses": 45545.64,
+      "workHourBalance": 59,
+      "yearlyProfit": 2494604285
+    },
+    "_id": "8758397ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-09-19 00:27:53"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Trasola",
+      "fiveYearProfit": 9702650518344830000,
+      "founded": "15002",
+      "global": false,
+      "lastQuarterProfit": 17603,
+      "monthlyExpenses": 42757.23,
+      "workHourBalance": 83,
+      "yearlyProfit": 6028328095
+    },
+    "_id": "1172401ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2016-03-24 20:19:58"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Mondicil",
+      "fiveYearProfit": 8151883763514049000,
+      "founded": "15538",
+      "global": false,
+      "lastQuarterProfit": 18346,
+      "monthlyExpenses": 38233.22,
+      "workHourBalance": 18,
+      "yearlyProfit": 6454845845
+    },
+    "_id": "3682078ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2017-05-29 08:19:33"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Cujo",
+      "fiveYearProfit": 3709860677937323000,
+      "founded": "16722",
+      "global": true,
+      "lastQuarterProfit": 16298,
+      "monthlyExpenses": 34689.65,
+      "workHourBalance": 85,
+      "yearlyProfit": 2699278877
+    },
+    "_id": "5484314ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2017-05-02 09:51:10"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Klugger",
+      "fiveYearProfit": 9497990790027411000,
+      "founded": "15008",
+      "global": false,
+      "lastQuarterProfit": 25754,
+      "monthlyExpenses": 85916.49,
+      "workHourBalance": 57,
+      "yearlyProfit": 1463540138
+    },
+    "_id": "4914107ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2018-10-30 08:52:14"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Zomboid",
+      "fiveYearProfit": 2286160047189122600,
+      "founded": "15610",
+      "global": true,
+      "lastQuarterProfit": 38735,
+      "monthlyExpenses": 31265.98,
+      "workHourBalance": 99,
+      "yearlyProfit": 4417902417
+    },
+    "_id": "3768263ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2017-01-02 03:37:01"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Zerology",
+      "fiveYearProfit": 7386531301508937000,
+      "founded": "15067",
+      "global": true,
+      "lastQuarterProfit": 14819,
+      "monthlyExpenses": 26454.22,
+      "workHourBalance": 81,
+      "yearlyProfit": 5610069322
+    },
+    "_id": "9915251ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-01-04 09:09:26"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Hivedom",
+      "fiveYearProfit": 5864782060092399000,
+      "founded": "15610",
+      "global": true,
+      "lastQuarterProfit": 10861,
+      "monthlyExpenses": 93943.54,
+      "workHourBalance": 90,
+      "yearlyProfit": 2521244709
+    },
+    "_id": "1862570ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-09-24 01:58:29"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Veraq",
+      "fiveYearProfit": 5062467732465078000,
+      "founded": "15008",
+      "global": true,
+      "lastQuarterProfit": 14020,
+      "monthlyExpenses": 27818.19,
+      "workHourBalance": 56,
+      "yearlyProfit": 3323652507
+    },
+    "_id": "2569498ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2017-08-12 05:16:38"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Sulfax",
+      "fiveYearProfit": 9766270139221443000,
+      "founded": "15610",
+      "global": false,
+      "lastQuarterProfit": 27505,
+      "monthlyExpenses": 47608.93,
+      "workHourBalance": 76,
+      "yearlyProfit": 4357110171
+    },
+    "_id": "7398142ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2016-04-22 06:40:27"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Suremax",
+      "fiveYearProfit": 5528329529754257000,
+      "founded": "16722",
+      "global": false,
+      "lastQuarterProfit": 37373,
+      "monthlyExpenses": 40157.36,
+      "workHourBalance": 97,
+      "yearlyProfit": 6997401360
+    },
+    "_id": "2242485ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-06-19 04:55:40"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Zytrex",
+      "fiveYearProfit": 7614715421516067000,
+      "founded": "15538",
+      "global": true,
+      "lastQuarterProfit": 26128,
+      "monthlyExpenses": 10494.67,
+      "workHourBalance": 20,
+      "yearlyProfit": 3778847748
+    },
+    "_id": "4662807ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2018-09-21 02:18:19"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Zork",
+      "fiveYearProfit": 3831283275937329000,
+      "founded": "15538",
+      "global": false,
+      "lastQuarterProfit": 32516,
+      "monthlyExpenses": 44692.8,
+      "workHourBalance": 80,
+      "yearlyProfit": 2598598684
+    },
+    "_id": "3907053ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-03-08 11:04:15"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "company": "Typhonica",
+      "fiveYearProfit": 6450482264757156000,
+      "founded": "15002",
+      "global": true,
+      "lastQuarterProfit": 31932,
+      "monthlyExpenses": 28592.74,
+      "workHourBalance": 106,
+      "yearlyProfit": 315441917
+    },
+    "_id": "6977699ID",
+    "eventType": "Custom XDM",
+    "timestamp": "2015-04-12 20:03:49"
+  }
+]
