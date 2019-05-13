@@ -1,0 +1,4102 @@
+[
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "7766ID",
+          "adUnitType": "1056 Type",
+          "promotedAssetId": "4745ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "4183ID",
+          "advertiserId": "8765ID",
+          "campaignId": "6323ID",
+          "currency": "EUR",
+          "experimentId": "9824ID",
+          "packageId": "5060ID",
+          "placementId": "2221ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "3328ID",
+            "attributableSegmentId": "9436ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "EUR",
+          "feedId": "4529ID",
+          "inventorySourceId": "8776ID",
+          "sessionId": "8207ID",
+          "siteId": "6488ID",
+          "attributablePartnerId": "4347ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "8355ID"
+      }
+    },
+    "_id": "4564361ID",
+    "eventType": "Experience Event",
+    "timestamp": "2018-06-13 19:56:31"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "5037ID",
+          "adUnitType": "8509 Type",
+          "promotedAssetId": "3456ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "1473ID",
+          "advertiserId": "7529ID",
+          "campaignId": "9765ID",
+          "currency": "GBP",
+          "experimentId": "3278ID",
+          "packageId": "5220ID",
+          "placementId": "8643ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "4750ID",
+            "attributableSegmentId": "4232ID",
+            "segments": "segment B"
+          },
+          "costCurrency": "USD",
+          "feedId": "6314ID",
+          "inventorySourceId": "7497ID",
+          "sessionId": "4702ID",
+          "siteId": "5584ID",
+          "attributablePartnerId": "4345ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "5638ID"
+      }
+    },
+    "_id": "5860811ID",
+    "eventType": "Experience Event",
+    "timestamp": "2014-12-10 07:04:56"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "8829ID",
+          "adUnitType": "2184 Type",
+          "promotedAssetId": "1503ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "1300ID",
+          "advertiserId": "1641ID",
+          "campaignId": "3191ID",
+          "currency": "EUR",
+          "experimentId": "2466ID",
+          "packageId": "8925ID",
+          "placementId": "9557ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "1577ID",
+            "attributableSegmentId": "3223ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "EUR",
+          "feedId": "7575ID",
+          "inventorySourceId": "3251ID",
+          "sessionId": "1044ID",
+          "siteId": "6796ID",
+          "attributablePartnerId": "2478ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "6632ID"
+      }
+    },
+    "_id": "9362107ID",
+    "eventType": "Experience Event",
+    "timestamp": "2015-09-04 10:03:17"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "6291ID",
+          "adUnitType": "5480 Type",
+          "promotedAssetId": "9207ID",
+          "runtime": "runtime B"
+        },
+        "campaign": {
+          "accountId": "1621ID",
+          "advertiserId": "7705ID",
+          "campaignId": "1549ID",
+          "currency": "USD",
+          "experimentId": "6022ID",
+          "packageId": "2615ID",
+          "placementId": "9625ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "7431ID",
+            "attributableSegmentId": "7975ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "USD",
+          "feedId": "6849ID",
+          "inventorySourceId": "3946ID",
+          "sessionId": "4914ID",
+          "siteId": "5675ID",
+          "attributablePartnerId": "6770ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "9644ID"
+      }
+    },
+    "_id": "4834584ID",
+    "eventType": "Experience Event",
+    "timestamp": "2016-06-25 09:04:08"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "1564ID",
+          "adUnitType": "8499 Type",
+          "promotedAssetId": "5524ID",
+          "runtime": "runtime B"
+        },
+        "campaign": {
+          "accountId": "4150ID",
+          "advertiserId": "1239ID",
+          "campaignId": "2379ID",
+          "currency": "EUR",
+          "experimentId": "6681ID",
+          "packageId": "3470ID",
+          "placementId": "2719ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "4673ID",
+            "attributableSegmentId": "2636ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "USD",
+          "feedId": "4776ID",
+          "inventorySourceId": "5501ID",
+          "sessionId": "6111ID",
+          "siteId": "2327ID",
+          "attributablePartnerId": "8042ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "3722ID"
+      }
+    },
+    "_id": "6414366ID",
+    "eventType": "Experience Event",
+    "timestamp": "2014-07-02 11:10:42"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "6647ID",
+          "adUnitType": "8722 Type",
+          "promotedAssetId": "4661ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "6503ID",
+          "advertiserId": "6904ID",
+          "campaignId": "2541ID",
+          "currency": "EUR",
+          "experimentId": "1311ID",
+          "packageId": "8298ID",
+          "placementId": "1439ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "9108ID",
+            "attributableSegmentId": "5490ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "GBP",
+          "feedId": "8075ID",
+          "inventorySourceId": "9015ID",
+          "sessionId": "2840ID",
+          "siteId": "6903ID",
+          "attributablePartnerId": "9776ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "7251ID"
+      }
+    },
+    "_id": "2557908ID",
+    "eventType": "Experience Event",
+    "timestamp": "2017-01-01 01:14:05"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "1436ID",
+          "adUnitType": "2021 Type",
+          "promotedAssetId": "1983ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "5831ID",
+          "advertiserId": "1000ID",
+          "campaignId": "4011ID",
+          "currency": "USD",
+          "experimentId": "6117ID",
+          "packageId": "8363ID",
+          "placementId": "3895ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "4623ID",
+            "attributableSegmentId": "3711ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "USD",
+          "feedId": "7580ID",
+          "inventorySourceId": "9953ID",
+          "sessionId": "5723ID",
+          "siteId": "7535ID",
+          "attributablePartnerId": "9587ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "5950ID"
+      }
+    },
+    "_id": "9488975ID",
+    "eventType": "Experience Event",
+    "timestamp": "2015-02-18 05:28:35"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "7406ID",
+          "adUnitType": "7766 Type",
+          "promotedAssetId": "3879ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "9444ID",
+          "advertiserId": "3768ID",
+          "campaignId": "3399ID",
+          "currency": "EUR",
+          "experimentId": "9119ID",
+          "packageId": "7376ID",
+          "placementId": "6268ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "7115ID",
+            "attributableSegmentId": "3121ID",
+            "segments": "segment B"
+          },
+          "costCurrency": "USD",
+          "feedId": "8649ID",
+          "inventorySourceId": "2986ID",
+          "sessionId": "7974ID",
+          "siteId": "1948ID",
+          "attributablePartnerId": "3331ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "4994ID"
+      }
+    },
+    "_id": "5584418ID",
+    "eventType": "Experience Event",
+    "timestamp": "2017-08-17 01:05:58"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "7433ID",
+          "adUnitType": "1157 Type",
+          "promotedAssetId": "6192ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "7374ID",
+          "advertiserId": "2282ID",
+          "campaignId": "4830ID",
+          "currency": "GBP",
+          "experimentId": "3332ID",
+          "packageId": "1028ID",
+          "placementId": "7531ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "3344ID",
+            "attributableSegmentId": "3990ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "EUR",
+          "feedId": "7603ID",
+          "inventorySourceId": "9934ID",
+          "sessionId": "9237ID",
+          "siteId": "2388ID",
+          "attributablePartnerId": "5577ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "2383ID"
+      }
+    },
+    "_id": "7001660ID",
+    "eventType": "Experience Event",
+    "timestamp": "2016-02-07 16:00:04"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "3649ID",
+          "adUnitType": "6151 Type",
+          "promotedAssetId": "5806ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "1763ID",
+          "advertiserId": "6723ID",
+          "campaignId": "1891ID",
+          "currency": "USD",
+          "experimentId": "5571ID",
+          "packageId": "8328ID",
+          "placementId": "7057ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "5047ID",
+            "attributableSegmentId": "2095ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "GBP",
+          "feedId": "6638ID",
+          "inventorySourceId": "8093ID",
+          "sessionId": "6652ID",
+          "siteId": "9734ID",
+          "attributablePartnerId": "6058ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "6327ID"
+      }
+    },
+    "_id": "3553166ID",
+    "eventType": "Experience Event",
+    "timestamp": "2019-04-12 11:01:46"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "9316ID",
+          "adUnitType": "2595 Type",
+          "promotedAssetId": "5869ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "5349ID",
+          "advertiserId": "2770ID",
+          "campaignId": "2705ID",
+          "currency": "USD",
+          "experimentId": "9820ID",
+          "packageId": "9267ID",
+          "placementId": "5809ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "3601ID",
+            "attributableSegmentId": "8013ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "EUR",
+          "feedId": "1650ID",
+          "inventorySourceId": "1368ID",
+          "sessionId": "6212ID",
+          "siteId": "5673ID",
+          "attributablePartnerId": "3718ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "6682ID"
+      }
+    },
+    "_id": "1296824ID",
+    "eventType": "Experience Event",
+    "timestamp": "2017-06-20 20:36:44"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "2353ID",
+          "adUnitType": "5350 Type",
+          "promotedAssetId": "6812ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "3694ID",
+          "advertiserId": "2288ID",
+          "campaignId": "9243ID",
+          "currency": "GBP",
+          "experimentId": "4161ID",
+          "packageId": "5162ID",
+          "placementId": "9198ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "8276ID",
+            "attributableSegmentId": "3342ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "USD",
+          "feedId": "7947ID",
+          "inventorySourceId": "2781ID",
+          "sessionId": "9841ID",
+          "siteId": "5542ID",
+          "attributablePartnerId": "3938ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "6342ID"
+      }
+    },
+    "_id": "6502988ID",
+    "eventType": "Experience Event",
+    "timestamp": "2014-01-30 16:05:21"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "5793ID",
+          "adUnitType": "3772 Type",
+          "promotedAssetId": "9754ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "2498ID",
+          "advertiserId": "3087ID",
+          "campaignId": "4048ID",
+          "currency": "USD",
+          "experimentId": "8761ID",
+          "packageId": "9061ID",
+          "placementId": "3409ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "6650ID",
+            "attributableSegmentId": "8546ID",
+            "segments": "segment B"
+          },
+          "costCurrency": "EUR",
+          "feedId": "6736ID",
+          "inventorySourceId": "7490ID",
+          "sessionId": "4160ID",
+          "siteId": "7176ID",
+          "attributablePartnerId": "1157ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "3545ID"
+      }
+    },
+    "_id": "4882227ID",
+    "eventType": "Experience Event",
+    "timestamp": "2015-06-05 17:19:12"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "8700ID",
+          "adUnitType": "9103 Type",
+          "promotedAssetId": "9054ID",
+          "runtime": "runtime B"
+        },
+        "campaign": {
+          "accountId": "2551ID",
+          "advertiserId": "5565ID",
+          "campaignId": "1402ID",
+          "currency": "USD",
+          "experimentId": "2737ID",
+          "packageId": "8414ID",
+          "placementId": "5063ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "3693ID",
+            "attributableSegmentId": "3368ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "GBP",
+          "feedId": "2190ID",
+          "inventorySourceId": "3480ID",
+          "sessionId": "7386ID",
+          "siteId": "2884ID",
+          "attributablePartnerId": "1053ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "2163ID"
+      }
+    },
+    "_id": "7468044ID",
+    "eventType": "Experience Event",
+    "timestamp": "2016-11-07 02:18:57"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "7922ID",
+          "adUnitType": "9474 Type",
+          "promotedAssetId": "3292ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "7765ID",
+          "advertiserId": "1672ID",
+          "campaignId": "2164ID",
+          "currency": "EUR",
+          "experimentId": "2005ID",
+          "packageId": "1239ID",
+          "placementId": "6257ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "9308ID",
+            "attributableSegmentId": "4467ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "USD",
+          "feedId": "5161ID",
+          "inventorySourceId": "8637ID",
+          "sessionId": "1922ID",
+          "siteId": "6886ID",
+          "attributablePartnerId": "4496ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "4977ID"
+      }
+    },
+    "_id": "7936997ID",
+    "eventType": "Experience Event",
+    "timestamp": "2014-09-02 19:52:43"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "8046ID",
+          "adUnitType": "1219 Type",
+          "promotedAssetId": "9393ID",
+          "runtime": "runtime B"
+        },
+        "campaign": {
+          "accountId": "8730ID",
+          "advertiserId": "9128ID",
+          "campaignId": "9617ID",
+          "currency": "USD",
+          "experimentId": "1562ID",
+          "packageId": "5675ID",
+          "placementId": "8671ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "4112ID",
+            "attributableSegmentId": "8343ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "EUR",
+          "feedId": "4289ID",
+          "inventorySourceId": "9293ID",
+          "sessionId": "6379ID",
+          "siteId": "7869ID",
+          "attributablePartnerId": "4991ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "4460ID"
+      }
+    },
+    "_id": "2718642ID",
+    "eventType": "Experience Event",
+    "timestamp": "2016-05-19 19:10:49"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "2792ID",
+          "adUnitType": "9732 Type",
+          "promotedAssetId": "9446ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "5164ID",
+          "advertiserId": "6394ID",
+          "campaignId": "4695ID",
+          "currency": "EUR",
+          "experimentId": "5443ID",
+          "packageId": "5548ID",
+          "placementId": "9817ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "2984ID",
+            "attributableSegmentId": "8716ID",
+            "segments": "segment B"
+          },
+          "costCurrency": "USD",
+          "feedId": "2021ID",
+          "inventorySourceId": "5474ID",
+          "sessionId": "9425ID",
+          "siteId": "6543ID",
+          "attributablePartnerId": "2733ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "8966ID"
+      }
+    },
+    "_id": "2694111ID",
+    "eventType": "Experience Event",
+    "timestamp": "2014-02-17 20:30:40"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "9753ID",
+          "adUnitType": "9582 Type",
+          "promotedAssetId": "7541ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "2027ID",
+          "advertiserId": "9221ID",
+          "campaignId": "9371ID",
+          "currency": "EUR",
+          "experimentId": "9563ID",
+          "packageId": "4446ID",
+          "placementId": "6774ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "8191ID",
+            "attributableSegmentId": "5118ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "USD",
+          "feedId": "7650ID",
+          "inventorySourceId": "8505ID",
+          "sessionId": "4350ID",
+          "siteId": "6447ID",
+          "attributablePartnerId": "6972ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "1832ID"
+      }
+    },
+    "_id": "3129225ID",
+    "eventType": "Experience Event",
+    "timestamp": "2018-04-13 09:42:14"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "7456ID",
+          "adUnitType": "1001 Type",
+          "promotedAssetId": "3842ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "2082ID",
+          "advertiserId": "1554ID",
+          "campaignId": "6760ID",
+          "currency": "USD",
+          "experimentId": "8908ID",
+          "packageId": "7533ID",
+          "placementId": "3800ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "9908ID",
+            "attributableSegmentId": "5599ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "GBP",
+          "feedId": "6004ID",
+          "inventorySourceId": "2715ID",
+          "sessionId": "2317ID",
+          "siteId": "4490ID",
+          "attributablePartnerId": "6441ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "8522ID"
+      }
+    },
+    "_id": "8598187ID",
+    "eventType": "Experience Event",
+    "timestamp": "2016-11-24 17:52:11"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "6740ID",
+          "adUnitType": "4956 Type",
+          "promotedAssetId": "6290ID",
+          "runtime": "runtime B"
+        },
+        "campaign": {
+          "accountId": "5391ID",
+          "advertiserId": "6890ID",
+          "campaignId": "9822ID",
+          "currency": "USD",
+          "experimentId": "6539ID",
+          "packageId": "5922ID",
+          "placementId": "4060ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "2211ID",
+            "attributableSegmentId": "9616ID",
+            "segments": "segment B"
+          },
+          "costCurrency": "USD",
+          "feedId": "6147ID",
+          "inventorySourceId": "4340ID",
+          "sessionId": "6880ID",
+          "siteId": "3406ID",
+          "attributablePartnerId": "3296ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "4132ID"
+      }
+    },
+    "_id": "2984309ID",
+    "eventType": "Experience Event",
+    "timestamp": "2015-04-26 21:57:56"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "9291ID",
+          "adUnitType": "5392 Type",
+          "promotedAssetId": "2064ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "2849ID",
+          "advertiserId": "9116ID",
+          "campaignId": "9792ID",
+          "currency": "GBP",
+          "experimentId": "9930ID",
+          "packageId": "2266ID",
+          "placementId": "9730ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "9134ID",
+            "attributableSegmentId": "1006ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "EUR",
+          "feedId": "9352ID",
+          "inventorySourceId": "9341ID",
+          "sessionId": "9066ID",
+          "siteId": "9700ID",
+          "attributablePartnerId": "3549ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "2937ID"
+      }
+    },
+    "_id": "3603941ID",
+    "eventType": "Experience Event",
+    "timestamp": "2018-11-22 08:01:41"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "2165ID",
+          "adUnitType": "3250 Type",
+          "promotedAssetId": "1277ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "6372ID",
+          "advertiserId": "4561ID",
+          "campaignId": "5655ID",
+          "currency": "EUR",
+          "experimentId": "7713ID",
+          "packageId": "5589ID",
+          "placementId": "1403ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "6831ID",
+            "attributableSegmentId": "6492ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "GBP",
+          "feedId": "5077ID",
+          "inventorySourceId": "6893ID",
+          "sessionId": "7778ID",
+          "siteId": "6571ID",
+          "attributablePartnerId": "2999ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "6591ID"
+      }
+    },
+    "_id": "5873069ID",
+    "eventType": "Experience Event",
+    "timestamp": "2017-04-13 16:27:27"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "1566ID",
+          "adUnitType": "4266 Type",
+          "promotedAssetId": "8550ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "2444ID",
+          "advertiserId": "7707ID",
+          "campaignId": "1208ID",
+          "currency": "GBP",
+          "experimentId": "7422ID",
+          "packageId": "6765ID",
+          "placementId": "2533ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "5747ID",
+            "attributableSegmentId": "5867ID",
+            "segments": "segment B"
+          },
+          "costCurrency": "USD",
+          "feedId": "1641ID",
+          "inventorySourceId": "4778ID",
+          "sessionId": "9177ID",
+          "siteId": "8320ID",
+          "attributablePartnerId": "4832ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "2280ID"
+      }
+    },
+    "_id": "6379224ID",
+    "eventType": "Experience Event",
+    "timestamp": "2017-12-01 23:44:21"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "4677ID",
+          "adUnitType": "3033 Type",
+          "promotedAssetId": "2337ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "4432ID",
+          "advertiserId": "3562ID",
+          "campaignId": "1936ID",
+          "currency": "EUR",
+          "experimentId": "8509ID",
+          "packageId": "9690ID",
+          "placementId": "7448ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "4438ID",
+            "attributableSegmentId": "4971ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "GBP",
+          "feedId": "5703ID",
+          "inventorySourceId": "1206ID",
+          "sessionId": "9789ID",
+          "siteId": "5766ID",
+          "attributablePartnerId": "1351ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "1235ID"
+      }
+    },
+    "_id": "3255859ID",
+    "eventType": "Experience Event",
+    "timestamp": "2017-11-07 01:02:42"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "4178ID",
+          "adUnitType": "6121 Type",
+          "promotedAssetId": "3799ID",
+          "runtime": "runtime B"
+        },
+        "campaign": {
+          "accountId": "5944ID",
+          "advertiserId": "1191ID",
+          "campaignId": "2992ID",
+          "currency": "GBP",
+          "experimentId": "9708ID",
+          "packageId": "5341ID",
+          "placementId": "8027ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "7830ID",
+            "attributableSegmentId": "4231ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "GBP",
+          "feedId": "9715ID",
+          "inventorySourceId": "5557ID",
+          "sessionId": "7522ID",
+          "siteId": "2452ID",
+          "attributablePartnerId": "7006ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "2378ID"
+      }
+    },
+    "_id": "9382837ID",
+    "eventType": "Experience Event",
+    "timestamp": "2014-07-06 19:09:36"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "8039ID",
+          "adUnitType": "9018 Type",
+          "promotedAssetId": "6532ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "2704ID",
+          "advertiserId": "6824ID",
+          "campaignId": "6680ID",
+          "currency": "EUR",
+          "experimentId": "2812ID",
+          "packageId": "5478ID",
+          "placementId": "6365ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "8687ID",
+            "attributableSegmentId": "1654ID",
+            "segments": "segment B"
+          },
+          "costCurrency": "EUR",
+          "feedId": "7467ID",
+          "inventorySourceId": "6612ID",
+          "sessionId": "5487ID",
+          "siteId": "5249ID",
+          "attributablePartnerId": "9111ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "2907ID"
+      }
+    },
+    "_id": "4869780ID",
+    "eventType": "Experience Event",
+    "timestamp": "2014-05-12 21:16:49"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "4741ID",
+          "adUnitType": "4953 Type",
+          "promotedAssetId": "2869ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "6876ID",
+          "advertiserId": "9886ID",
+          "campaignId": "8369ID",
+          "currency": "USD",
+          "experimentId": "2174ID",
+          "packageId": "2708ID",
+          "placementId": "9077ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "1756ID",
+            "attributableSegmentId": "6982ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "USD",
+          "feedId": "9187ID",
+          "inventorySourceId": "3327ID",
+          "sessionId": "2652ID",
+          "siteId": "6758ID",
+          "attributablePartnerId": "4828ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "2846ID"
+      }
+    },
+    "_id": "3934349ID",
+    "eventType": "Experience Event",
+    "timestamp": "2015-12-17 01:23:21"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "3411ID",
+          "adUnitType": "4889 Type",
+          "promotedAssetId": "5697ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "3529ID",
+          "advertiserId": "8581ID",
+          "campaignId": "8665ID",
+          "currency": "EUR",
+          "experimentId": "4254ID",
+          "packageId": "3767ID",
+          "placementId": "5942ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "2930ID",
+            "attributableSegmentId": "7181ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "USD",
+          "feedId": "7809ID",
+          "inventorySourceId": "8549ID",
+          "sessionId": "4620ID",
+          "siteId": "1186ID",
+          "attributablePartnerId": "1590ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "4405ID"
+      }
+    },
+    "_id": "4710743ID",
+    "eventType": "Experience Event",
+    "timestamp": "2016-06-19 06:48:00"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "4630ID",
+          "adUnitType": "4018 Type",
+          "promotedAssetId": "6574ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "5086ID",
+          "advertiserId": "7610ID",
+          "campaignId": "2515ID",
+          "currency": "EUR",
+          "experimentId": "2518ID",
+          "packageId": "1565ID",
+          "placementId": "2359ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "9106ID",
+            "attributableSegmentId": "9462ID",
+            "segments": "segment B"
+          },
+          "costCurrency": "EUR",
+          "feedId": "4251ID",
+          "inventorySourceId": "1851ID",
+          "sessionId": "2676ID",
+          "siteId": "3229ID",
+          "attributablePartnerId": "4134ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "4600ID"
+      }
+    },
+    "_id": "8587295ID",
+    "eventType": "Experience Event",
+    "timestamp": "2018-12-28 08:14:18"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "2769ID",
+          "adUnitType": "7845 Type",
+          "promotedAssetId": "8987ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "4040ID",
+          "advertiserId": "2520ID",
+          "campaignId": "3893ID",
+          "currency": "GBP",
+          "experimentId": "7067ID",
+          "packageId": "9912ID",
+          "placementId": "3165ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "1577ID",
+            "attributableSegmentId": "4410ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "EUR",
+          "feedId": "7620ID",
+          "inventorySourceId": "6888ID",
+          "sessionId": "2632ID",
+          "siteId": "9158ID",
+          "attributablePartnerId": "3842ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "7474ID"
+      }
+    },
+    "_id": "7304640ID",
+    "eventType": "Experience Event",
+    "timestamp": "2015-01-30 01:08:51"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "5985ID",
+          "adUnitType": "5547 Type",
+          "promotedAssetId": "5338ID",
+          "runtime": "runtime B"
+        },
+        "campaign": {
+          "accountId": "9728ID",
+          "advertiserId": "3914ID",
+          "campaignId": "2583ID",
+          "currency": "EUR",
+          "experimentId": "8872ID",
+          "packageId": "8614ID",
+          "placementId": "6663ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "5803ID",
+            "attributableSegmentId": "5957ID",
+            "segments": "segment B"
+          },
+          "costCurrency": "GBP",
+          "feedId": "4549ID",
+          "inventorySourceId": "6021ID",
+          "sessionId": "9144ID",
+          "siteId": "7894ID",
+          "attributablePartnerId": "2026ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "6400ID"
+      }
+    },
+    "_id": "7071046ID",
+    "eventType": "Experience Event",
+    "timestamp": "2015-01-14 10:11:02"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "3085ID",
+          "adUnitType": "3422 Type",
+          "promotedAssetId": "7587ID",
+          "runtime": "runtime B"
+        },
+        "campaign": {
+          "accountId": "7773ID",
+          "advertiserId": "2759ID",
+          "campaignId": "4536ID",
+          "currency": "USD",
+          "experimentId": "5761ID",
+          "packageId": "8521ID",
+          "placementId": "9384ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "7207ID",
+            "attributableSegmentId": "9811ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "USD",
+          "feedId": "1999ID",
+          "inventorySourceId": "4452ID",
+          "sessionId": "3119ID",
+          "siteId": "8967ID",
+          "attributablePartnerId": "5248ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "1568ID"
+      }
+    },
+    "_id": "2296907ID",
+    "eventType": "Experience Event",
+    "timestamp": "2014-09-16 13:40:20"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "7869ID",
+          "adUnitType": "6870 Type",
+          "promotedAssetId": "8323ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "1701ID",
+          "advertiserId": "6392ID",
+          "campaignId": "6621ID",
+          "currency": "GBP",
+          "experimentId": "4892ID",
+          "packageId": "6653ID",
+          "placementId": "5725ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "5785ID",
+            "attributableSegmentId": "9702ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "EUR",
+          "feedId": "4527ID",
+          "inventorySourceId": "7319ID",
+          "sessionId": "3848ID",
+          "siteId": "7965ID",
+          "attributablePartnerId": "2026ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "9305ID"
+      }
+    },
+    "_id": "7061746ID",
+    "eventType": "Experience Event",
+    "timestamp": "2019-04-15 18:57:07"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "8622ID",
+          "adUnitType": "9720 Type",
+          "promotedAssetId": "9538ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "6950ID",
+          "advertiserId": "7465ID",
+          "campaignId": "4062ID",
+          "currency": "GBP",
+          "experimentId": "5800ID",
+          "packageId": "2708ID",
+          "placementId": "8610ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "4180ID",
+            "attributableSegmentId": "4918ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "EUR",
+          "feedId": "5587ID",
+          "inventorySourceId": "3582ID",
+          "sessionId": "9771ID",
+          "siteId": "8352ID",
+          "attributablePartnerId": "1965ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "4945ID"
+      }
+    },
+    "_id": "5614820ID",
+    "eventType": "Experience Event",
+    "timestamp": "2015-09-25 21:47:24"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "6114ID",
+          "adUnitType": "2292 Type",
+          "promotedAssetId": "5033ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "6618ID",
+          "advertiserId": "5868ID",
+          "campaignId": "1242ID",
+          "currency": "GBP",
+          "experimentId": "3114ID",
+          "packageId": "9195ID",
+          "placementId": "8153ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "3626ID",
+            "attributableSegmentId": "5697ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "GBP",
+          "feedId": "7657ID",
+          "inventorySourceId": "9675ID",
+          "sessionId": "2804ID",
+          "siteId": "7115ID",
+          "attributablePartnerId": "1612ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "6940ID"
+      }
+    },
+    "_id": "5558192ID",
+    "eventType": "Experience Event",
+    "timestamp": "2018-10-15 17:54:43"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "1217ID",
+          "adUnitType": "7073 Type",
+          "promotedAssetId": "8502ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "5866ID",
+          "advertiserId": "5613ID",
+          "campaignId": "9936ID",
+          "currency": "GBP",
+          "experimentId": "9825ID",
+          "packageId": "2282ID",
+          "placementId": "4096ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "9044ID",
+            "attributableSegmentId": "9255ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "USD",
+          "feedId": "2064ID",
+          "inventorySourceId": "3227ID",
+          "sessionId": "6161ID",
+          "siteId": "3684ID",
+          "attributablePartnerId": "4294ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "5564ID"
+      }
+    },
+    "_id": "4951442ID",
+    "eventType": "Experience Event",
+    "timestamp": "2014-05-04 05:52:53"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "5299ID",
+          "adUnitType": "8796 Type",
+          "promotedAssetId": "9462ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "4626ID",
+          "advertiserId": "7597ID",
+          "campaignId": "2825ID",
+          "currency": "GBP",
+          "experimentId": "5134ID",
+          "packageId": "2550ID",
+          "placementId": "9522ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "2838ID",
+            "attributableSegmentId": "9768ID",
+            "segments": "segment B"
+          },
+          "costCurrency": "EUR",
+          "feedId": "7185ID",
+          "inventorySourceId": "8998ID",
+          "sessionId": "3259ID",
+          "siteId": "6379ID",
+          "attributablePartnerId": "8578ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "1341ID"
+      }
+    },
+    "_id": "8548282ID",
+    "eventType": "Experience Event",
+    "timestamp": "2016-12-10 09:53:25"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "2305ID",
+          "adUnitType": "6000 Type",
+          "promotedAssetId": "9373ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "8910ID",
+          "advertiserId": "7709ID",
+          "campaignId": "3245ID",
+          "currency": "EUR",
+          "experimentId": "2283ID",
+          "packageId": "9499ID",
+          "placementId": "2080ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "7067ID",
+            "attributableSegmentId": "5586ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "GBP",
+          "feedId": "1233ID",
+          "inventorySourceId": "1821ID",
+          "sessionId": "8363ID",
+          "siteId": "7965ID",
+          "attributablePartnerId": "6651ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "6267ID"
+      }
+    },
+    "_id": "7665836ID",
+    "eventType": "Experience Event",
+    "timestamp": "2015-05-18 03:57:13"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "9370ID",
+          "adUnitType": "3038 Type",
+          "promotedAssetId": "5092ID",
+          "runtime": "runtime B"
+        },
+        "campaign": {
+          "accountId": "7305ID",
+          "advertiserId": "8705ID",
+          "campaignId": "1601ID",
+          "currency": "GBP",
+          "experimentId": "8873ID",
+          "packageId": "5577ID",
+          "placementId": "3778ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "9573ID",
+            "attributableSegmentId": "4033ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "EUR",
+          "feedId": "3266ID",
+          "inventorySourceId": "5438ID",
+          "sessionId": "7841ID",
+          "siteId": "4742ID",
+          "attributablePartnerId": "5967ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "9844ID"
+      }
+    },
+    "_id": "6869362ID",
+    "eventType": "Experience Event",
+    "timestamp": "2014-01-20 15:55:28"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "2056ID",
+          "adUnitType": "2259 Type",
+          "promotedAssetId": "2591ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "1114ID",
+          "advertiserId": "5134ID",
+          "campaignId": "6430ID",
+          "currency": "GBP",
+          "experimentId": "2282ID",
+          "packageId": "8729ID",
+          "placementId": "9343ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "5512ID",
+            "attributableSegmentId": "8706ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "EUR",
+          "feedId": "1443ID",
+          "inventorySourceId": "5110ID",
+          "sessionId": "5392ID",
+          "siteId": "1505ID",
+          "attributablePartnerId": "1156ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "5128ID"
+      }
+    },
+    "_id": "4438774ID",
+    "eventType": "Experience Event",
+    "timestamp": "2018-09-30 03:35:01"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "2523ID",
+          "adUnitType": "6292 Type",
+          "promotedAssetId": "6666ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "7669ID",
+          "advertiserId": "9650ID",
+          "campaignId": "6211ID",
+          "currency": "EUR",
+          "experimentId": "7641ID",
+          "packageId": "1550ID",
+          "placementId": "4902ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "3523ID",
+            "attributableSegmentId": "1926ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "EUR",
+          "feedId": "1675ID",
+          "inventorySourceId": "1281ID",
+          "sessionId": "4147ID",
+          "siteId": "5163ID",
+          "attributablePartnerId": "9724ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "9022ID"
+      }
+    },
+    "_id": "4902502ID",
+    "eventType": "Experience Event",
+    "timestamp": "2016-02-23 03:37:26"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "7171ID",
+          "adUnitType": "8326 Type",
+          "promotedAssetId": "2838ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "1289ID",
+          "advertiserId": "9126ID",
+          "campaignId": "9016ID",
+          "currency": "GBP",
+          "experimentId": "6977ID",
+          "packageId": "4229ID",
+          "placementId": "4785ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "3960ID",
+            "attributableSegmentId": "3699ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "USD",
+          "feedId": "7567ID",
+          "inventorySourceId": "5210ID",
+          "sessionId": "3999ID",
+          "siteId": "1230ID",
+          "attributablePartnerId": "4352ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "7857ID"
+      }
+    },
+    "_id": "3643616ID",
+    "eventType": "Experience Event",
+    "timestamp": "2016-08-26 13:00:03"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "8481ID",
+          "adUnitType": "2259 Type",
+          "promotedAssetId": "7340ID",
+          "runtime": "runtime B"
+        },
+        "campaign": {
+          "accountId": "2491ID",
+          "advertiserId": "9128ID",
+          "campaignId": "5824ID",
+          "currency": "GBP",
+          "experimentId": "3486ID",
+          "packageId": "7467ID",
+          "placementId": "6763ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "3545ID",
+            "attributableSegmentId": "9733ID",
+            "segments": "segment B"
+          },
+          "costCurrency": "EUR",
+          "feedId": "2207ID",
+          "inventorySourceId": "3066ID",
+          "sessionId": "5288ID",
+          "siteId": "2193ID",
+          "attributablePartnerId": "7382ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "1383ID"
+      }
+    },
+    "_id": "2371745ID",
+    "eventType": "Experience Event",
+    "timestamp": "2018-05-31 05:01:43"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "6049ID",
+          "adUnitType": "8942 Type",
+          "promotedAssetId": "4824ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "1483ID",
+          "advertiserId": "5498ID",
+          "campaignId": "6003ID",
+          "currency": "USD",
+          "experimentId": "1874ID",
+          "packageId": "5729ID",
+          "placementId": "2084ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "1752ID",
+            "attributableSegmentId": "7797ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "EUR",
+          "feedId": "2461ID",
+          "inventorySourceId": "9868ID",
+          "sessionId": "6934ID",
+          "siteId": "6491ID",
+          "attributablePartnerId": "9427ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "1552ID"
+      }
+    },
+    "_id": "6323426ID",
+    "eventType": "Experience Event",
+    "timestamp": "2016-04-20 02:11:57"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "3262ID",
+          "adUnitType": "2783 Type",
+          "promotedAssetId": "8656ID",
+          "runtime": "runtime B"
+        },
+        "campaign": {
+          "accountId": "1225ID",
+          "advertiserId": "4327ID",
+          "campaignId": "6223ID",
+          "currency": "EUR",
+          "experimentId": "5367ID",
+          "packageId": "5279ID",
+          "placementId": "5347ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "4148ID",
+            "attributableSegmentId": "6463ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "EUR",
+          "feedId": "1467ID",
+          "inventorySourceId": "3907ID",
+          "sessionId": "3196ID",
+          "siteId": "5842ID",
+          "attributablePartnerId": "1526ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "4453ID"
+      }
+    },
+    "_id": "9249058ID",
+    "eventType": "Experience Event",
+    "timestamp": "2015-05-25 11:18:18"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "1984ID",
+          "adUnitType": "4031 Type",
+          "promotedAssetId": "7252ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "1018ID",
+          "advertiserId": "8310ID",
+          "campaignId": "8725ID",
+          "currency": "GBP",
+          "experimentId": "8539ID",
+          "packageId": "7608ID",
+          "placementId": "3760ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "7653ID",
+            "attributableSegmentId": "3876ID",
+            "segments": "segment B"
+          },
+          "costCurrency": "GBP",
+          "feedId": "9607ID",
+          "inventorySourceId": "3692ID",
+          "sessionId": "1515ID",
+          "siteId": "3840ID",
+          "attributablePartnerId": "6272ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "1545ID"
+      }
+    },
+    "_id": "8195374ID",
+    "eventType": "Experience Event",
+    "timestamp": "2016-04-12 11:07:36"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "2473ID",
+          "adUnitType": "6077 Type",
+          "promotedAssetId": "8655ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "4231ID",
+          "advertiserId": "9271ID",
+          "campaignId": "2938ID",
+          "currency": "GBP",
+          "experimentId": "9857ID",
+          "packageId": "5276ID",
+          "placementId": "6070ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "5371ID",
+            "attributableSegmentId": "7116ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "USD",
+          "feedId": "8861ID",
+          "inventorySourceId": "5993ID",
+          "sessionId": "8635ID",
+          "siteId": "4655ID",
+          "attributablePartnerId": "1656ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "6382ID"
+      }
+    },
+    "_id": "4382104ID",
+    "eventType": "Experience Event",
+    "timestamp": "2014-05-17 13:25:46"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "6111ID",
+          "adUnitType": "6054 Type",
+          "promotedAssetId": "5166ID",
+          "runtime": "runtime B"
+        },
+        "campaign": {
+          "accountId": "3329ID",
+          "advertiserId": "1452ID",
+          "campaignId": "8091ID",
+          "currency": "USD",
+          "experimentId": "4644ID",
+          "packageId": "9879ID",
+          "placementId": "8479ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "6018ID",
+            "attributableSegmentId": "5449ID",
+            "segments": "segment B"
+          },
+          "costCurrency": "GBP",
+          "feedId": "8221ID",
+          "inventorySourceId": "9879ID",
+          "sessionId": "1873ID",
+          "siteId": "8238ID",
+          "attributablePartnerId": "6626ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "7687ID"
+      }
+    },
+    "_id": "2808827ID",
+    "eventType": "Experience Event",
+    "timestamp": "2015-10-23 09:59:46"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "3016ID",
+          "adUnitType": "3130 Type",
+          "promotedAssetId": "4306ID",
+          "runtime": "runtime B"
+        },
+        "campaign": {
+          "accountId": "9271ID",
+          "advertiserId": "9580ID",
+          "campaignId": "1842ID",
+          "currency": "USD",
+          "experimentId": "3858ID",
+          "packageId": "2265ID",
+          "placementId": "6366ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "5905ID",
+            "attributableSegmentId": "2859ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "USD",
+          "feedId": "6875ID",
+          "inventorySourceId": "3519ID",
+          "sessionId": "7855ID",
+          "siteId": "9503ID",
+          "attributablePartnerId": "1380ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "6231ID"
+      }
+    },
+    "_id": "8715343ID",
+    "eventType": "Experience Event",
+    "timestamp": "2018-12-18 13:18:45"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "9573ID",
+          "adUnitType": "2249 Type",
+          "promotedAssetId": "5171ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "9092ID",
+          "advertiserId": "4878ID",
+          "campaignId": "8386ID",
+          "currency": "GBP",
+          "experimentId": "4312ID",
+          "packageId": "8113ID",
+          "placementId": "3261ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "3200ID",
+            "attributableSegmentId": "5892ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "GBP",
+          "feedId": "8248ID",
+          "inventorySourceId": "3669ID",
+          "sessionId": "2235ID",
+          "siteId": "4055ID",
+          "attributablePartnerId": "3904ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "8775ID"
+      }
+    },
+    "_id": "4211655ID",
+    "eventType": "Experience Event",
+    "timestamp": "2016-08-29 15:03:11"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "1376ID",
+          "adUnitType": "8866 Type",
+          "promotedAssetId": "9734ID",
+          "runtime": "runtime B"
+        },
+        "campaign": {
+          "accountId": "1963ID",
+          "advertiserId": "4208ID",
+          "campaignId": "9057ID",
+          "currency": "GBP",
+          "experimentId": "9902ID",
+          "packageId": "1886ID",
+          "placementId": "5914ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "2316ID",
+            "attributableSegmentId": "8594ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "USD",
+          "feedId": "6219ID",
+          "inventorySourceId": "8062ID",
+          "sessionId": "4059ID",
+          "siteId": "7920ID",
+          "attributablePartnerId": "4614ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "9538ID"
+      }
+    },
+    "_id": "1842998ID",
+    "eventType": "Experience Event",
+    "timestamp": "2014-11-17 02:51:45"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "9734ID",
+          "adUnitType": "1214 Type",
+          "promotedAssetId": "1752ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "8544ID",
+          "advertiserId": "6723ID",
+          "campaignId": "7989ID",
+          "currency": "GBP",
+          "experimentId": "2148ID",
+          "packageId": "8681ID",
+          "placementId": "5000ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "5884ID",
+            "attributableSegmentId": "2934ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "GBP",
+          "feedId": "9189ID",
+          "inventorySourceId": "6849ID",
+          "sessionId": "6716ID",
+          "siteId": "8279ID",
+          "attributablePartnerId": "9287ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "5143ID"
+      }
+    },
+    "_id": "1296228ID",
+    "eventType": "Experience Event",
+    "timestamp": "2014-02-08 14:24:18"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "5556ID",
+          "adUnitType": "1787 Type",
+          "promotedAssetId": "8521ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "4466ID",
+          "advertiserId": "7696ID",
+          "campaignId": "3469ID",
+          "currency": "EUR",
+          "experimentId": "8776ID",
+          "packageId": "2956ID",
+          "placementId": "1631ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "2804ID",
+            "attributableSegmentId": "4443ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "GBP",
+          "feedId": "9902ID",
+          "inventorySourceId": "2129ID",
+          "sessionId": "1697ID",
+          "siteId": "9891ID",
+          "attributablePartnerId": "7184ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "5349ID"
+      }
+    },
+    "_id": "5127920ID",
+    "eventType": "Experience Event",
+    "timestamp": "2014-12-12 23:42:33"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "4823ID",
+          "adUnitType": "7706 Type",
+          "promotedAssetId": "6596ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "4486ID",
+          "advertiserId": "5018ID",
+          "campaignId": "9473ID",
+          "currency": "USD",
+          "experimentId": "6476ID",
+          "packageId": "6984ID",
+          "placementId": "9974ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "8888ID",
+            "attributableSegmentId": "2012ID",
+            "segments": "segment B"
+          },
+          "costCurrency": "GBP",
+          "feedId": "9530ID",
+          "inventorySourceId": "5946ID",
+          "sessionId": "5402ID",
+          "siteId": "6837ID",
+          "attributablePartnerId": "4650ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "7482ID"
+      }
+    },
+    "_id": "2400681ID",
+    "eventType": "Experience Event",
+    "timestamp": "2014-07-15 08:42:41"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "2865ID",
+          "adUnitType": "8309 Type",
+          "promotedAssetId": "2097ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "6971ID",
+          "advertiserId": "3403ID",
+          "campaignId": "1641ID",
+          "currency": "USD",
+          "experimentId": "3606ID",
+          "packageId": "7814ID",
+          "placementId": "3707ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "5887ID",
+            "attributableSegmentId": "1008ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "USD",
+          "feedId": "9928ID",
+          "inventorySourceId": "3709ID",
+          "sessionId": "7688ID",
+          "siteId": "2563ID",
+          "attributablePartnerId": "4473ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "7869ID"
+      }
+    },
+    "_id": "3168308ID",
+    "eventType": "Experience Event",
+    "timestamp": "2016-12-25 22:53:11"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "8937ID",
+          "adUnitType": "6345 Type",
+          "promotedAssetId": "2175ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "6342ID",
+          "advertiserId": "6674ID",
+          "campaignId": "4890ID",
+          "currency": "USD",
+          "experimentId": "7360ID",
+          "packageId": "3702ID",
+          "placementId": "7379ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "4948ID",
+            "attributableSegmentId": "5983ID",
+            "segments": "segment B"
+          },
+          "costCurrency": "EUR",
+          "feedId": "6532ID",
+          "inventorySourceId": "4382ID",
+          "sessionId": "9670ID",
+          "siteId": "4446ID",
+          "attributablePartnerId": "3501ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "6786ID"
+      }
+    },
+    "_id": "7513570ID",
+    "eventType": "Experience Event",
+    "timestamp": "2014-05-19 21:52:33"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "6265ID",
+          "adUnitType": "2932 Type",
+          "promotedAssetId": "7220ID",
+          "runtime": "runtime B"
+        },
+        "campaign": {
+          "accountId": "6359ID",
+          "advertiserId": "9724ID",
+          "campaignId": "2824ID",
+          "currency": "EUR",
+          "experimentId": "3535ID",
+          "packageId": "2449ID",
+          "placementId": "8479ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "2284ID",
+            "attributableSegmentId": "8852ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "EUR",
+          "feedId": "9142ID",
+          "inventorySourceId": "4893ID",
+          "sessionId": "9176ID",
+          "siteId": "1759ID",
+          "attributablePartnerId": "2178ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "8176ID"
+      }
+    },
+    "_id": "3118367ID",
+    "eventType": "Experience Event",
+    "timestamp": "2016-01-30 12:28:36"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "7885ID",
+          "adUnitType": "9088 Type",
+          "promotedAssetId": "7927ID",
+          "runtime": "runtime B"
+        },
+        "campaign": {
+          "accountId": "9484ID",
+          "advertiserId": "2646ID",
+          "campaignId": "3388ID",
+          "currency": "EUR",
+          "experimentId": "4161ID",
+          "packageId": "8353ID",
+          "placementId": "6209ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "3580ID",
+            "attributableSegmentId": "3078ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "USD",
+          "feedId": "6775ID",
+          "inventorySourceId": "2511ID",
+          "sessionId": "5003ID",
+          "siteId": "8433ID",
+          "attributablePartnerId": "7166ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "7554ID"
+      }
+    },
+    "_id": "6972503ID",
+    "eventType": "Experience Event",
+    "timestamp": "2015-07-17 05:50:20"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "3446ID",
+          "adUnitType": "3982 Type",
+          "promotedAssetId": "9035ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "7306ID",
+          "advertiserId": "6993ID",
+          "campaignId": "1752ID",
+          "currency": "GBP",
+          "experimentId": "4555ID",
+          "packageId": "7526ID",
+          "placementId": "1190ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "3006ID",
+            "attributableSegmentId": "4009ID",
+            "segments": "segment B"
+          },
+          "costCurrency": "GBP",
+          "feedId": "7873ID",
+          "inventorySourceId": "6394ID",
+          "sessionId": "4540ID",
+          "siteId": "7780ID",
+          "attributablePartnerId": "9892ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "8077ID"
+      }
+    },
+    "_id": "1338130ID",
+    "eventType": "Experience Event",
+    "timestamp": "2016-03-13 23:55:16"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "9442ID",
+          "adUnitType": "1431 Type",
+          "promotedAssetId": "3417ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "5207ID",
+          "advertiserId": "9960ID",
+          "campaignId": "2617ID",
+          "currency": "USD",
+          "experimentId": "1539ID",
+          "packageId": "4943ID",
+          "placementId": "8755ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "8275ID",
+            "attributableSegmentId": "7780ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "USD",
+          "feedId": "2007ID",
+          "inventorySourceId": "4273ID",
+          "sessionId": "1714ID",
+          "siteId": "1302ID",
+          "attributablePartnerId": "5998ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "2707ID"
+      }
+    },
+    "_id": "4553106ID",
+    "eventType": "Experience Event",
+    "timestamp": "2017-12-10 12:51:16"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "2296ID",
+          "adUnitType": "1250 Type",
+          "promotedAssetId": "3098ID",
+          "runtime": "runtime B"
+        },
+        "campaign": {
+          "accountId": "2661ID",
+          "advertiserId": "8405ID",
+          "campaignId": "8819ID",
+          "currency": "EUR",
+          "experimentId": "5470ID",
+          "packageId": "4307ID",
+          "placementId": "6789ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "8519ID",
+            "attributableSegmentId": "6456ID",
+            "segments": "segment B"
+          },
+          "costCurrency": "EUR",
+          "feedId": "9140ID",
+          "inventorySourceId": "7606ID",
+          "sessionId": "6056ID",
+          "siteId": "6376ID",
+          "attributablePartnerId": "3307ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "9181ID"
+      }
+    },
+    "_id": "8093502ID",
+    "eventType": "Experience Event",
+    "timestamp": "2016-12-31 21:40:07"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "1162ID",
+          "adUnitType": "6763 Type",
+          "promotedAssetId": "2917ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "9582ID",
+          "advertiserId": "8307ID",
+          "campaignId": "5769ID",
+          "currency": "GBP",
+          "experimentId": "5131ID",
+          "packageId": "4659ID",
+          "placementId": "5044ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "3417ID",
+            "attributableSegmentId": "8661ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "EUR",
+          "feedId": "7429ID",
+          "inventorySourceId": "6666ID",
+          "sessionId": "9676ID",
+          "siteId": "8986ID",
+          "attributablePartnerId": "8646ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "7486ID"
+      }
+    },
+    "_id": "6606681ID",
+    "eventType": "Experience Event",
+    "timestamp": "2015-01-24 13:20:16"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "6376ID",
+          "adUnitType": "3245 Type",
+          "promotedAssetId": "3639ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "5677ID",
+          "advertiserId": "9666ID",
+          "campaignId": "5160ID",
+          "currency": "GBP",
+          "experimentId": "6301ID",
+          "packageId": "4063ID",
+          "placementId": "3920ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "8536ID",
+            "attributableSegmentId": "1968ID",
+            "segments": "segment B"
+          },
+          "costCurrency": "USD",
+          "feedId": "7517ID",
+          "inventorySourceId": "2357ID",
+          "sessionId": "7892ID",
+          "siteId": "6840ID",
+          "attributablePartnerId": "3481ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "8277ID"
+      }
+    },
+    "_id": "3632104ID",
+    "eventType": "Experience Event",
+    "timestamp": "2019-03-15 10:05:53"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "2286ID",
+          "adUnitType": "6271 Type",
+          "promotedAssetId": "6564ID",
+          "runtime": "runtime B"
+        },
+        "campaign": {
+          "accountId": "5971ID",
+          "advertiserId": "4925ID",
+          "campaignId": "1827ID",
+          "currency": "EUR",
+          "experimentId": "1566ID",
+          "packageId": "3021ID",
+          "placementId": "6327ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "4263ID",
+            "attributableSegmentId": "9722ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "USD",
+          "feedId": "3009ID",
+          "inventorySourceId": "6164ID",
+          "sessionId": "3878ID",
+          "siteId": "1160ID",
+          "attributablePartnerId": "6626ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "3278ID"
+      }
+    },
+    "_id": "6651339ID",
+    "eventType": "Experience Event",
+    "timestamp": "2015-03-23 07:49:08"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "8724ID",
+          "adUnitType": "4625 Type",
+          "promotedAssetId": "6630ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "7000ID",
+          "advertiserId": "8704ID",
+          "campaignId": "6972ID",
+          "currency": "USD",
+          "experimentId": "5162ID",
+          "packageId": "7934ID",
+          "placementId": "9208ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "2024ID",
+            "attributableSegmentId": "2302ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "EUR",
+          "feedId": "7647ID",
+          "inventorySourceId": "2214ID",
+          "sessionId": "7238ID",
+          "siteId": "6651ID",
+          "attributablePartnerId": "1062ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "3077ID"
+      }
+    },
+    "_id": "2429359ID",
+    "eventType": "Experience Event",
+    "timestamp": "2014-10-14 05:06:20"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "5609ID",
+          "adUnitType": "5452 Type",
+          "promotedAssetId": "2671ID",
+          "runtime": "runtime B"
+        },
+        "campaign": {
+          "accountId": "7568ID",
+          "advertiserId": "8890ID",
+          "campaignId": "4291ID",
+          "currency": "GBP",
+          "experimentId": "1275ID",
+          "packageId": "8516ID",
+          "placementId": "5248ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "2121ID",
+            "attributableSegmentId": "1690ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "EUR",
+          "feedId": "2570ID",
+          "inventorySourceId": "5128ID",
+          "sessionId": "7687ID",
+          "siteId": "2644ID",
+          "attributablePartnerId": "6113ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "2817ID"
+      }
+    },
+    "_id": "9697275ID",
+    "eventType": "Experience Event",
+    "timestamp": "2014-09-21 21:01:11"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "3435ID",
+          "adUnitType": "5878 Type",
+          "promotedAssetId": "8763ID",
+          "runtime": "runtime B"
+        },
+        "campaign": {
+          "accountId": "4711ID",
+          "advertiserId": "7431ID",
+          "campaignId": "6537ID",
+          "currency": "USD",
+          "experimentId": "2969ID",
+          "packageId": "3972ID",
+          "placementId": "7119ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "2520ID",
+            "attributableSegmentId": "5474ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "GBP",
+          "feedId": "1441ID",
+          "inventorySourceId": "3662ID",
+          "sessionId": "7348ID",
+          "siteId": "5581ID",
+          "attributablePartnerId": "4675ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "1512ID"
+      }
+    },
+    "_id": "2387553ID",
+    "eventType": "Experience Event",
+    "timestamp": "2014-03-04 03:57:17"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "9952ID",
+          "adUnitType": "7762 Type",
+          "promotedAssetId": "4481ID",
+          "runtime": "runtime B"
+        },
+        "campaign": {
+          "accountId": "4357ID",
+          "advertiserId": "6744ID",
+          "campaignId": "3917ID",
+          "currency": "GBP",
+          "experimentId": "6105ID",
+          "packageId": "7909ID",
+          "placementId": "1678ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "3765ID",
+            "attributableSegmentId": "6610ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "GBP",
+          "feedId": "7033ID",
+          "inventorySourceId": "6612ID",
+          "sessionId": "4315ID",
+          "siteId": "2190ID",
+          "attributablePartnerId": "4928ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "8885ID"
+      }
+    },
+    "_id": "6560070ID",
+    "eventType": "Experience Event",
+    "timestamp": "2014-03-02 01:22:22"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "2224ID",
+          "adUnitType": "5672 Type",
+          "promotedAssetId": "2615ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "9282ID",
+          "advertiserId": "9887ID",
+          "campaignId": "4308ID",
+          "currency": "EUR",
+          "experimentId": "7456ID",
+          "packageId": "4758ID",
+          "placementId": "3911ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "7859ID",
+            "attributableSegmentId": "5720ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "EUR",
+          "feedId": "3433ID",
+          "inventorySourceId": "7399ID",
+          "sessionId": "6628ID",
+          "siteId": "7569ID",
+          "attributablePartnerId": "9772ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "4431ID"
+      }
+    },
+    "_id": "8536040ID",
+    "eventType": "Experience Event",
+    "timestamp": "2019-02-23 21:52:43"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "5373ID",
+          "adUnitType": "2605 Type",
+          "promotedAssetId": "2951ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "8610ID",
+          "advertiserId": "5381ID",
+          "campaignId": "9948ID",
+          "currency": "GBP",
+          "experimentId": "1361ID",
+          "packageId": "3661ID",
+          "placementId": "8397ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "5492ID",
+            "attributableSegmentId": "4762ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "EUR",
+          "feedId": "9428ID",
+          "inventorySourceId": "2921ID",
+          "sessionId": "1485ID",
+          "siteId": "7293ID",
+          "attributablePartnerId": "8562ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "7498ID"
+      }
+    },
+    "_id": "3402337ID",
+    "eventType": "Experience Event",
+    "timestamp": "2017-02-11 15:11:45"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "2707ID",
+          "adUnitType": "4887 Type",
+          "promotedAssetId": "5020ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "3788ID",
+          "advertiserId": "7172ID",
+          "campaignId": "2608ID",
+          "currency": "USD",
+          "experimentId": "5874ID",
+          "packageId": "8111ID",
+          "placementId": "7398ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "6486ID",
+            "attributableSegmentId": "4704ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "GBP",
+          "feedId": "1516ID",
+          "inventorySourceId": "8325ID",
+          "sessionId": "7304ID",
+          "siteId": "4530ID",
+          "attributablePartnerId": "8496ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "5722ID"
+      }
+    },
+    "_id": "4326790ID",
+    "eventType": "Experience Event",
+    "timestamp": "2014-08-21 19:43:02"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "6064ID",
+          "adUnitType": "9835 Type",
+          "promotedAssetId": "6271ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "1344ID",
+          "advertiserId": "9300ID",
+          "campaignId": "9714ID",
+          "currency": "USD",
+          "experimentId": "3165ID",
+          "packageId": "7979ID",
+          "placementId": "5931ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "2635ID",
+            "attributableSegmentId": "8980ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "GBP",
+          "feedId": "2767ID",
+          "inventorySourceId": "2907ID",
+          "sessionId": "5037ID",
+          "siteId": "2537ID",
+          "attributablePartnerId": "6380ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "8358ID"
+      }
+    },
+    "_id": "4234056ID",
+    "eventType": "Experience Event",
+    "timestamp": "2018-06-30 13:55:31"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "2263ID",
+          "adUnitType": "9799 Type",
+          "promotedAssetId": "9663ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "3900ID",
+          "advertiserId": "2674ID",
+          "campaignId": "6376ID",
+          "currency": "GBP",
+          "experimentId": "4027ID",
+          "packageId": "5976ID",
+          "placementId": "5917ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "8350ID",
+            "attributableSegmentId": "7698ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "USD",
+          "feedId": "5354ID",
+          "inventorySourceId": "4911ID",
+          "sessionId": "8265ID",
+          "siteId": "4294ID",
+          "attributablePartnerId": "9663ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "7888ID"
+      }
+    },
+    "_id": "1218648ID",
+    "eventType": "Experience Event",
+    "timestamp": "2014-01-19 22:21:53"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "6650ID",
+          "adUnitType": "2223 Type",
+          "promotedAssetId": "1348ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "1205ID",
+          "advertiserId": "9776ID",
+          "campaignId": "6125ID",
+          "currency": "GBP",
+          "experimentId": "3087ID",
+          "packageId": "6160ID",
+          "placementId": "7238ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "9579ID",
+            "attributableSegmentId": "9430ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "EUR",
+          "feedId": "2282ID",
+          "inventorySourceId": "4029ID",
+          "sessionId": "2533ID",
+          "siteId": "1889ID",
+          "attributablePartnerId": "5740ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "3659ID"
+      }
+    },
+    "_id": "3936125ID",
+    "eventType": "Experience Event",
+    "timestamp": "2015-03-08 18:22:57"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "6514ID",
+          "adUnitType": "7914 Type",
+          "promotedAssetId": "1306ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "4414ID",
+          "advertiserId": "2815ID",
+          "campaignId": "1231ID",
+          "currency": "USD",
+          "experimentId": "2802ID",
+          "packageId": "7668ID",
+          "placementId": "8975ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "8769ID",
+            "attributableSegmentId": "2084ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "USD",
+          "feedId": "9745ID",
+          "inventorySourceId": "5864ID",
+          "sessionId": "5110ID",
+          "siteId": "7970ID",
+          "attributablePartnerId": "3747ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "6155ID"
+      }
+    },
+    "_id": "4436050ID",
+    "eventType": "Experience Event",
+    "timestamp": "2015-05-26 16:37:07"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "5848ID",
+          "adUnitType": "1261 Type",
+          "promotedAssetId": "8158ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "5346ID",
+          "advertiserId": "2513ID",
+          "campaignId": "1281ID",
+          "currency": "EUR",
+          "experimentId": "5724ID",
+          "packageId": "2316ID",
+          "placementId": "4309ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "3498ID",
+            "attributableSegmentId": "8711ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "USD",
+          "feedId": "6738ID",
+          "inventorySourceId": "3775ID",
+          "sessionId": "8503ID",
+          "siteId": "6794ID",
+          "attributablePartnerId": "6485ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "2810ID"
+      }
+    },
+    "_id": "4666829ID",
+    "eventType": "Experience Event",
+    "timestamp": "2018-05-26 02:40:34"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "7453ID",
+          "adUnitType": "9687 Type",
+          "promotedAssetId": "5763ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "3150ID",
+          "advertiserId": "3329ID",
+          "campaignId": "8599ID",
+          "currency": "GBP",
+          "experimentId": "4749ID",
+          "packageId": "8204ID",
+          "placementId": "1899ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "2105ID",
+            "attributableSegmentId": "8458ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "GBP",
+          "feedId": "9454ID",
+          "inventorySourceId": "3922ID",
+          "sessionId": "9649ID",
+          "siteId": "4591ID",
+          "attributablePartnerId": "5206ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "6357ID"
+      }
+    },
+    "_id": "1124936ID",
+    "eventType": "Experience Event",
+    "timestamp": "2018-12-21 07:15:59"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "2354ID",
+          "adUnitType": "4954 Type",
+          "promotedAssetId": "2615ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "6217ID",
+          "advertiserId": "9978ID",
+          "campaignId": "3772ID",
+          "currency": "GBP",
+          "experimentId": "8775ID",
+          "packageId": "3921ID",
+          "placementId": "7186ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "4708ID",
+            "attributableSegmentId": "5314ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "GBP",
+          "feedId": "4841ID",
+          "inventorySourceId": "8565ID",
+          "sessionId": "1772ID",
+          "siteId": "8525ID",
+          "attributablePartnerId": "5844ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "8416ID"
+      }
+    },
+    "_id": "7616160ID",
+    "eventType": "Experience Event",
+    "timestamp": "2017-10-11 19:36:02"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "5761ID",
+          "adUnitType": "5712 Type",
+          "promotedAssetId": "5408ID",
+          "runtime": "runtime B"
+        },
+        "campaign": {
+          "accountId": "5661ID",
+          "advertiserId": "6244ID",
+          "campaignId": "6554ID",
+          "currency": "EUR",
+          "experimentId": "3543ID",
+          "packageId": "6002ID",
+          "placementId": "3876ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "5863ID",
+            "attributableSegmentId": "7021ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "EUR",
+          "feedId": "8465ID",
+          "inventorySourceId": "9155ID",
+          "sessionId": "5629ID",
+          "siteId": "3696ID",
+          "attributablePartnerId": "9011ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "7658ID"
+      }
+    },
+    "_id": "4283664ID",
+    "eventType": "Experience Event",
+    "timestamp": "2014-08-28 14:20:51"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "5713ID",
+          "adUnitType": "2760 Type",
+          "promotedAssetId": "7567ID",
+          "runtime": "runtime B"
+        },
+        "campaign": {
+          "accountId": "6026ID",
+          "advertiserId": "6981ID",
+          "campaignId": "7149ID",
+          "currency": "USD",
+          "experimentId": "6270ID",
+          "packageId": "7905ID",
+          "placementId": "7165ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "1533ID",
+            "attributableSegmentId": "3233ID",
+            "segments": "segment B"
+          },
+          "costCurrency": "GBP",
+          "feedId": "7243ID",
+          "inventorySourceId": "4037ID",
+          "sessionId": "5882ID",
+          "siteId": "6474ID",
+          "attributablePartnerId": "3901ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "9499ID"
+      }
+    },
+    "_id": "3363803ID",
+    "eventType": "Experience Event",
+    "timestamp": "2015-04-24 03:13:57"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "1899ID",
+          "adUnitType": "4763 Type",
+          "promotedAssetId": "5513ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "5847ID",
+          "advertiserId": "9864ID",
+          "campaignId": "6023ID",
+          "currency": "GBP",
+          "experimentId": "3920ID",
+          "packageId": "2318ID",
+          "placementId": "4084ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "2034ID",
+            "attributableSegmentId": "9704ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "EUR",
+          "feedId": "7671ID",
+          "inventorySourceId": "1477ID",
+          "sessionId": "2843ID",
+          "siteId": "5557ID",
+          "attributablePartnerId": "1930ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "6984ID"
+      }
+    },
+    "_id": "7315711ID",
+    "eventType": "Experience Event",
+    "timestamp": "2016-11-06 21:29:57"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "2010ID",
+          "adUnitType": "8350 Type",
+          "promotedAssetId": "8747ID",
+          "runtime": "runtime B"
+        },
+        "campaign": {
+          "accountId": "6860ID",
+          "advertiserId": "1825ID",
+          "campaignId": "3101ID",
+          "currency": "USD",
+          "experimentId": "1162ID",
+          "packageId": "8168ID",
+          "placementId": "6456ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "8217ID",
+            "attributableSegmentId": "9275ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "EUR",
+          "feedId": "7371ID",
+          "inventorySourceId": "1296ID",
+          "sessionId": "1361ID",
+          "siteId": "2129ID",
+          "attributablePartnerId": "7219ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "8365ID"
+      }
+    },
+    "_id": "3898426ID",
+    "eventType": "Experience Event",
+    "timestamp": "2017-03-04 15:42:26"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "7774ID",
+          "adUnitType": "2858 Type",
+          "promotedAssetId": "4050ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "2452ID",
+          "advertiserId": "2279ID",
+          "campaignId": "2809ID",
+          "currency": "GBP",
+          "experimentId": "7144ID",
+          "packageId": "2162ID",
+          "placementId": "3549ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "5608ID",
+            "attributableSegmentId": "9179ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "USD",
+          "feedId": "3264ID",
+          "inventorySourceId": "5214ID",
+          "sessionId": "2751ID",
+          "siteId": "1398ID",
+          "attributablePartnerId": "6787ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "6882ID"
+      }
+    },
+    "_id": "1667445ID",
+    "eventType": "Experience Event",
+    "timestamp": "2015-09-03 18:20:11"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "1376ID",
+          "adUnitType": "9574 Type",
+          "promotedAssetId": "7755ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "4361ID",
+          "advertiserId": "1490ID",
+          "campaignId": "1407ID",
+          "currency": "GBP",
+          "experimentId": "4358ID",
+          "packageId": "4056ID",
+          "placementId": "9020ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "9680ID",
+            "attributableSegmentId": "3060ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "USD",
+          "feedId": "4021ID",
+          "inventorySourceId": "7894ID",
+          "sessionId": "9952ID",
+          "siteId": "4087ID",
+          "attributablePartnerId": "1588ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "1433ID"
+      }
+    },
+    "_id": "5271720ID",
+    "eventType": "Experience Event",
+    "timestamp": "2016-12-02 00:10:26"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "7932ID",
+          "adUnitType": "6262 Type",
+          "promotedAssetId": "1977ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "2034ID",
+          "advertiserId": "3085ID",
+          "campaignId": "6426ID",
+          "currency": "GBP",
+          "experimentId": "9617ID",
+          "packageId": "5031ID",
+          "placementId": "7931ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "2781ID",
+            "attributableSegmentId": "1633ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "USD",
+          "feedId": "6205ID",
+          "inventorySourceId": "5302ID",
+          "sessionId": "6635ID",
+          "siteId": "7290ID",
+          "attributablePartnerId": "4911ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "5398ID"
+      }
+    },
+    "_id": "5664313ID",
+    "eventType": "Experience Event",
+    "timestamp": "2018-06-22 23:25:28"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "6066ID",
+          "adUnitType": "4909 Type",
+          "promotedAssetId": "6658ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "6582ID",
+          "advertiserId": "7333ID",
+          "campaignId": "2741ID",
+          "currency": "GBP",
+          "experimentId": "1782ID",
+          "packageId": "2159ID",
+          "placementId": "2624ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "5445ID",
+            "attributableSegmentId": "4371ID",
+            "segments": "segment B"
+          },
+          "costCurrency": "GBP",
+          "feedId": "4934ID",
+          "inventorySourceId": "1563ID",
+          "sessionId": "4840ID",
+          "siteId": "6113ID",
+          "attributablePartnerId": "7625ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "9807ID"
+      }
+    },
+    "_id": "8654303ID",
+    "eventType": "Experience Event",
+    "timestamp": "2015-08-06 16:23:38"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "4638ID",
+          "adUnitType": "1298 Type",
+          "promotedAssetId": "8386ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "7989ID",
+          "advertiserId": "9372ID",
+          "campaignId": "9929ID",
+          "currency": "USD",
+          "experimentId": "5434ID",
+          "packageId": "1846ID",
+          "placementId": "2216ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "7531ID",
+            "attributableSegmentId": "5396ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "GBP",
+          "feedId": "3260ID",
+          "inventorySourceId": "3311ID",
+          "sessionId": "7459ID",
+          "siteId": "1312ID",
+          "attributablePartnerId": "6048ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "2405ID"
+      }
+    },
+    "_id": "4157805ID",
+    "eventType": "Experience Event",
+    "timestamp": "2015-08-09 10:33:37"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "8068ID",
+          "adUnitType": "4612 Type",
+          "promotedAssetId": "4845ID",
+          "runtime": "runtime B"
+        },
+        "campaign": {
+          "accountId": "9787ID",
+          "advertiserId": "2812ID",
+          "campaignId": "7273ID",
+          "currency": "USD",
+          "experimentId": "1733ID",
+          "packageId": "1493ID",
+          "placementId": "8957ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "5638ID",
+            "attributableSegmentId": "7728ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "GBP",
+          "feedId": "9691ID",
+          "inventorySourceId": "8220ID",
+          "sessionId": "1870ID",
+          "siteId": "1714ID",
+          "attributablePartnerId": "7204ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "2928ID"
+      }
+    },
+    "_id": "1481217ID",
+    "eventType": "Experience Event",
+    "timestamp": "2018-12-02 23:42:26"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "3506ID",
+          "adUnitType": "4946 Type",
+          "promotedAssetId": "8238ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "7160ID",
+          "advertiserId": "3593ID",
+          "campaignId": "3879ID",
+          "currency": "GBP",
+          "experimentId": "5189ID",
+          "packageId": "1370ID",
+          "placementId": "8691ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "4959ID",
+            "attributableSegmentId": "3861ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "GBP",
+          "feedId": "2651ID",
+          "inventorySourceId": "4424ID",
+          "sessionId": "7363ID",
+          "siteId": "4478ID",
+          "attributablePartnerId": "6115ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "6101ID"
+      }
+    },
+    "_id": "9897894ID",
+    "eventType": "Experience Event",
+    "timestamp": "2014-08-22 12:29:33"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "2764ID",
+          "adUnitType": "4222 Type",
+          "promotedAssetId": "7998ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "1627ID",
+          "advertiserId": "8418ID",
+          "campaignId": "8971ID",
+          "currency": "GBP",
+          "experimentId": "7153ID",
+          "packageId": "2502ID",
+          "placementId": "8608ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "2975ID",
+            "attributableSegmentId": "6510ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "GBP",
+          "feedId": "7857ID",
+          "inventorySourceId": "9334ID",
+          "sessionId": "6464ID",
+          "siteId": "8658ID",
+          "attributablePartnerId": "5241ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "1743ID"
+      }
+    },
+    "_id": "1539873ID",
+    "eventType": "Experience Event",
+    "timestamp": "2015-12-31 03:38:32"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "3129ID",
+          "adUnitType": "5899 Type",
+          "promotedAssetId": "3636ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "7831ID",
+          "advertiserId": "1834ID",
+          "campaignId": "9987ID",
+          "currency": "GBP",
+          "experimentId": "6293ID",
+          "packageId": "3665ID",
+          "placementId": "7291ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "8417ID",
+            "attributableSegmentId": "9951ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "USD",
+          "feedId": "6979ID",
+          "inventorySourceId": "8213ID",
+          "sessionId": "3640ID",
+          "siteId": "6487ID",
+          "attributablePartnerId": "3807ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "5534ID"
+      }
+    },
+    "_id": "3890846ID",
+    "eventType": "Experience Event",
+    "timestamp": "2015-04-02 20:17:19"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "3399ID",
+          "adUnitType": "5802 Type",
+          "promotedAssetId": "9561ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "7483ID",
+          "advertiserId": "3661ID",
+          "campaignId": "2051ID",
+          "currency": "GBP",
+          "experimentId": "5238ID",
+          "packageId": "5199ID",
+          "placementId": "9283ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "8589ID",
+            "attributableSegmentId": "1207ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "EUR",
+          "feedId": "3324ID",
+          "inventorySourceId": "5891ID",
+          "sessionId": "8119ID",
+          "siteId": "7337ID",
+          "attributablePartnerId": "8757ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "4617ID"
+      }
+    },
+    "_id": "4179828ID",
+    "eventType": "Experience Event",
+    "timestamp": "2019-01-16 00:53:08"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "2435ID",
+          "adUnitType": "4944 Type",
+          "promotedAssetId": "5652ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "7597ID",
+          "advertiserId": "6120ID",
+          "campaignId": "3496ID",
+          "currency": "GBP",
+          "experimentId": "3204ID",
+          "packageId": "7270ID",
+          "placementId": "8885ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "3093ID",
+            "attributableSegmentId": "4864ID",
+            "segments": "segment B"
+          },
+          "costCurrency": "USD",
+          "feedId": "5943ID",
+          "inventorySourceId": "3241ID",
+          "sessionId": "7618ID",
+          "siteId": "4795ID",
+          "attributablePartnerId": "1095ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "4111ID"
+      }
+    },
+    "_id": "4983396ID",
+    "eventType": "Experience Event",
+    "timestamp": "2018-04-24 07:47:11"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "5636ID",
+          "adUnitType": "1364 Type",
+          "promotedAssetId": "6710ID",
+          "runtime": "runtime B"
+        },
+        "campaign": {
+          "accountId": "8887ID",
+          "advertiserId": "4768ID",
+          "campaignId": "7466ID",
+          "currency": "EUR",
+          "experimentId": "6904ID",
+          "packageId": "1261ID",
+          "placementId": "6163ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "8695ID",
+            "attributableSegmentId": "3486ID",
+            "segments": "segment B"
+          },
+          "costCurrency": "EUR",
+          "feedId": "8139ID",
+          "inventorySourceId": "4073ID",
+          "sessionId": "8661ID",
+          "siteId": "2086ID",
+          "attributablePartnerId": "4896ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "2932ID"
+      }
+    },
+    "_id": "2919565ID",
+    "eventType": "Experience Event",
+    "timestamp": "2015-02-25 05:45:32"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "6400ID",
+          "adUnitType": "9548 Type",
+          "promotedAssetId": "5450ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "4662ID",
+          "advertiserId": "2110ID",
+          "campaignId": "9241ID",
+          "currency": "GBP",
+          "experimentId": "5116ID",
+          "packageId": "7808ID",
+          "placementId": "8947ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "9304ID",
+            "attributableSegmentId": "4062ID",
+            "segments": "segment B"
+          },
+          "costCurrency": "EUR",
+          "feedId": "8280ID",
+          "inventorySourceId": "9262ID",
+          "sessionId": "9974ID",
+          "siteId": "4757ID",
+          "attributablePartnerId": "3605ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "7089ID"
+      }
+    },
+    "_id": "6722803ID",
+    "eventType": "Experience Event",
+    "timestamp": "2018-03-21 00:35:46"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event C",
+          "adId": "2794ID",
+          "adUnitType": "5599 Type",
+          "promotedAssetId": "6848ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "3550ID",
+          "advertiserId": "3063ID",
+          "campaignId": "4275ID",
+          "currency": "EUR",
+          "experimentId": "4714ID",
+          "packageId": "2354ID",
+          "placementId": "1505ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "7085ID",
+            "attributableSegmentId": "3167ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "GBP",
+          "feedId": "8371ID",
+          "inventorySourceId": "7767ID",
+          "sessionId": "4908ID",
+          "siteId": "2265ID",
+          "attributablePartnerId": "5551ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "2084ID"
+      }
+    },
+    "_id": "8752485ID",
+    "eventType": "Experience Event",
+    "timestamp": "2017-07-19 07:11:44"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "6498ID",
+          "adUnitType": "1055 Type",
+          "promotedAssetId": "1320ID",
+          "runtime": "runtime A"
+        },
+        "campaign": {
+          "accountId": "7313ID",
+          "advertiserId": "6414ID",
+          "campaignId": "9812ID",
+          "currency": "EUR",
+          "experimentId": "1581ID",
+          "packageId": "6140ID",
+          "placementId": "2967ID",
+          "sspPartnerCode": "Partner 389"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "3052ID",
+            "attributableSegmentId": "1123ID",
+            "segments": "segment C"
+          },
+          "costCurrency": "EUR",
+          "feedId": "6624ID",
+          "inventorySourceId": "9867ID",
+          "sessionId": "8224ID",
+          "siteId": "9619ID",
+          "attributablePartnerId": "7754ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "1997ID"
+      }
+    },
+    "_id": "5153558ID",
+    "eventType": "Experience Event",
+    "timestamp": "2019-03-16 19:15:40"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event A",
+          "adId": "9122ID",
+          "adUnitType": "7563 Type",
+          "promotedAssetId": "3974ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "3553ID",
+          "advertiserId": "2107ID",
+          "campaignId": "9009ID",
+          "currency": "USD",
+          "experimentId": "7503ID",
+          "packageId": "6929ID",
+          "placementId": "7770ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "3316ID",
+            "attributableSegmentId": "5572ID",
+            "segments": "segment A"
+          },
+          "costCurrency": "EUR",
+          "feedId": "6739ID",
+          "inventorySourceId": "8428ID",
+          "sessionId": "1263ID",
+          "siteId": "4397ID",
+          "attributablePartnerId": "7596ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "5300ID"
+      }
+    },
+    "_id": "5642151ID",
+    "eventType": "Experience Event",
+    "timestamp": "2017-12-26 16:20:35"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "3518ID",
+          "adUnitType": "1849 Type",
+          "promotedAssetId": "5148ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "2462ID",
+          "advertiserId": "7461ID",
+          "campaignId": "5216ID",
+          "currency": "USD",
+          "experimentId": "9701ID",
+          "packageId": "8059ID",
+          "placementId": "6421ID",
+          "sspPartnerCode": "Partner 247"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "1437ID",
+            "attributableSegmentId": "9941ID",
+            "segments": "segment B"
+          },
+          "costCurrency": "EUR",
+          "feedId": "1229ID",
+          "inventorySourceId": "6901ID",
+          "sessionId": "8312ID",
+          "siteId": "4094ID",
+          "attributablePartnerId": "9973ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "1379ID"
+      }
+    },
+    "_id": "3924810ID",
+    "eventType": "Experience Event",
+    "timestamp": "2015-03-18 07:11:52"
+  },
+  {
+    "_experience": {
+      "adcloud": {
+        "advertisement": {
+          "adClass": "driving event B",
+          "adId": "3997ID",
+          "adUnitType": "9630 Type",
+          "promotedAssetId": "8482ID",
+          "runtime": "runtime C"
+        },
+        "campaign": {
+          "accountId": "3436ID",
+          "advertiserId": "4564ID",
+          "campaignId": "6805ID",
+          "currency": "GBP",
+          "experimentId": "8812ID",
+          "packageId": "8346ID",
+          "placementId": "2782ID",
+          "sspPartnerCode": "Partner 178"
+        },
+        "inventory": {
+          "segment": {
+            "attributablePartnerId": "8715ID",
+            "attributableSegmentId": "2801ID",
+            "segments": "segment B"
+          },
+          "costCurrency": "EUR",
+          "feedId": "3396ID",
+          "inventorySourceId": "2050ID",
+          "sessionId": "7865ID",
+          "siteId": "1293ID",
+          "attributablePartnerId": "7697ID"
+        },
+        "eventType": "adcloud Event",
+        "stitchId": "3470ID"
+      }
+    },
+    "_id": "1764442ID",
+    "eventType": "Experience Event",
+    "timestamp": "2019-05-07 16:49:34"
+  }
+]
