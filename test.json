@@ -2,18 +2,16 @@
   {
     "_id": "3481980ID",
     "eventType": "Experience Event",
-    "identityMap": {
-       "ECID": [
+    "identityMap": [
+      
            {
              "xdm:id": "92312748749128"
-           }
-      ],
-      "EMAIL": [
-          {
+           },  
+           {
              "xdm:id": "jane@doe.com"
-          }
-      ]
-    },
+           }
+   
+    ],
     "timestamp": "2014-08-21 19:20:43"
   }
 ]
