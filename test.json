@@ -2,7 +2,7 @@
   {
     "_id": "3481980ID",
     "eventType": "Experience Event",
-    "xdm:identityMap": {
+    "identityMap": {
        "ECID": [
            {
              "xdm:id": "92312748749128"
