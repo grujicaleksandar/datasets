@@ -1,0 +1,3242 @@
+[
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 189.723225,
+      "date": "2/5/10",
+      "isHoliday": false,
+      "markdown": 0.5,
+      "regionalFuelPrice": 2.8786,
+      "store": 20,
+      "storeSize": 66468,
+      "storeType": "B",
+      "temperature": 19.55,
+      "unemployment": 7.9334,
+      "weeklySales": 2447236.56
+    },
+    "_id": "8821066ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-07-26 20:41:21"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 193.278508,
+      "date": "2/5/10",
+      "isHoliday": true,
+      "markdown": 0.9,
+      "regionalFuelPrice": 2.5213,
+      "store": 33,
+      "storeSize": 132745,
+      "storeType": "A",
+      "temperature": 24.24,
+      "unemployment": 10.11,
+      "weeklySales": 699913.67
+    },
+    "_id": "7312253ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-08-28 06:58:18"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 239.409586,
+      "date": "2/5/10",
+      "isHoliday": true,
+      "markdown": 0,
+      "regionalFuelPrice": 2.6779,
+      "store": 2,
+      "storeSize": 91621,
+      "storeType": "C",
+      "temperature": 42.98,
+      "unemployment": 9.9735,
+      "weeklySales": 2092577.31
+    },
+    "_id": "7950564ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-06-05 04:49:47"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 185.615627,
+      "date": "2/5/10",
+      "isHoliday": false,
+      "markdown": 0,
+      "regionalFuelPrice": 2.1073,
+      "store": 35,
+      "storeSize": 66120,
+      "storeType": "B",
+      "temperature": 25.66,
+      "unemployment": 5.309,
+      "weeklySales": 1139171.63
+    },
+    "_id": "7771358ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-12-15 21:38:17"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 185.217556,
+      "date": "2/5/10",
+      "isHoliday": false,
+      "markdown": 0.3,
+      "regionalFuelPrice": 2.723,
+      "store": 29,
+      "storeSize": 76044,
+      "storeType": "B",
+      "temperature": 49.23,
+      "unemployment": 8.626,
+      "weeklySales": 2720698.98
+    },
+    "_id": "5282250ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-11-27 04:56:44"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 194.952878,
+      "date": "2/5/10",
+      "isHoliday": true,
+      "markdown": 0.2,
+      "regionalFuelPrice": 2.856,
+      "store": 6,
+      "storeSize": 126111,
+      "storeType": "C",
+      "temperature": 26.76,
+      "unemployment": 6.5923,
+      "weeklySales": 2270311.56
+    },
+    "_id": "6469956ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-10-14 21:28:22"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 202.786824,
+      "date": "2/5/10",
+      "isHoliday": true,
+      "markdown": 0.3,
+      "regionalFuelPrice": 2.2869,
+      "store": 11,
+      "storeSize": 249402,
+      "storeType": "C",
+      "temperature": 19.88,
+      "unemployment": 11.3038,
+      "weeklySales": 732162.45
+    },
+    "_id": "2402142ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2017-11-29 23:36:26"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 218.158346,
+      "date": "2/5/10",
+      "isHoliday": false,
+      "markdown": 0.2,
+      "regionalFuelPrice": 2.3917,
+      "store": 48,
+      "storeSize": 191411,
+      "storeType": "C",
+      "temperature": 10.26,
+      "unemployment": 12.2645,
+      "weeklySales": 2136640.22
+    },
+    "_id": "9848200ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2019-01-13 21:54:56"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 257.781256,
+      "date": "2/5/10",
+      "isHoliday": false,
+      "markdown": 0.7,
+      "regionalFuelPrice": 2.1981,
+      "store": 37,
+      "storeSize": 178593,
+      "storeType": "A",
+      "temperature": 25.77,
+      "unemployment": 12.3018,
+      "weeklySales": 923473.88
+    },
+    "_id": "4473756ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2019-02-12 01:16:22"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 233.643779,
+      "date": "2/5/10",
+      "isHoliday": false,
+      "markdown": 0.4,
+      "regionalFuelPrice": 2.7257,
+      "store": 44,
+      "storeSize": 70909,
+      "storeType": "A",
+      "temperature": 47.24,
+      "unemployment": 6.5307,
+      "weeklySales": 2944202.01
+    },
+    "_id": "8425974ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2019-05-08 15:55:08"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 261.579459,
+      "date": "2/5/10",
+      "isHoliday": true,
+      "markdown": 0.9,
+      "regionalFuelPrice": 2.2862,
+      "store": 35,
+      "storeSize": 182428,
+      "storeType": "A",
+      "temperature": 54.4,
+      "unemployment": 10.5983,
+      "weeklySales": 2458974.77
+    },
+    "_id": "9892505ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-05-26 22:37:22"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 179.126712,
+      "date": "2/5/10",
+      "isHoliday": true,
+      "markdown": 0.1,
+      "regionalFuelPrice": 2.9316,
+      "store": 43,
+      "storeSize": 56591,
+      "storeType": "B",
+      "temperature": 14.75,
+      "unemployment": 7.0032,
+      "weeklySales": 2580413.57
+    },
+    "_id": "2203296ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2019-05-26 20:14:24"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 217.210664,
+      "date": "2/5/10",
+      "isHoliday": false,
+      "markdown": 0.4,
+      "regionalFuelPrice": 2.6792,
+      "store": 3,
+      "storeSize": 221822,
+      "storeType": "C",
+      "temperature": 26.6,
+      "unemployment": 11.0913,
+      "weeklySales": 2466582.34
+    },
+    "_id": "9805355ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2017-09-13 16:59:11"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 234.189837,
+      "date": "2/5/10",
+      "isHoliday": false,
+      "markdown": 0.4,
+      "regionalFuelPrice": 2.2952,
+      "store": 47,
+      "storeSize": 131936,
+      "storeType": "C",
+      "temperature": 51.46,
+      "unemployment": 7.063,
+      "weeklySales": 2693516.28
+    },
+    "_id": "9962160ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-06-20 12:40:21"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 192.968263,
+      "date": "2/5/10",
+      "isHoliday": false,
+      "markdown": 0.7,
+      "regionalFuelPrice": 2.8418,
+      "store": 14,
+      "storeSize": 228412,
+      "storeType": "B",
+      "temperature": 18.88,
+      "unemployment": 9.5465,
+      "weeklySales": 1549596.3
+    },
+    "_id": "1149763ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-07-11 11:04:38"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 196.879713,
+      "date": "2/5/10",
+      "isHoliday": true,
+      "markdown": 0.7,
+      "regionalFuelPrice": 2.5928,
+      "store": 1,
+      "storeSize": 137022,
+      "storeType": "C",
+      "temperature": 46.13,
+      "unemployment": 8.8419,
+      "weeklySales": 2170257.47
+    },
+    "_id": "2138952ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-01-03 09:51:57"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 246.525311,
+      "date": "2/5/10",
+      "isHoliday": true,
+      "markdown": 1,
+      "regionalFuelPrice": 2.7422,
+      "store": 27,
+      "storeSize": 193996,
+      "storeType": "B",
+      "temperature": 17.82,
+      "unemployment": 8.6849,
+      "weeklySales": 1314780.01
+    },
+    "_id": "4832993ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-03-22 02:57:00"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 204.229243,
+      "date": "2/5/10",
+      "isHoliday": true,
+      "markdown": 0,
+      "regionalFuelPrice": 2.9259,
+      "store": 18,
+      "storeSize": 248222,
+      "storeType": "C",
+      "temperature": 42.8,
+      "unemployment": 11.4886,
+      "weeklySales": 1186910.49
+    },
+    "_id": "7409707ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-12-01 10:53:17"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 249.458629,
+      "date": "2/5/10",
+      "isHoliday": true,
+      "markdown": 0.4,
+      "regionalFuelPrice": 2.3556,
+      "store": 13,
+      "storeSize": 181798,
+      "storeType": "C",
+      "temperature": 37.4,
+      "unemployment": 6.4952,
+      "weeklySales": 1626933.05
+    },
+    "_id": "5215983ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2019-04-30 10:11:41"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 178.377356,
+      "date": "2/5/10",
+      "isHoliday": false,
+      "markdown": 0.4,
+      "regionalFuelPrice": 2.5133,
+      "store": 39,
+      "storeSize": 143916,
+      "storeType": "C",
+      "temperature": 17.79,
+      "unemployment": 7.8911,
+      "weeklySales": 922077.58
+    },
+    "_id": "4621549ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-01-20 18:52:20"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 271.894326,
+      "date": "2/5/10",
+      "isHoliday": true,
+      "markdown": 0.8,
+      "regionalFuelPrice": 2.1856,
+      "store": 4,
+      "storeSize": 236772,
+      "storeType": "C",
+      "temperature": 53.12,
+      "unemployment": 11.7434,
+      "weeklySales": 1911246.25
+    },
+    "_id": "1655990ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2017-01-24 17:07:08"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 294.04901,
+      "date": "2/5/10",
+      "isHoliday": true,
+      "markdown": 0,
+      "regionalFuelPrice": 2.1797,
+      "store": 50,
+      "storeSize": 236160,
+      "storeType": "C",
+      "temperature": 36.13,
+      "unemployment": 11.7554,
+      "weeklySales": 522966.66
+    },
+    "_id": "3134946ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-01-06 16:29:40"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 213.004721,
+      "date": "2/5/10",
+      "isHoliday": false,
+      "markdown": 0.7,
+      "regionalFuelPrice": 2.1713,
+      "store": 23,
+      "storeSize": 179753,
+      "storeType": "A",
+      "temperature": 27.5,
+      "unemployment": 12.3292,
+      "weeklySales": 834200.73
+    },
+    "_id": "4296942ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-10-31 19:43:13"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 289.591228,
+      "date": "2/5/10",
+      "isHoliday": false,
+      "markdown": 0.1,
+      "regionalFuelPrice": 2.279,
+      "store": 49,
+      "storeSize": 131957,
+      "storeType": "B",
+      "temperature": 26.24,
+      "unemployment": 8.5609,
+      "weeklySales": 840058.81
+    },
+    "_id": "3922997ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-01-18 05:03:39"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 155.963113,
+      "date": "2/5/10",
+      "isHoliday": false,
+      "markdown": 0.7,
+      "regionalFuelPrice": 2.374,
+      "store": 46,
+      "storeSize": 88004,
+      "storeType": "C",
+      "temperature": 19.28,
+      "unemployment": 11.0876,
+      "weeklySales": 641216.5
+    },
+    "_id": "1844898ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-07-03 14:50:21"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 240.146048,
+      "date": "2/5/10",
+      "isHoliday": false,
+      "markdown": 0.6,
+      "regionalFuelPrice": 2.3253,
+      "store": 10,
+      "storeSize": 59264,
+      "storeType": "C",
+      "temperature": 16.22,
+      "unemployment": 10.4512,
+      "weeklySales": 2296162.77
+    },
+    "_id": "2690559ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-04-04 04:33:48"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 158.752746,
+      "date": "2/5/10",
+      "isHoliday": true,
+      "markdown": 0,
+      "regionalFuelPrice": 2.1159,
+      "store": 22,
+      "storeSize": 223380,
+      "storeType": "B",
+      "temperature": 30.54,
+      "unemployment": 8.6804,
+      "weeklySales": 2303375.08
+    },
+    "_id": "6713939ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2017-08-12 09:19:27"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 264.710817,
+      "date": "2/5/10",
+      "isHoliday": false,
+      "markdown": 0.9,
+      "regionalFuelPrice": 2.9507,
+      "store": 47,
+      "storeSize": 55671,
+      "storeType": "A",
+      "temperature": 50.97,
+      "unemployment": 6.7287,
+      "weeklySales": 594835.73
+    },
+    "_id": "6379778ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2017-06-15 07:55:25"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 180.878164,
+      "date": "2/5/10",
+      "isHoliday": true,
+      "markdown": 0,
+      "regionalFuelPrice": 2.5366,
+      "store": 20,
+      "storeSize": 246116,
+      "storeType": "A",
+      "temperature": 27.45,
+      "unemployment": 12.4406,
+      "weeklySales": 1011270.04
+    },
+    "_id": "6191868ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-04-14 16:46:26"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 178.726185,
+      "date": "2/5/10",
+      "isHoliday": false,
+      "markdown": 0.5,
+      "regionalFuelPrice": 2.8626,
+      "store": 37,
+      "storeSize": 119142,
+      "storeType": "B",
+      "temperature": 41.81,
+      "unemployment": 5.8887,
+      "weeklySales": 2321177.02
+    },
+    "_id": "2576132ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-10-28 09:04:20"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 201.32495,
+      "date": "2/5/10",
+      "isHoliday": false,
+      "markdown": 0.3,
+      "regionalFuelPrice": 2.483,
+      "store": 22,
+      "storeSize": 161743,
+      "storeType": "A",
+      "temperature": 46.52,
+      "unemployment": 10.9766,
+      "weeklySales": 2959650.34
+    },
+    "_id": "8751917ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-11-24 09:45:35"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 231.137179,
+      "date": "2/5/10",
+      "isHoliday": true,
+      "markdown": 0.1,
+      "regionalFuelPrice": 2.847,
+      "store": 3,
+      "storeSize": 55103,
+      "storeType": "A",
+      "temperature": 42.31,
+      "unemployment": 6.1033,
+      "weeklySales": 928910.47
+    },
+    "_id": "4683234ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-04-09 19:12:13"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 275.922524,
+      "date": "2/5/10",
+      "isHoliday": true,
+      "markdown": 1,
+      "regionalFuelPrice": 2.2808,
+      "store": 10,
+      "storeSize": 63224,
+      "storeType": "B",
+      "temperature": 15.55,
+      "unemployment": 5.2437,
+      "weeklySales": 1375879
+    },
+    "_id": "5716392ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-01-21 14:35:15"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 201.837215,
+      "date": "2/5/10",
+      "isHoliday": false,
+      "markdown": 0.1,
+      "regionalFuelPrice": 2.138,
+      "store": 21,
+      "storeSize": 109761,
+      "storeType": "C",
+      "temperature": 13.22,
+      "unemployment": 9.4802,
+      "weeklySales": 1992736.37
+    },
+    "_id": "9848234ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-08-07 20:58:38"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 170.549852,
+      "date": "2/5/10",
+      "isHoliday": true,
+      "markdown": 0.6,
+      "regionalFuelPrice": 2.202,
+      "store": 40,
+      "storeSize": 164132,
+      "storeType": "C",
+      "temperature": 48.84,
+      "unemployment": 8.1601,
+      "weeklySales": 2220729.18
+    },
+    "_id": "1371822ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-08-30 13:06:24"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 231.242217,
+      "date": "2/5/10",
+      "isHoliday": false,
+      "markdown": 0.4,
+      "regionalFuelPrice": 2.5611,
+      "store": 35,
+      "storeSize": 116281,
+      "storeType": "A",
+      "temperature": 13.33,
+      "unemployment": 7.6535,
+      "weeklySales": 1523041.66
+    },
+    "_id": "7965331ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-03-09 06:17:02"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 271.766315,
+      "date": "2/5/10",
+      "isHoliday": false,
+      "markdown": 0.5,
+      "regionalFuelPrice": 2.2193,
+      "store": 32,
+      "storeSize": 218253,
+      "storeType": "A",
+      "temperature": 45.72,
+      "unemployment": 11.037,
+      "weeklySales": 2832716.27
+    },
+    "_id": "5722813ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2017-09-28 04:00:39"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 289.803402,
+      "date": "2/5/10",
+      "isHoliday": true,
+      "markdown": 0.4,
+      "regionalFuelPrice": 2.7849,
+      "store": 34,
+      "storeSize": 153229,
+      "storeType": "B",
+      "temperature": 48.16,
+      "unemployment": 10.5692,
+      "weeklySales": 1676972.39
+    },
+    "_id": "8901577ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-04-18 11:30:00"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 222.447038,
+      "date": "2/5/10",
+      "isHoliday": false,
+      "markdown": 0,
+      "regionalFuelPrice": 2.2192,
+      "store": 25,
+      "storeSize": 169529,
+      "storeType": "B",
+      "temperature": 11.07,
+      "unemployment": 11.5269,
+      "weeklySales": 1087068.77
+    },
+    "_id": "9939647ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-09-25 21:12:19"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 299.481819,
+      "date": "2/5/10",
+      "isHoliday": false,
+      "markdown": 1,
+      "regionalFuelPrice": 2.8505,
+      "store": 38,
+      "storeSize": 242758,
+      "storeType": "A",
+      "temperature": 41.66,
+      "unemployment": 10.1637,
+      "weeklySales": 2978982.2
+    },
+    "_id": "6559746ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-11-11 03:39:18"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 284.156067,
+      "date": "2/5/10",
+      "isHoliday": true,
+      "markdown": 0.2,
+      "regionalFuelPrice": 2.9609,
+      "store": 8,
+      "storeSize": 237615,
+      "storeType": "A",
+      "temperature": 28.72,
+      "unemployment": 8.4824,
+      "weeklySales": 2605542.95
+    },
+    "_id": "1554148ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-08-20 05:50:34"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 210.452051,
+      "date": "2/5/10",
+      "isHoliday": false,
+      "markdown": 0,
+      "regionalFuelPrice": 2.7038,
+      "store": 14,
+      "storeSize": 201216,
+      "storeType": "A",
+      "temperature": 18.48,
+      "unemployment": 10.1191,
+      "weeklySales": 2681526.23
+    },
+    "_id": "6627154ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-11-14 23:17:45"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 258.167107,
+      "date": "2/5/10",
+      "isHoliday": false,
+      "markdown": 0.5,
+      "regionalFuelPrice": 2.7493,
+      "store": 44,
+      "storeSize": 158779,
+      "storeType": "A",
+      "temperature": 48.79,
+      "unemployment": 6.123,
+      "weeklySales": 2497103.76
+    },
+    "_id": "3078774ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-08-26 19:12:44"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 261.576237,
+      "date": "2/5/10",
+      "isHoliday": false,
+      "markdown": 0.4,
+      "regionalFuelPrice": 2.9191,
+      "store": 20,
+      "storeSize": 233537,
+      "storeType": "C",
+      "temperature": 37.21,
+      "unemployment": 9.0375,
+      "weeklySales": 2978535.16
+    },
+    "_id": "6805953ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-06-09 21:21:15"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 243.185269,
+      "date": "2/5/10",
+      "isHoliday": true,
+      "markdown": 0.9,
+      "regionalFuelPrice": 2.6224,
+      "store": 17,
+      "storeSize": 119903,
+      "storeType": "C",
+      "temperature": 50.78,
+      "unemployment": 11.316,
+      "weeklySales": 912496.39
+    },
+    "_id": "9001345ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2017-07-16 15:25:19"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 196.112016,
+      "date": "2/12/10",
+      "isHoliday": false,
+      "markdown": 0,
+      "regionalFuelPrice": 2.4091,
+      "store": 45,
+      "storeSize": 76815,
+      "storeType": "C",
+      "temperature": 49.89,
+      "unemployment": 9.6461,
+      "weeklySales": 2267399.31
+    },
+    "_id": "7173161ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-02-13 03:52:10"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 180.074942,
+      "date": "2/12/10",
+      "isHoliday": true,
+      "markdown": 0.8,
+      "regionalFuelPrice": 2.6897,
+      "store": 20,
+      "storeSize": 223246,
+      "storeType": "B",
+      "temperature": 43.88,
+      "unemployment": 7.4334,
+      "weeklySales": 1769964.41
+    },
+    "_id": "3947231ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2017-04-02 18:28:06"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 199.735319,
+      "date": "2/12/10",
+      "isHoliday": false,
+      "markdown": 0.6,
+      "regionalFuelPrice": 2.3976,
+      "store": 36,
+      "storeSize": 106990,
+      "storeType": "B",
+      "temperature": 14.14,
+      "unemployment": 11.8234,
+      "weeklySales": 2860922.17
+    },
+    "_id": "1475379ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-01-20 09:46:19"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 281.874614,
+      "date": "2/12/10",
+      "isHoliday": false,
+      "markdown": 0.6,
+      "regionalFuelPrice": 2.8429,
+      "store": 13,
+      "storeSize": 124315,
+      "storeType": "B",
+      "temperature": 51.54,
+      "unemployment": 8.5128,
+      "weeklySales": 1068333.46
+    },
+    "_id": "6038337ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-11-13 14:56:53"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 270.704201,
+      "date": "2/12/10",
+      "isHoliday": false,
+      "markdown": 0.1,
+      "regionalFuelPrice": 2.8058,
+      "store": 9,
+      "storeSize": 151329,
+      "storeType": "B",
+      "temperature": 29.84,
+      "unemployment": 7.4542,
+      "weeklySales": 2758253.93
+    },
+    "_id": "1779376ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-01-01 18:22:37"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 224.050872,
+      "date": "2/12/10",
+      "isHoliday": true,
+      "markdown": 0.8,
+      "regionalFuelPrice": 2.0608,
+      "store": 20,
+      "storeSize": 103848,
+      "storeType": "C",
+      "temperature": 16.05,
+      "unemployment": 6.8688,
+      "weeklySales": 1062263.77
+    },
+    "_id": "3830086ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2017-05-14 09:06:11"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 188.131385,
+      "date": "2/12/10",
+      "isHoliday": false,
+      "markdown": 0.4,
+      "regionalFuelPrice": 2.1186,
+      "store": 23,
+      "storeSize": 74223,
+      "storeType": "C",
+      "temperature": 20.05,
+      "unemployment": 8.3201,
+      "weeklySales": 1546092.87
+    },
+    "_id": "1237746ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-12-06 18:14:13"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 234.894,
+      "date": "2/12/10",
+      "isHoliday": false,
+      "markdown": 0.1,
+      "regionalFuelPrice": 2.421,
+      "store": 16,
+      "storeSize": 130409,
+      "storeType": "A",
+      "temperature": 47.45,
+      "unemployment": 10.8545,
+      "weeklySales": 998885.29
+    },
+    "_id": "5474917ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-03-21 09:53:06"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 154.264789,
+      "date": "2/12/10",
+      "isHoliday": true,
+      "markdown": 0.2,
+      "regionalFuelPrice": 2.3155,
+      "store": 39,
+      "storeSize": 243651,
+      "storeType": "C",
+      "temperature": 10.56,
+      "unemployment": 9.3258,
+      "weeklySales": 1717944.01
+    },
+    "_id": "4672328ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2017-09-03 11:05:45"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 184.176565,
+      "date": "2/12/10",
+      "isHoliday": false,
+      "markdown": 0.4,
+      "regionalFuelPrice": 2.5688,
+      "store": 12,
+      "storeSize": 80335,
+      "storeType": "C",
+      "temperature": 55.17,
+      "unemployment": 5.276,
+      "weeklySales": 1894578.35
+    },
+    "_id": "3936321ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2017-11-21 09:09:30"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 163.400031,
+      "date": "2/12/10",
+      "isHoliday": false,
+      "markdown": 0.9,
+      "regionalFuelPrice": 2.6355,
+      "store": 24,
+      "storeSize": 109403,
+      "storeType": "C",
+      "temperature": 24.9,
+      "unemployment": 11.8172,
+      "weeklySales": 1625701.96
+    },
+    "_id": "3920522ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2017-08-11 17:08:19"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 227.31801,
+      "date": "2/12/10",
+      "isHoliday": false,
+      "markdown": 0.8,
+      "regionalFuelPrice": 2.0204,
+      "store": 18,
+      "storeSize": 215842,
+      "storeType": "A",
+      "temperature": 46.49,
+      "unemployment": 6.7739,
+      "weeklySales": 504034.04
+    },
+    "_id": "6016895ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-07-28 15:01:45"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 227.530924,
+      "date": "2/12/10",
+      "isHoliday": true,
+      "markdown": 0.3,
+      "regionalFuelPrice": 2.0032,
+      "store": 26,
+      "storeSize": 120589,
+      "storeType": "A",
+      "temperature": 45.67,
+      "unemployment": 5.1311,
+      "weeklySales": 2496073.74
+    },
+    "_id": "9287773ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-10-04 20:55:06"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 231.119541,
+      "date": "2/12/10",
+      "isHoliday": true,
+      "markdown": 0.8,
+      "regionalFuelPrice": 2.0626,
+      "store": 25,
+      "storeSize": 239137,
+      "storeType": "B",
+      "temperature": 44.48,
+      "unemployment": 10.2122,
+      "weeklySales": 2593684.91
+    },
+    "_id": "8834610ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2019-01-14 07:01:51"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 271.676571,
+      "date": "2/12/10",
+      "isHoliday": false,
+      "markdown": 0.9,
+      "regionalFuelPrice": 2.0042,
+      "store": 13,
+      "storeSize": 207758,
+      "storeType": "B",
+      "temperature": 42.22,
+      "unemployment": 7.1861,
+      "weeklySales": 1535983.12
+    },
+    "_id": "1972123ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-01-27 17:05:16"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 162.866601,
+      "date": "2/12/10",
+      "isHoliday": false,
+      "markdown": 0.4,
+      "regionalFuelPrice": 2.1123,
+      "store": 7,
+      "storeSize": 56716,
+      "storeType": "C",
+      "temperature": 20.78,
+      "unemployment": 6.0325,
+      "weeklySales": 1409318.71
+    },
+    "_id": "9552053ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-02-03 10:57:10"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 157.315403,
+      "date": "2/12/10",
+      "isHoliday": false,
+      "markdown": 0.9,
+      "regionalFuelPrice": 2.9397,
+      "store": 4,
+      "storeSize": 68239,
+      "storeType": "A",
+      "temperature": 30.2,
+      "unemployment": 5.8092,
+      "weeklySales": 658537.74
+    },
+    "_id": "2951438ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-07-14 22:29:57"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 273.578637,
+      "date": "2/12/10",
+      "isHoliday": true,
+      "markdown": 0.6,
+      "regionalFuelPrice": 2.1448,
+      "store": 34,
+      "storeSize": 140814,
+      "storeType": "B",
+      "temperature": 53.96,
+      "unemployment": 12.7504,
+      "weeklySales": 1139377.04
+    },
+    "_id": "3062201ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-11-08 15:16:30"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 167.494066,
+      "date": "2/12/10",
+      "isHoliday": false,
+      "markdown": 0.8,
+      "regionalFuelPrice": 2.2639,
+      "store": 26,
+      "storeSize": 184141,
+      "storeType": "B",
+      "temperature": 47.34,
+      "unemployment": 5.3262,
+      "weeklySales": 2902955.96
+    },
+    "_id": "3658180ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2017-04-23 21:10:23"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 246.180287,
+      "date": "2/12/10",
+      "isHoliday": true,
+      "markdown": 0,
+      "regionalFuelPrice": 2.1575,
+      "store": 39,
+      "storeSize": 189536,
+      "storeType": "B",
+      "temperature": 33.89,
+      "unemployment": 5.8044,
+      "weeklySales": 2627227.27
+    },
+    "_id": "3224144ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-06-30 20:53:51"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 253.574446,
+      "date": "2/12/10",
+      "isHoliday": false,
+      "markdown": 0.7,
+      "regionalFuelPrice": 2.4801,
+      "store": 39,
+      "storeSize": 123094,
+      "storeType": "A",
+      "temperature": 18.2,
+      "unemployment": 10.9528,
+      "weeklySales": 684109.8
+    },
+    "_id": "4458549ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-12-07 00:51:55"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 193.842932,
+      "date": "2/12/10",
+      "isHoliday": true,
+      "markdown": 0.6,
+      "regionalFuelPrice": 2.8314,
+      "store": 17,
+      "storeSize": 192986,
+      "storeType": "C",
+      "temperature": 29.15,
+      "unemployment": 12.79,
+      "weeklySales": 2602940.76
+    },
+    "_id": "6886624ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-08-13 11:07:30"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 178.855233,
+      "date": "2/12/10",
+      "isHoliday": true,
+      "markdown": 0.6,
+      "regionalFuelPrice": 2.7673,
+      "store": 25,
+      "storeSize": 93710,
+      "storeType": "C",
+      "temperature": 39.54,
+      "unemployment": 11.0047,
+      "weeklySales": 735587.2
+    },
+    "_id": "1604145ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2017-10-07 10:31:01"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 280.454038,
+      "date": "2/12/10",
+      "isHoliday": true,
+      "markdown": 0.5,
+      "regionalFuelPrice": 2.2877,
+      "store": 45,
+      "storeSize": 215533,
+      "storeType": "B",
+      "temperature": 21.18,
+      "unemployment": 9.2004,
+      "weeklySales": 2305086.45
+    },
+    "_id": "2717082ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-04-27 23:13:44"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 270.042967,
+      "date": "2/12/10",
+      "isHoliday": false,
+      "markdown": 0.2,
+      "regionalFuelPrice": 2.7397,
+      "store": 38,
+      "storeSize": 156351,
+      "storeType": "B",
+      "temperature": 33.99,
+      "unemployment": 11.1138,
+      "weeklySales": 2565756.5
+    },
+    "_id": "3554524ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-10-18 13:20:16"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 217.20176,
+      "date": "2/12/10",
+      "isHoliday": true,
+      "markdown": 0.3,
+      "regionalFuelPrice": 2.8904,
+      "store": 47,
+      "storeSize": 134583,
+      "storeType": "A",
+      "temperature": 38.99,
+      "unemployment": 8.5333,
+      "weeklySales": 2112624.32
+    },
+    "_id": "1226440ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-04-15 17:31:58"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 153.817804,
+      "date": "2/12/10",
+      "isHoliday": true,
+      "markdown": 0.3,
+      "regionalFuelPrice": 2.9945,
+      "store": 27,
+      "storeSize": 186277,
+      "storeType": "C",
+      "temperature": 43.62,
+      "unemployment": 8.3008,
+      "weeklySales": 1442732.31
+    },
+    "_id": "5132684ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-03-17 07:19:53"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 249.768249,
+      "date": "2/12/10",
+      "isHoliday": true,
+      "markdown": 0.4,
+      "regionalFuelPrice": 2.4632,
+      "store": 22,
+      "storeSize": 238356,
+      "storeType": "A",
+      "temperature": 39.6,
+      "unemployment": 9.7616,
+      "weeklySales": 2252697.69
+    },
+    "_id": "3334737ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2017-10-06 08:29:32"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 221.546005,
+      "date": "2/12/10",
+      "isHoliday": false,
+      "markdown": 0.6,
+      "regionalFuelPrice": 2.7015,
+      "store": 38,
+      "storeSize": 165999,
+      "storeType": "C",
+      "temperature": 47.56,
+      "unemployment": 7.9954,
+      "weeklySales": 1051513.31
+    },
+    "_id": "6861931ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2017-05-01 02:59:50"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 162.675373,
+      "date": "2/12/10",
+      "isHoliday": true,
+      "markdown": 0.1,
+      "regionalFuelPrice": 2.5969,
+      "store": 40,
+      "storeSize": 143002,
+      "storeType": "C",
+      "temperature": 17.24,
+      "unemployment": 9.5215,
+      "weeklySales": 2636964.93
+    },
+    "_id": "1030127ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-09-24 23:34:28"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 280.66838,
+      "date": "2/12/10",
+      "isHoliday": true,
+      "markdown": 0.6,
+      "regionalFuelPrice": 2.9031,
+      "store": 13,
+      "storeSize": 134886,
+      "storeType": "B",
+      "temperature": 30.99,
+      "unemployment": 8.1703,
+      "weeklySales": 1609599.29
+    },
+    "_id": "1467065ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-07-15 01:31:08"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 222.958125,
+      "date": "2/12/10",
+      "isHoliday": false,
+      "markdown": 0.5,
+      "regionalFuelPrice": 2.92,
+      "store": 13,
+      "storeSize": 142959,
+      "storeType": "B",
+      "temperature": 52.28,
+      "unemployment": 10.7395,
+      "weeklySales": 2837554.01
+    },
+    "_id": "6255085ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-05-20 22:03:38"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 232.141658,
+      "date": "2/12/10",
+      "isHoliday": true,
+      "markdown": 0.1,
+      "regionalFuelPrice": 2.1335,
+      "store": 6,
+      "storeSize": 204487,
+      "storeType": "A",
+      "temperature": 11.96,
+      "unemployment": 7.4839,
+      "weeklySales": 1625908.24
+    },
+    "_id": "1966324ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-06-02 01:38:28"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 297.32625,
+      "date": "2/12/10",
+      "isHoliday": false,
+      "markdown": 0.2,
+      "regionalFuelPrice": 2.2538,
+      "store": 38,
+      "storeSize": 189940,
+      "storeType": "C",
+      "temperature": 53.73,
+      "unemployment": 5.4663,
+      "weeklySales": 2273466.57
+    },
+    "_id": "2476109ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-07-07 05:42:06"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 223.411348,
+      "date": "2/12/10",
+      "isHoliday": true,
+      "markdown": 0.3,
+      "regionalFuelPrice": 2.0659,
+      "store": 4,
+      "storeSize": 212467,
+      "storeType": "A",
+      "temperature": 43.36,
+      "unemployment": 5.9877,
+      "weeklySales": 1828621.24
+    },
+    "_id": "5421700ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-01-18 16:21:48"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 272.189661,
+      "date": "2/12/10",
+      "isHoliday": true,
+      "markdown": 0.3,
+      "regionalFuelPrice": 2.7837,
+      "store": 32,
+      "storeSize": 227223,
+      "storeType": "A",
+      "temperature": 47.43,
+      "unemployment": 6.0164,
+      "weeklySales": 2990066.32
+    },
+    "_id": "7023223ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2017-05-25 10:57:22"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 244.698228,
+      "date": "2/12/10",
+      "isHoliday": false,
+      "markdown": 0.8,
+      "regionalFuelPrice": 2.5669,
+      "store": 38,
+      "storeSize": 137326,
+      "storeType": "C",
+      "temperature": 41.54,
+      "unemployment": 10.5784,
+      "weeklySales": 2104343.57
+    },
+    "_id": "7328174ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-08-22 08:22:44"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 195.808016,
+      "date": "2/12/10",
+      "isHoliday": false,
+      "markdown": 0.7,
+      "regionalFuelPrice": 2.3466,
+      "store": 27,
+      "storeSize": 193665,
+      "storeType": "B",
+      "temperature": 22.51,
+      "unemployment": 8.0056,
+      "weeklySales": 2419311.85
+    },
+    "_id": "2379756ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-07-30 07:07:47"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 151.847656,
+      "date": "2/12/10",
+      "isHoliday": true,
+      "markdown": 0.1,
+      "regionalFuelPrice": 2.623,
+      "store": 6,
+      "storeSize": 212529,
+      "storeType": "C",
+      "temperature": 15.6,
+      "unemployment": 12.505,
+      "weeklySales": 766782.92
+    },
+    "_id": "4515998ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-05-26 09:10:01"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 156.2651,
+      "date": "2/12/10",
+      "isHoliday": false,
+      "markdown": 0.7,
+      "regionalFuelPrice": 2.2385,
+      "store": 31,
+      "storeSize": 97720,
+      "storeType": "A",
+      "temperature": 32.43,
+      "unemployment": 10.6757,
+      "weeklySales": 763372.01
+    },
+    "_id": "6125450ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-11-18 10:27:19"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 255.118645,
+      "date": "2/12/10",
+      "isHoliday": true,
+      "markdown": 0,
+      "regionalFuelPrice": 2.3857,
+      "store": 34,
+      "storeSize": 185835,
+      "storeType": "A",
+      "temperature": 20.89,
+      "unemployment": 5.5008,
+      "weeklySales": 2580418.77
+    },
+    "_id": "7693961ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2017-09-26 01:10:12"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 190.29299,
+      "date": "2/12/10",
+      "isHoliday": true,
+      "markdown": 0.5,
+      "regionalFuelPrice": 2.2341,
+      "store": 4,
+      "storeSize": 88256,
+      "storeType": "B",
+      "temperature": 37.93,
+      "unemployment": 11.5595,
+      "weeklySales": 1915757.2
+    },
+    "_id": "8464041ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-11-08 20:13:01"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 212.060522,
+      "date": "2/12/10",
+      "isHoliday": false,
+      "markdown": 0.6,
+      "regionalFuelPrice": 2.3278,
+      "store": 1,
+      "storeSize": 99736,
+      "storeType": "C",
+      "temperature": 41.99,
+      "unemployment": 7.8351,
+      "weeklySales": 2862519.51
+    },
+    "_id": "5800541ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2019-02-10 17:38:25"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 158.645627,
+      "date": "2/12/10",
+      "isHoliday": false,
+      "markdown": 1,
+      "regionalFuelPrice": 2.3151,
+      "store": 12,
+      "storeSize": 242684,
+      "storeType": "C",
+      "temperature": 51.46,
+      "unemployment": 8.2004,
+      "weeklySales": 2979452.64
+    },
+    "_id": "7445850ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-01-07 00:09:13"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 237.21185,
+      "date": "2/12/10",
+      "isHoliday": false,
+      "markdown": 0.1,
+      "regionalFuelPrice": 2.4594,
+      "store": 27,
+      "storeSize": 211544,
+      "storeType": "A",
+      "temperature": 36.93,
+      "unemployment": 11.3724,
+      "weeklySales": 1690794.15
+    },
+    "_id": "5953488ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-12-09 09:10:24"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 289.775569,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.5,
+      "regionalFuelPrice": 2.1267,
+      "store": 39,
+      "storeSize": 160936,
+      "storeType": "C",
+      "temperature": 48.25,
+      "unemployment": 9.7394,
+      "weeklySales": 2486746.94
+    },
+    "_id": "5821541ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-07-07 01:16:48"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 207.377578,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.8,
+      "regionalFuelPrice": 2.7139,
+      "store": 25,
+      "storeSize": 68360,
+      "storeType": "B",
+      "temperature": 38.78,
+      "unemployment": 11.0381,
+      "weeklySales": 1984075.13
+    },
+    "_id": "5114267ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-10-20 12:54:20"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 231.291578,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.2,
+      "regionalFuelPrice": 2.1119,
+      "store": 47,
+      "storeSize": 248914,
+      "storeType": "A",
+      "temperature": 32.15,
+      "unemployment": 5.1833,
+      "weeklySales": 2967226.54
+    },
+    "_id": "8896790ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-07-28 22:21:44"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 193.499757,
+      "date": "2/19/10",
+      "isHoliday": true,
+      "markdown": 0.3,
+      "regionalFuelPrice": 2.4669,
+      "store": 28,
+      "storeSize": 160147,
+      "storeType": "A",
+      "temperature": 44.86,
+      "unemployment": 8.8816,
+      "weeklySales": 1168600.65
+    },
+    "_id": "1865617ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-11-17 07:59:02"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 171.882899,
+      "date": "2/19/10",
+      "isHoliday": true,
+      "markdown": 0.2,
+      "regionalFuelPrice": 2.4529,
+      "store": 24,
+      "storeSize": 170474,
+      "storeType": "A",
+      "temperature": 16.72,
+      "unemployment": 5.8368,
+      "weeklySales": 1329389.78
+    },
+    "_id": "2108699ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2019-04-24 08:16:29"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 293.972435,
+      "date": "2/19/10",
+      "isHoliday": true,
+      "markdown": 0.2,
+      "regionalFuelPrice": 2.2125,
+      "store": 6,
+      "storeSize": 210016,
+      "storeType": "C",
+      "temperature": 41.39,
+      "unemployment": 7.5768,
+      "weeklySales": 2812261.19
+    },
+    "_id": "1326800ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-10-02 17:52:15"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 172.170051,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.8,
+      "regionalFuelPrice": 2.5619,
+      "store": 46,
+      "storeSize": 67030,
+      "storeType": "A",
+      "temperature": 35.54,
+      "unemployment": 8.469,
+      "weeklySales": 514109.3
+    },
+    "_id": "5254015ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-07-29 20:37:33"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 211.407949,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.4,
+      "regionalFuelPrice": 2.8373,
+      "store": 19,
+      "storeSize": 108883,
+      "storeType": "A",
+      "temperature": 13.23,
+      "unemployment": 12.8172,
+      "weeklySales": 938263.34
+    },
+    "_id": "1399646ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-06-21 02:55:28"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 239.946495,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.5,
+      "regionalFuelPrice": 2.9693,
+      "store": 15,
+      "storeSize": 194096,
+      "storeType": "B",
+      "temperature": 38.2,
+      "unemployment": 11.4191,
+      "weeklySales": 718370.96
+    },
+    "_id": "9670732ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-04-09 02:41:16"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 259.943901,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.9,
+      "regionalFuelPrice": 2.2181,
+      "store": 13,
+      "storeSize": 81579,
+      "storeType": "B",
+      "temperature": 31.92,
+      "unemployment": 11.3444,
+      "weeklySales": 2358032.35
+    },
+    "_id": "5560199ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-02-10 22:46:36"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 244.528748,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.8,
+      "regionalFuelPrice": 2.5365,
+      "store": 34,
+      "storeSize": 125345,
+      "storeType": "A",
+      "temperature": 21.34,
+      "unemployment": 7.6452,
+      "weeklySales": 2386712.51
+    },
+    "_id": "2676464ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2017-01-23 11:31:48"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 211.142544,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 1,
+      "regionalFuelPrice": 2.21,
+      "store": 8,
+      "storeSize": 142257,
+      "storeType": "A",
+      "temperature": 50.66,
+      "unemployment": 7.5884,
+      "weeklySales": 1287541.53
+    },
+    "_id": "9199491ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2017-07-30 14:49:30"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 273.810529,
+      "date": "2/19/10",
+      "isHoliday": true,
+      "markdown": 0.3,
+      "regionalFuelPrice": 2.3329,
+      "store": 37,
+      "storeSize": 75329,
+      "storeType": "A",
+      "temperature": 49.4,
+      "unemployment": 6.5709,
+      "weeklySales": 2620412.66
+    },
+    "_id": "4206202ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-04-08 18:22:31"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 268.17518,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.5,
+      "regionalFuelPrice": 2.9895,
+      "store": 17,
+      "storeSize": 186565,
+      "storeType": "C",
+      "temperature": 16.16,
+      "unemployment": 8.4348,
+      "weeklySales": 2294345.37
+    },
+    "_id": "9443143ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-06-26 21:56:59"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 279.768196,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.1,
+      "regionalFuelPrice": 2.3598,
+      "store": 17,
+      "storeSize": 111409,
+      "storeType": "C",
+      "temperature": 18.19,
+      "unemployment": 12.7021,
+      "weeklySales": 2748814.47
+    },
+    "_id": "3850815ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2017-09-27 13:01:33"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 283.378782,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 1,
+      "regionalFuelPrice": 2.0206,
+      "store": 1,
+      "storeSize": 228948,
+      "storeType": "B",
+      "temperature": 24.1,
+      "unemployment": 10.0405,
+      "weeklySales": 976683.04
+    },
+    "_id": "4607516ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2017-10-28 16:24:32"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 278.069152,
+      "date": "2/19/10",
+      "isHoliday": true,
+      "markdown": 0.4,
+      "regionalFuelPrice": 2.8651,
+      "store": 26,
+      "storeSize": 211355,
+      "storeType": "B",
+      "temperature": 38.58,
+      "unemployment": 9.0472,
+      "weeklySales": 1883164.1
+    },
+    "_id": "7328495ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-10-24 04:02:43"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 261.105399,
+      "date": "2/19/10",
+      "isHoliday": true,
+      "markdown": 0.1,
+      "regionalFuelPrice": 2.9067,
+      "store": 24,
+      "storeSize": 194853,
+      "storeType": "C",
+      "temperature": 32.18,
+      "unemployment": 12.3974,
+      "weeklySales": 1641879.23
+    },
+    "_id": "6332685ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-07-07 17:32:23"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 276.388611,
+      "date": "2/19/10",
+      "isHoliday": true,
+      "markdown": 0,
+      "regionalFuelPrice": 2.5911,
+      "store": 21,
+      "storeSize": 194121,
+      "storeType": "C",
+      "temperature": 21.39,
+      "unemployment": 11.3056,
+      "weeklySales": 1827348.79
+    },
+    "_id": "2698203ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-08-27 00:26:55"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 278.139722,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.5,
+      "regionalFuelPrice": 2.5429,
+      "store": 42,
+      "storeSize": 91676,
+      "storeType": "B",
+      "temperature": 12.77,
+      "unemployment": 11.8138,
+      "weeklySales": 2512746.37
+    },
+    "_id": "8018134ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2019-01-04 23:46:38"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 174.502874,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.9,
+      "regionalFuelPrice": 2.8985,
+      "store": 24,
+      "storeSize": 146625,
+      "storeType": "B",
+      "temperature": 30.59,
+      "unemployment": 5.4492,
+      "weeklySales": 2633582.4
+    },
+    "_id": "7741804ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-11-07 02:30:17"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 200.306132,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.9,
+      "regionalFuelPrice": 2.2715,
+      "store": 20,
+      "storeSize": 135260,
+      "storeType": "A",
+      "temperature": 25.36,
+      "unemployment": 9.8042,
+      "weeklySales": 1269947.33
+    },
+    "_id": "4754643ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2017-07-06 22:03:57"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 253.683499,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.2,
+      "regionalFuelPrice": 2.7436,
+      "store": 49,
+      "storeSize": 105677,
+      "storeType": "A",
+      "temperature": 36.25,
+      "unemployment": 11.5775,
+      "weeklySales": 1734613.4
+    },
+    "_id": "6926546ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-04-23 01:32:39"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 252.497061,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.2,
+      "regionalFuelPrice": 2.2558,
+      "store": 13,
+      "storeSize": 51025,
+      "storeType": "C",
+      "temperature": 22.66,
+      "unemployment": 6.7455,
+      "weeklySales": 2119517.16
+    },
+    "_id": "2176543ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-08-11 23:29:13"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 184.466489,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.2,
+      "regionalFuelPrice": 2.7902,
+      "store": 46,
+      "storeSize": 225148,
+      "storeType": "B",
+      "temperature": 35.06,
+      "unemployment": 11.4216,
+      "weeklySales": 2813423.37
+    },
+    "_id": "7440307ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-04-21 11:40:42"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 287.158972,
+      "date": "2/19/10",
+      "isHoliday": true,
+      "markdown": 0.3,
+      "regionalFuelPrice": 2.3362,
+      "store": 38,
+      "storeSize": 154983,
+      "storeType": "B",
+      "temperature": 13.9,
+      "unemployment": 5.4906,
+      "weeklySales": 857764.13
+    },
+    "_id": "3228933ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2019-05-01 22:03:50"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 213.949945,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.5,
+      "regionalFuelPrice": 2.3719,
+      "store": 44,
+      "storeSize": 145019,
+      "storeType": "B",
+      "temperature": 51.56,
+      "unemployment": 5.5974,
+      "weeklySales": 1076887.36
+    },
+    "_id": "4121845ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-03-12 04:27:48"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 219.504153,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 1,
+      "regionalFuelPrice": 2.0421,
+      "store": 6,
+      "storeSize": 191268,
+      "storeType": "B",
+      "temperature": 52.25,
+      "unemployment": 7.1988,
+      "weeklySales": 1805035.99
+    },
+    "_id": "2166654ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-12-06 19:24:41"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 208.672467,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0,
+      "regionalFuelPrice": 2.5344,
+      "store": 39,
+      "storeSize": 180547,
+      "storeType": "B",
+      "temperature": 38.92,
+      "unemployment": 8.8205,
+      "weeklySales": 1040344.06
+    },
+    "_id": "5948617ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-09-20 22:15:06"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 220.306147,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.5,
+      "regionalFuelPrice": 2.6477,
+      "store": 50,
+      "storeSize": 174862,
+      "storeType": "A",
+      "temperature": 55.47,
+      "unemployment": 8.1144,
+      "weeklySales": 2614114.26
+    },
+    "_id": "5426149ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-11-10 00:58:45"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 194.160594,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0,
+      "regionalFuelPrice": 2.0682,
+      "store": 4,
+      "storeSize": 141969,
+      "storeType": "C",
+      "temperature": 16.46,
+      "unemployment": 8.1947,
+      "weeklySales": 1593002.61
+    },
+    "_id": "5674764ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-09-12 11:17:43"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 283.592969,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.9,
+      "regionalFuelPrice": 2.3729,
+      "store": 36,
+      "storeSize": 73416,
+      "storeType": "B",
+      "temperature": 18.56,
+      "unemployment": 12.2461,
+      "weeklySales": 1892350.58
+    },
+    "_id": "1213833ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2017-08-30 05:46:16"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 188.872378,
+      "date": "2/19/10",
+      "isHoliday": true,
+      "markdown": 0.2,
+      "regionalFuelPrice": 2.6539,
+      "store": 19,
+      "storeSize": 198414,
+      "storeType": "A",
+      "temperature": 46.66,
+      "unemployment": 10.7486,
+      "weeklySales": 2430253.72
+    },
+    "_id": "6735614ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-03-19 12:18:34"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 184.262317,
+      "date": "2/19/10",
+      "isHoliday": true,
+      "markdown": 1,
+      "regionalFuelPrice": 2.2133,
+      "store": 43,
+      "storeSize": 241712,
+      "storeType": "A",
+      "temperature": 15.2,
+      "unemployment": 11.8386,
+      "weeklySales": 1887472.25
+    },
+    "_id": "9032850ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-02-01 07:35:22"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 244.307177,
+      "date": "2/19/10",
+      "isHoliday": true,
+      "markdown": 0.2,
+      "regionalFuelPrice": 2.6186,
+      "store": 14,
+      "storeSize": 127509,
+      "storeType": "C",
+      "temperature": 26.95,
+      "unemployment": 11.7463,
+      "weeklySales": 829513.74
+    },
+    "_id": "5955919ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-11-07 01:35:21"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 182.553255,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.2,
+      "regionalFuelPrice": 2.8156,
+      "store": 2,
+      "storeSize": 157325,
+      "storeType": "A",
+      "temperature": 16.32,
+      "unemployment": 7.5726,
+      "weeklySales": 2463764.35
+    },
+    "_id": "2206699ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-04-17 14:10:47"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 157.561399,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.8,
+      "regionalFuelPrice": 2.7187,
+      "store": 4,
+      "storeSize": 241500,
+      "storeType": "C",
+      "temperature": 38.74,
+      "unemployment": 7.3534,
+      "weeklySales": 1489046.35
+    },
+    "_id": "8913050ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2017-11-03 13:57:34"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 237.522247,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.5,
+      "regionalFuelPrice": 2.9971,
+      "store": 2,
+      "storeSize": 125841,
+      "storeType": "B",
+      "temperature": 14.47,
+      "unemployment": 9.2584,
+      "weeklySales": 1919969.5
+    },
+    "_id": "4299534ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-08-24 10:59:05"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 226.64342,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.6,
+      "regionalFuelPrice": 2.2901,
+      "store": 37,
+      "storeSize": 131123,
+      "storeType": "C",
+      "temperature": 28.49,
+      "unemployment": 5.4714,
+      "weeklySales": 2642341.94
+    },
+    "_id": "5603847ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-12-05 23:23:58"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 272.006144,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.1,
+      "regionalFuelPrice": 2.0966,
+      "store": 48,
+      "storeSize": 82099,
+      "storeType": "B",
+      "temperature": 17.94,
+      "unemployment": 6.8939,
+      "weeklySales": 2557149.94
+    },
+    "_id": "9305079ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2019-03-21 14:46:21"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 199.129188,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.9,
+      "regionalFuelPrice": 2.9226,
+      "store": 8,
+      "storeSize": 215748,
+      "storeType": "C",
+      "temperature": 20.47,
+      "unemployment": 12.074,
+      "weeklySales": 1343403.8
+    },
+    "_id": "9853824ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-07-08 22:48:21"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 266.412759,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.5,
+      "regionalFuelPrice": 2.9194,
+      "store": 2,
+      "storeSize": 139487,
+      "storeType": "A",
+      "temperature": 12.61,
+      "unemployment": 11.9081,
+      "weeklySales": 2418684.87
+    },
+    "_id": "9200834ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-12-15 08:23:33"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 152.508566,
+      "date": "2/19/10",
+      "isHoliday": true,
+      "markdown": 0.2,
+      "regionalFuelPrice": 2.2897,
+      "store": 37,
+      "storeSize": 185322,
+      "storeType": "C",
+      "temperature": 35.45,
+      "unemployment": 8.8302,
+      "weeklySales": 2305493.03
+    },
+    "_id": "5018500ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-11-08 02:28:59"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 182.853027,
+      "date": "2/19/10",
+      "isHoliday": false,
+      "markdown": 0.9,
+      "regionalFuelPrice": 2.5515,
+      "store": 32,
+      "storeSize": 109614,
+      "storeType": "C",
+      "temperature": 47.69,
+      "unemployment": 9.2645,
+      "weeklySales": 856384.63
+    },
+    "_id": "2675011ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-12-27 19:14:07"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 164.449402,
+      "date": "2/19/10",
+      "isHoliday": true,
+      "markdown": 0.1,
+      "regionalFuelPrice": 2.7563,
+      "store": 42,
+      "storeSize": 55411,
+      "storeType": "A",
+      "temperature": 31.93,
+      "unemployment": 12.8522,
+      "weeklySales": 2755502.48
+    },
+    "_id": "9222526ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-01-09 00:20:34"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 168.327974,
+      "date": "2/26/10",
+      "isHoliday": false,
+      "markdown": 0.7,
+      "regionalFuelPrice": 2.2825,
+      "store": 22,
+      "storeSize": 182241,
+      "storeType": "C",
+      "temperature": 14.69,
+      "unemployment": 7.4875,
+      "weeklySales": 2558493.68
+    },
+    "_id": "2099117ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-11-28 06:23:50"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 251.978552,
+      "date": "2/26/10",
+      "isHoliday": false,
+      "markdown": 0.4,
+      "regionalFuelPrice": 2.2589,
+      "store": 48,
+      "storeSize": 123256,
+      "storeType": "A",
+      "temperature": 22.92,
+      "unemployment": 5.761,
+      "weeklySales": 862613.94
+    },
+    "_id": "2378255ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-10-03 08:18:39"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 273.078005,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0.4,
+      "regionalFuelPrice": 2.4335,
+      "store": 19,
+      "storeSize": 71868,
+      "storeType": "B",
+      "temperature": 10.59,
+      "unemployment": 10.8818,
+      "weeklySales": 2463484.43
+    },
+    "_id": "8266345ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-06-21 01:05:27"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 251.750324,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0.4,
+      "regionalFuelPrice": 2.2147,
+      "store": 30,
+      "storeSize": 229844,
+      "storeType": "B",
+      "temperature": 52.66,
+      "unemployment": 9.488,
+      "weeklySales": 1092160.6
+    },
+    "_id": "1903325ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-08-01 07:59:33"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 213.189008,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0.8,
+      "regionalFuelPrice": 2.616,
+      "store": 33,
+      "storeSize": 207780,
+      "storeType": "C",
+      "temperature": 32.12,
+      "unemployment": 12.885,
+      "weeklySales": 2308743.85
+    },
+    "_id": "5535227ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-08-04 11:30:47"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 195.336733,
+      "date": "2/26/10",
+      "isHoliday": false,
+      "markdown": 0.8,
+      "regionalFuelPrice": 2.8748,
+      "store": 45,
+      "storeSize": 127831,
+      "storeType": "B",
+      "temperature": 52.77,
+      "unemployment": 11.2986,
+      "weeklySales": 2028937.44
+    },
+    "_id": "1875409ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-10-22 06:58:57"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 160.029798,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0.5,
+      "regionalFuelPrice": 2.164,
+      "store": 9,
+      "storeSize": 143699,
+      "storeType": "A",
+      "temperature": 10.64,
+      "unemployment": 12.7558,
+      "weeklySales": 2949750.31
+    },
+    "_id": "6736951ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-10-22 01:18:49"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 280.913691,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0.1,
+      "regionalFuelPrice": 2.6239,
+      "store": 14,
+      "storeSize": 225656,
+      "storeType": "A",
+      "temperature": 14.59,
+      "unemployment": 12.7058,
+      "weeklySales": 1578548.6
+    },
+    "_id": "4772827ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-07-01 11:45:48"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 243.739467,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0.5,
+      "regionalFuelPrice": 2.2622,
+      "store": 4,
+      "storeSize": 226992,
+      "storeType": "B",
+      "temperature": 23.49,
+      "unemployment": 11.4633,
+      "weeklySales": 984380.32
+    },
+    "_id": "3073769ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-09-28 14:15:07"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 194.990373,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0.1,
+      "regionalFuelPrice": 2.1471,
+      "store": 36,
+      "storeSize": 95047,
+      "storeType": "A",
+      "temperature": 36.9,
+      "unemployment": 10.1336,
+      "weeklySales": 1278959.54
+    },
+    "_id": "3971384ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-07-17 01:55:26"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 221.021362,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0.4,
+      "regionalFuelPrice": 2.4814,
+      "store": 46,
+      "storeSize": 54552,
+      "storeType": "C",
+      "temperature": 34.11,
+      "unemployment": 11.9552,
+      "weeklySales": 2168988.85
+    },
+    "_id": "1151031ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-09-24 03:14:42"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 287.844851,
+      "date": "2/26/10",
+      "isHoliday": false,
+      "markdown": 0,
+      "regionalFuelPrice": 2.1541,
+      "store": 2,
+      "storeSize": 214521,
+      "storeType": "C",
+      "temperature": 25,
+      "unemployment": 8.3468,
+      "weeklySales": 628926.39
+    },
+    "_id": "1501223ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-03-19 21:24:22"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 222.497566,
+      "date": "2/26/10",
+      "isHoliday": false,
+      "markdown": 0.6,
+      "regionalFuelPrice": 2.5348,
+      "store": 45,
+      "storeSize": 72961,
+      "storeType": "B",
+      "temperature": 14.31,
+      "unemployment": 11.3049,
+      "weeklySales": 2749816.43
+    },
+    "_id": "2003424ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-12-15 18:01:29"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 223.493212,
+      "date": "2/26/10",
+      "isHoliday": false,
+      "markdown": 0.1,
+      "regionalFuelPrice": 2.3628,
+      "store": 37,
+      "storeSize": 130281,
+      "storeType": "A",
+      "temperature": 22.62,
+      "unemployment": 10.3049,
+      "weeklySales": 2536737.58
+    },
+    "_id": "3474844ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-06-09 21:13:31"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 295.336117,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0.4,
+      "regionalFuelPrice": 2.9214,
+      "store": 47,
+      "storeSize": 59432,
+      "storeType": "A",
+      "temperature": 51.32,
+      "unemployment": 11.5066,
+      "weeklySales": 892391.11
+    },
+    "_id": "7509876ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-10-28 10:46:48"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 298.740992,
+      "date": "2/26/10",
+      "isHoliday": false,
+      "markdown": 0.7,
+      "regionalFuelPrice": 2.0162,
+      "store": 43,
+      "storeSize": 145161,
+      "storeType": "A",
+      "temperature": 45.85,
+      "unemployment": 9.62,
+      "weeklySales": 1957905.1
+    },
+    "_id": "9479993ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-12-24 02:18:45"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 181.611178,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0.2,
+      "regionalFuelPrice": 2.2814,
+      "store": 29,
+      "storeSize": 229517,
+      "storeType": "B",
+      "temperature": 54.33,
+      "unemployment": 9.5562,
+      "weeklySales": 1261489.62
+    },
+    "_id": "3320637ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-09-07 15:11:04"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 243.996098,
+      "date": "2/26/10",
+      "isHoliday": false,
+      "markdown": 0,
+      "regionalFuelPrice": 2.0939,
+      "store": 34,
+      "storeSize": 117420,
+      "storeType": "B",
+      "temperature": 36.5,
+      "unemployment": 12.1144,
+      "weeklySales": 1139238.42
+    },
+    "_id": "3960102ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-07-05 17:06:16"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 215.614421,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0,
+      "regionalFuelPrice": 2.008,
+      "store": 27,
+      "storeSize": 159019,
+      "storeType": "A",
+      "temperature": 52.08,
+      "unemployment": 10.4148,
+      "weeklySales": 2831151.56
+    },
+    "_id": "2533620ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-09-09 09:28:50"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 284.619705,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0.7,
+      "regionalFuelPrice": 2.7883,
+      "store": 42,
+      "storeSize": 158161,
+      "storeType": "A",
+      "temperature": 41.65,
+      "unemployment": 12.3578,
+      "weeklySales": 1630990.44
+    },
+    "_id": "5765221ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-07-17 12:48:16"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 225.084058,
+      "date": "2/26/10",
+      "isHoliday": false,
+      "markdown": 0.4,
+      "regionalFuelPrice": 2.8265,
+      "store": 31,
+      "storeSize": 132165,
+      "storeType": "C",
+      "temperature": 25.92,
+      "unemployment": 5.4108,
+      "weeklySales": 1839216.18
+    },
+    "_id": "6864708ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-10-16 13:07:28"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 203.828786,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0.1,
+      "regionalFuelPrice": 2.7785,
+      "store": 8,
+      "storeSize": 153868,
+      "storeType": "A",
+      "temperature": 27.44,
+      "unemployment": 11.1482,
+      "weeklySales": 2052078.44
+    },
+    "_id": "2138293ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-08-08 22:35:15"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 183.791137,
+      "date": "2/26/10",
+      "isHoliday": false,
+      "markdown": 0.4,
+      "regionalFuelPrice": 2.5585,
+      "store": 40,
+      "storeSize": 126526,
+      "storeType": "A",
+      "temperature": 34.2,
+      "unemployment": 7.9815,
+      "weeklySales": 2696705.35
+    },
+    "_id": "8161759ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-12-08 22:16:56"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 268.474202,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0,
+      "regionalFuelPrice": 2.1919,
+      "store": 40,
+      "storeSize": 215398,
+      "storeType": "A",
+      "temperature": 30.42,
+      "unemployment": 11.25,
+      "weeklySales": 2418480.21
+    },
+    "_id": "7000446ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-02-14 11:01:33"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 236.188049,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0.8,
+      "regionalFuelPrice": 2.6765,
+      "store": 4,
+      "storeSize": 236115,
+      "storeType": "B",
+      "temperature": 25.18,
+      "unemployment": 11.9906,
+      "weeklySales": 1232949.37
+    },
+    "_id": "7103283ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-03-09 21:19:02"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 207.263859,
+      "date": "2/26/10",
+      "isHoliday": false,
+      "markdown": 0.3,
+      "regionalFuelPrice": 2.3125,
+      "store": 39,
+      "storeSize": 186399,
+      "storeType": "B",
+      "temperature": 34.74,
+      "unemployment": 12.7571,
+      "weeklySales": 891264.06
+    },
+    "_id": "9356279ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-12-25 01:18:53"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 164.047671,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0.6,
+      "regionalFuelPrice": 2.8239,
+      "store": 40,
+      "storeSize": 66231,
+      "storeType": "A",
+      "temperature": 16.3,
+      "unemployment": 5.3621,
+      "weeklySales": 1778015.93
+    },
+    "_id": "3510645ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-12-04 05:23:32"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 211.477974,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0.9,
+      "regionalFuelPrice": 2.052,
+      "store": 39,
+      "storeSize": 168877,
+      "storeType": "B",
+      "temperature": 34.37,
+      "unemployment": 10.5818,
+      "weeklySales": 805796.32
+    },
+    "_id": "1715628ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2019-04-21 12:08:41"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 270.665488,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0.7,
+      "regionalFuelPrice": 2.3217,
+      "store": 23,
+      "storeSize": 171445,
+      "storeType": "B",
+      "temperature": 30.45,
+      "unemployment": 12.6602,
+      "weeklySales": 2984175.69
+    },
+    "_id": "5392948ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-12-26 12:31:54"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 238.762643,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0.2,
+      "regionalFuelPrice": 2.4055,
+      "store": 30,
+      "storeSize": 119753,
+      "storeType": "B",
+      "temperature": 20.58,
+      "unemployment": 7.9484,
+      "weeklySales": 2482353.24
+    },
+    "_id": "3362685ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2019-01-29 15:47:03"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 186.39984,
+      "date": "2/26/10",
+      "isHoliday": false,
+      "markdown": 0.8,
+      "regionalFuelPrice": 2.5799,
+      "store": 32,
+      "storeSize": 169545,
+      "storeType": "B",
+      "temperature": 16.23,
+      "unemployment": 7.4024,
+      "weeklySales": 926999.41
+    },
+    "_id": "7324101ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-05-23 04:12:35"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 266.367472,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0.5,
+      "regionalFuelPrice": 2.2573,
+      "store": 29,
+      "storeSize": 242209,
+      "storeType": "C",
+      "temperature": 14.05,
+      "unemployment": 9.214,
+      "weeklySales": 719392.04
+    },
+    "_id": "2333244ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-08-13 11:27:53"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 261.851387,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0.1,
+      "regionalFuelPrice": 2.9254,
+      "store": 24,
+      "storeSize": 157364,
+      "storeType": "A",
+      "temperature": 51.09,
+      "unemployment": 8.9806,
+      "weeklySales": 2416275.21
+    },
+    "_id": "3604455ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-11-04 20:56:37"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 272.459088,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0.7,
+      "regionalFuelPrice": 2.7893,
+      "store": 44,
+      "storeSize": 124216,
+      "storeType": "B",
+      "temperature": 14.67,
+      "unemployment": 9.0112,
+      "weeklySales": 1490008.71
+    },
+    "_id": "5810379ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-08-21 16:27:05"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 214.891899,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0.2,
+      "regionalFuelPrice": 2.8489,
+      "store": 28,
+      "storeSize": 192804,
+      "storeType": "B",
+      "temperature": 50.95,
+      "unemployment": 12.0966,
+      "weeklySales": 1849084.29
+    },
+    "_id": "4665203ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-05-27 00:40:37"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 169.971644,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0.4,
+      "regionalFuelPrice": 2.9037,
+      "store": 21,
+      "storeSize": 86204,
+      "storeType": "C",
+      "temperature": 23.72,
+      "unemployment": 8.8226,
+      "weeklySales": 1522901.04
+    },
+    "_id": "2698516ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-09-19 11:54:58"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 180.357642,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0.3,
+      "regionalFuelPrice": 2.0224,
+      "store": 4,
+      "storeSize": 143010,
+      "storeType": "B",
+      "temperature": 49.62,
+      "unemployment": 12.0978,
+      "weeklySales": 2216883.96
+    },
+    "_id": "4127500ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2014-12-17 10:15:24"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 170.238901,
+      "date": "2/26/10",
+      "isHoliday": false,
+      "markdown": 0.5,
+      "regionalFuelPrice": 2.2752,
+      "store": 5,
+      "storeSize": 107510,
+      "storeType": "C",
+      "temperature": 47.32,
+      "unemployment": 12.4228,
+      "weeklySales": 1314834.95
+    },
+    "_id": "8037002ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-07-21 15:21:35"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 230.632855,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0.6,
+      "regionalFuelPrice": 2.4308,
+      "store": 37,
+      "storeSize": 73236,
+      "storeType": "B",
+      "temperature": 50.5,
+      "unemployment": 7.1198,
+      "weeklySales": 2717757.85
+    },
+    "_id": "2562491ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2017-03-26 21:55:24"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 171.439587,
+      "date": "2/26/10",
+      "isHoliday": false,
+      "markdown": 0,
+      "regionalFuelPrice": 2.9726,
+      "store": 26,
+      "storeSize": 183601,
+      "storeType": "A",
+      "temperature": 29.04,
+      "unemployment": 7.0697,
+      "weeklySales": 1591543.52
+    },
+    "_id": "9733070ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-04-12 03:44:38"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 170.16132,
+      "date": "2/26/10",
+      "isHoliday": false,
+      "markdown": 0.8,
+      "regionalFuelPrice": 2.3571,
+      "store": 41,
+      "storeSize": 231182,
+      "storeType": "B",
+      "temperature": 39.91,
+      "unemployment": 7.6628,
+      "weeklySales": 2425179.12
+    },
+    "_id": "2135081ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-03-28 06:43:13"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 248.186603,
+      "date": "2/26/10",
+      "isHoliday": false,
+      "markdown": 1,
+      "regionalFuelPrice": 2.6588,
+      "store": 42,
+      "storeSize": 108620,
+      "storeType": "A",
+      "temperature": 26.25,
+      "unemployment": 7.9221,
+      "weeklySales": 1258218.55
+    },
+    "_id": "1097572ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2016-04-19 00:04:59"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 251.383385,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0.7,
+      "regionalFuelPrice": 2.0159,
+      "store": 47,
+      "storeSize": 218909,
+      "storeType": "C",
+      "temperature": 48.87,
+      "unemployment": 8.3698,
+      "weeklySales": 854210.34
+    },
+    "_id": "5381583ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2015-07-29 00:16:03"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 191.25596,
+      "date": "2/26/10",
+      "isHoliday": true,
+      "markdown": 0.3,
+      "regionalFuelPrice": 2.5042,
+      "store": 21,
+      "storeSize": 233823,
+      "storeType": "B",
+      "temperature": 23.96,
+      "unemployment": 8.8737,
+      "weeklySales": 1837206.58
+    },
+    "_id": "4083280ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2019-03-01 02:30:24"
+  },
+  {
+    "_int_acpmltestexternal": {
+      "cpi": 178.330736,
+      "date": "2/26/10",
+      "isHoliday": false,
+      "markdown": 0.5,
+      "regionalFuelPrice": 2.188,
+      "store": 18,
+      "storeSize": 63958,
+      "storeType": "B",
+      "temperature": 55.53,
+      "unemployment": 12.548,
+      "weeklySales": 1496724.19
+    },
+    "_id": "5316532ID",
+    "eventType": "E2E Tests",
+    "timestamp": "2018-05-24 11:39:50"
+  }
+]
