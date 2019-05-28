@@ -1,0 +1,1302 @@
+[
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "8282409ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2015-10-01 13:46:29"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "8597552ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2014-11-04 02:12:21"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "9912790ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2016-07-17 00:43:52"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "1615452ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2017-03-18 05:48:53"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "4865165ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2018-12-25 05:39:48"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "2246314ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2017-11-14 20:00:41"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "9734066ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2014-04-26 11:56:47"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "3306832ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2017-01-17 08:11:30"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "6902580ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2015-09-16 22:52:41"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "8032593ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2014-08-20 00:14:15"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "9558299ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2015-11-27 08:08:39"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "8257269ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2018-01-03 22:34:15"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "7624186ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2015-05-29 19:52:05"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "6659534ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2014-06-03 05:37:17"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "5515573ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2017-10-11 08:44:01"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "2617871ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2015-01-17 06:44:38"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "5474047ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2015-12-04 20:33:56"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "8972466ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2016-02-02 08:55:43"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "8318182ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2018-08-10 13:23:45"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "8408981ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2015-08-29 08:02:39"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "2835229ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2017-04-09 02:03:28"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "7596660ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2017-02-01 05:08:17"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "4952599ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2014-05-08 12:02:17"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "6088096ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2016-03-05 11:29:11"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "4679428ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2016-05-06 22:09:27"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "2525560ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2016-11-15 20:42:10"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "1836232ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2017-05-26 06:49:09"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "4816578ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2015-04-18 01:10:47"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "9898362ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2018-11-07 07:22:11"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "5817422ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2015-04-06 00:13:05"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "1394945ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2018-06-05 08:27:25"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "8997478ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2018-02-25 08:34:05"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "8832389ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2017-02-28 00:01:10"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "8451865ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2014-01-07 11:10:39"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "4284082ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2016-11-28 05:56:40"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "6568325ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2014-01-19 11:50:31"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "1431127ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2016-05-23 04:38:47"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "3550149ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2016-01-09 07:08:30"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "4715552ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2017-08-19 04:35:42"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "7593921ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2017-08-31 03:42:24"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "7904757ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2019-04-23 03:15:40"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "8002163ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2014-08-02 08:50:58"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "8248409ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2016-03-26 06:55:58"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "2524691ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2014-04-18 22:53:04"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "4179427ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2014-08-07 14:31:22"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "3418324ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2014-03-01 09:23:51"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "3516837ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2017-05-26 14:32:23"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "4763769ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2015-11-11 17:48:34"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "3804107ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2018-08-28 22:27:14"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "2476744ID",
+    "eventType": "Experience Event",
+    "identityMap": [
+      {
+        "EMAIL": [
+          {
+            "xdm:id": 1918190
+          },
+          {
+            "xdm:id": 234898
+          }
+        ],
+        "CRM": [
+          {
+            "xdm:id": 1918190,
+            "xdm:authenticatedState": "authenticated"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2015-12-20 06:53:02"
+  }
+]
