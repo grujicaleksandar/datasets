@@ -1,0 +1,1252 @@
+[
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "6283229ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2017-10-21 22:25:32"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "9833894ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2018-07-03 06:53:40"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "3523407ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2016-03-13 03:00:05"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "1418513ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2015-09-07 05:15:49"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "8183087ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2014-07-18 18:07:37"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "8339257ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2019-04-02 05:54:28"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "1838057ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2015-03-22 13:11:05"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "1515743ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2014-03-12 04:26:05"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "6238498ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2014-12-30 23:31:02"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "3456376ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2016-01-12 05:25:27"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "4957290ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2015-12-02 11:23:17"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "9203735ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2018-05-03 14:34:12"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "6235363ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2019-04-27 02:51:26"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "6376051ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2017-12-22 11:42:43"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "2119647ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2015-11-27 23:14:01"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "4056065ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2014-11-12 23:29:05"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "1154505ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2014-08-07 10:11:12"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "7601151ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2017-04-03 06:31:28"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "3670935ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2017-09-09 14:55:57"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "7567457ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2016-08-06 03:16:05"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "3307468ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2016-07-01 22:20:34"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "4580478ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2018-12-29 04:28:32"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "2564408ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2018-12-04 14:07:17"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "8334480ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2016-03-24 06:05:34"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "9005114ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2017-07-19 02:10:44"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "4739382ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2017-08-30 11:27:02"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "7375103ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2016-08-25 10:00:24"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "9522633ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2018-11-23 01:34:25"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "1405053ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2016-03-15 01:50:15"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "1272825ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2017-03-12 02:23:51"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "5947523ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2018-10-21 06:22:30"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "2892155ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2016-10-28 21:54:09"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "8625139ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2019-05-01 03:19:08"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "8794472ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2018-10-21 17:51:36"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "6211209ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2016-01-07 14:45:06"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "1899576ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2019-04-20 05:00:12"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "2870475ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2018-04-09 00:30:02"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "1043977ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2015-05-05 02:19:27"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "7113471ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2017-06-08 06:37:22"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "8792237ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2016-02-18 23:04:02"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "8456597ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2017-04-05 03:16:09"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "5780789ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2016-04-14 02:25:21"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "6635401ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2017-03-17 08:39:38"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "1309245ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2014-01-27 12:20:49"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "6902681ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2018-09-09 02:28:28"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "7739824ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2016-04-03 23:46:40"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "5728958ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2018-01-08 11:40:13"
+  },
+  {
+    "marketing": {
+      "trackingCode": "19098701xc"
+    },
+    "_id": "9123220ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2017-09-13 04:38:57"
+  },
+  {
+    "marketing": {
+      "trackingCode": "18971098xd"
+    },
+    "_id": "8160953ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2018-11-05 02:02:18"
+  },
+  {
+    "marketing": {
+      "trackingCode": "12789120xa"
+    },
+    "_id": "9217162ID",
+    "eventType": "Experience Event",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": 1015529164496521
+        }
+      ],
+      "EMAIL": [
+        {
+          "id": "prorecords@adobe.com"
+        }
+      ],
+      "CRMID": [
+        {
+          "id": "prorecords@CRMID"
+        }
+      ]
+    },
+    "timestamp": "2017-12-08 02:39:51"
+  }
+]
